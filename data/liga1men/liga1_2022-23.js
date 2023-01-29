@@ -1599,4 +1599,4 @@ const matches = {
   ]
 }
 
-export default matches;
+module.exports = matches;
