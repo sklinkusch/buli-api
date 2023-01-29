@@ -1,5 +1,6 @@
 # Additional sources
 node_modules
+.next
 
 # lock files
 package-lock.json
