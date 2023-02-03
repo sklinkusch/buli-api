@@ -848,7 +848,7 @@ const matches = {
   19: [
     {
       teams: ["FCA", "B04"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "03.02.23"
     },
     {
