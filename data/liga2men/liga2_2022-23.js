@@ -873,7 +873,7 @@ const matches = {
     },
     {
       teams: ["SGF", "FCN"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "04.02.23"
     },
     {
