@@ -2,12 +2,18 @@
 const express = require('express');
 const app = express();
 
+// import of middlewares
+const corsHeader = require("./middleware/cors-header");
+
 // match data
 const liga1men = require('./routes/liga1men');
 const liga1women = require('./routes/liga1women');
 
 // specify port for development
 const port = 3500;
+
+// middlewares
+app.use((req, res, next) => corsHeader(req, res, next));
 
 // endpoints
 app.get("/liga1men", (req, res) => liga1men(req, res));
