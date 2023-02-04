@@ -8,6 +8,7 @@ const corsHeader = require("./middleware/cors-header");
 // match data
 const liga1men = require('./routes/liga1men');
 const liga1women = require('./routes/liga1women');
+const liga2men = require("./routes/liga2men");
 
 // specify port for development
 const port = 3500;
@@ -18,6 +19,7 @@ app.use((req, res, next) => corsHeader(req, res, next));
 // endpoints
 app.get("/liga1men", (req, res) => liga1men(req, res));
 app.get("/liga1women", (req, res) => liga1women(req, res));
+app.get("/liga2men", (req, res) => liga2men(req, res));
 
 // default endpoint (is called if none of the others is matched)
 app.all('*', (req, res) => {
