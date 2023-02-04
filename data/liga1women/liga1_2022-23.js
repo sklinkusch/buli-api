@@ -327,7 +327,7 @@ const matches = {
     },
     {
       teams: ["SCF", "WOB"],
-      goals: [null, null],
+      goals: [0, 4],
       date: "04.02.23"
     },
     {
