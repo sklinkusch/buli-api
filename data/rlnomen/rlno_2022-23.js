@@ -765,8 +765,8 @@ const matches = {
     {
       teams: ["BSC2", "CZJ"],
       goals: [1, 0],
-      DATE: "22.01.23"
-    }
+      date: "22.01.23"
+    },
     {
       teams: ["LKL", "SVB"],
       goals: [null, null],
