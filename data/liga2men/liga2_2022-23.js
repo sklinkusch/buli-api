@@ -878,17 +878,17 @@ const matches = {
     },
     {
       teams: ["ROS", "HSV"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "05.02.23"
     },
     {
       teams: ["STP", "H96"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "05.02.23"
     },
     {
       teams: ["FCM", "KSC"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "05.02.23"
     }
   ],
