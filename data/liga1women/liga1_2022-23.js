@@ -337,7 +337,7 @@ const matches = {
     },
     {
       teams: ["HOF", "DUI"],
-      goals: [null, null],
+      goals: [7, 0],
       date: "05.02.23"
     },
     {
