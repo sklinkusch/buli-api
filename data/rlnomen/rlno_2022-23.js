@@ -895,12 +895,12 @@ const matches = {
   20: [
     {
       teams: ["BFC", "CFC"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "10.02.23"
     },
     {
       teams: ["CHL", "LUC"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "10.02.23"
     },
     {
