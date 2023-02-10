@@ -694,14 +694,14 @@ const matches = {
       date: "31.01.23"
     },
     {
-      teams: ["BSC2", "BAK"],
-      goals: [null, null],
-      date: "08.02.23"
-    },
-    {
       teams: ["HBS", "CHL"],
       goals: [null, null],
       date: "15.02.23"
+    },
+    {
+      teams: ["BSC2", "BAK"],
+      goals: [null, null],
+      date: "22.02.23"
     },
   ],
   16: [
