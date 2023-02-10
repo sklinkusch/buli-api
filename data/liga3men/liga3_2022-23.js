@@ -1094,7 +1094,7 @@ const matches = {
   22: [
     {
       teams: ["AUE", "WMA"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "10.02.23"
     },
     {
