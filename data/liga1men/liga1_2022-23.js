@@ -900,27 +900,27 @@ const matches = {
     },
     {
       teams: ["SVW", "BVB"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "11.02.23"
     },
     {
       teams: ["HOF", "B04"],
-      goals: [null, null],
+      goals: [1, 3],
       date: "11.02.23"
     },
     {
       teams: ["FCB", "BOC"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "11.02.23"
     },
     {
       teams: ["M05", "FCA"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "11.02.23"
     },
     {
       teams: ["SCF", "VfB"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "11.02.23"
     },
     {
