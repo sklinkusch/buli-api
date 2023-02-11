@@ -920,7 +920,7 @@ const matches = {
     },
     {
       teams: ["HBS", "BAK"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "11.02.23"
     },
     {
