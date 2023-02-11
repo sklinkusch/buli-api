@@ -920,7 +920,7 @@ const matches = {
     },
     {
       teams: ["FCH", "HSV"],
-      goals: [null, null],
+      goals: [3, 3],
       date: "11.02.23"
     },
     {
