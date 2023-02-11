@@ -359,7 +359,7 @@ const matches = {
     },
     {
       teams: ["FCB", "SGE"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "11.02.23"
     },
     {
