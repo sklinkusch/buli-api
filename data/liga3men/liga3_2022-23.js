@@ -1129,7 +1129,7 @@ const matches = {
     },
     {
       teams: ["FCI", "OSN"],
-      goals: [null, null],
+      goals: [1, 4],
       date: "12.02.23"
     },
     {
