@@ -925,17 +925,17 @@ const matches = {
     },
     {
       teams: ["DÜS", "SVS"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "12.02.23"
     },
     {
       teams: ["D98", "EBS"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "12.02.23"
     },
     {
       teams: ["STP", "FCK"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "12.02.23"
     }
   ],
