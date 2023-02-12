@@ -935,7 +935,7 @@ const matches = {
     },
     {
       teams: ["ERF", "ZFC"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "12.02.23"
     }
   ],
