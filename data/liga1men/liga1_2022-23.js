@@ -930,7 +930,7 @@ const matches = {
     },
     {
       teams: ["BSC", "MGL"],
-      goals: [null, null],
+      goals: [4, 1],
       date: "12.02.23"
     },
     {
