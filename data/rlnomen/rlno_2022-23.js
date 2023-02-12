@@ -925,12 +925,12 @@ const matches = {
     },
     {
       teams: ["GFC", "CZJ"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "12.02.23"
     },
     {
       teams: ["VBL", "BSC2"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "12.02.23"
     },
     {
