@@ -1139,7 +1139,7 @@ const matches = {
     },
     {
       teams: ["VKÖ", "RWE"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "13.02.23"
     }
   ],
