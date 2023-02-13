@@ -909,11 +909,6 @@ const matches = {
       date: "10.02.23"
     },
     {
-      teams: ["ECB", "L47"],
-      goals: [null, null],
-      date: "11.02.23"
-    },
-    {
       teams: ["TBB", "CHL"],
       goals: [null, null],
       date: "11.02.23"
@@ -937,6 +932,11 @@ const matches = {
       teams: ["ERF", "ZFC"],
       goals: [2, 0],
       date: "12.02.23"
+    },
+    {
+      teams: ["ECB", "L47"],
+      goals: [5, 0],
+      date: "13.02.23"
     }
   ],
   21: [
