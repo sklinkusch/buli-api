@@ -353,11 +353,6 @@ const matches = {
   ],
   12: [
     {
-      teams: ["POT", "SVW"],
-      goals: [null, null],
-      date: "10.02.23"
-    },
-    {
       teams: ["FCB", "SGE"],
       goals: [2, 1],
       date: "11.02.23"
@@ -381,6 +376,11 @@ const matches = {
       teams: ["B04", "DUI"],
       goals: [2, 0],
       date: "12.02.23"
+    },
+    {
+      teams: ["POT", "SVW"],
+      goals: [null, null],
+      date: "01.03.23"
     }
   ],
   13: [
