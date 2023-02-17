@@ -942,12 +942,12 @@ const matches = {
   21: [
     {
       teams: ["EBS", "KIE"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "17.02.23"
     },
     {
       teams: ["P07", "FCK"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "17.02.23"
     },
     {
