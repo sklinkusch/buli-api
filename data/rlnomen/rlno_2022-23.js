@@ -774,7 +774,7 @@ const matches = {
     },
     {
       teams: ["VBL", "CFC"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "15.02.23"
     },
     {
