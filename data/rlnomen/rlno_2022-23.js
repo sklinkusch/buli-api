@@ -942,17 +942,17 @@ const matches = {
   21: [
     {
       teams: ["LKL", "GFC"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "17.02.23"
     },
     {
       teams: ["BAK", "ERF"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "17.02.23"
     },
     {
       teams: ["LUC", "AGL"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "17.02.23"
     },
     {
