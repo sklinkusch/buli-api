@@ -695,7 +695,7 @@ const matches = {
     },
     {
       teams: ["HBS", "CHL"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "15.02.23"
     },
     {
