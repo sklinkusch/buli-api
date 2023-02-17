@@ -942,7 +942,7 @@ const matches = {
   21: [
     {
       teams: ["FCA", "HOF"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "17.02.23"
     },
     {
