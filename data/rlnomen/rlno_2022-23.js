@@ -769,7 +769,7 @@ const matches = {
     },
     {
       teams: ["LKL", "SVB"],
-      goals: [null, null],
+      goals: [4, 3],
       date: "14.02.23"
     },
     {
