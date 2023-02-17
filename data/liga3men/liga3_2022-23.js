@@ -1146,7 +1146,7 @@ const matches = {
   23: [
     {
       teams: ["WIE", "AUE"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "17.02.23"
     },
     {
