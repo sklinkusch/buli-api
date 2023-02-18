@@ -967,7 +967,7 @@ const matches = {
     },
     {
       teams: ["ROS", "D98"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "18.02.23"
     },
     {
