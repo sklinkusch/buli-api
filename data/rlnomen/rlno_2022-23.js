@@ -957,12 +957,12 @@ const matches = {
     },
     {
       teams: ["SVB", "VBL"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "18.02.23"
     },
     {
       teams: ["L47", "CHL"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "18.02.23"
     },
     {
