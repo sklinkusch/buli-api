@@ -1151,32 +1151,32 @@ const matches = {
     },
     {
       teams: ["SCF2", "DUI"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "18.02.23"
     },
     {
       teams: ["FCS", "FCI"],
-      goals: [null, null],
+      goals: [3, 4],
       date: "18.02.23"
     },
     {
       teams: ["ZWI", "SVE"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "18.02.23"
     },
     {
       teams: ["DRE", "VKÖ"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "18.02.23"
     },
     {
       teams: ["WMA", "SVM"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "18.02.23"
     },
     {
       teams: ["OSN", "BAY"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "18.02.23"
     },
     {
