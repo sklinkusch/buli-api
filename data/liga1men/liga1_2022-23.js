@@ -947,22 +947,22 @@ const matches = {
     },
     {
       teams: ["MGL", "FCB"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "18.02.23"
     },
     {
       teams: ["WOB", "RBL"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "18.02.23"
     },
     {
       teams: ["BOC", "SCF"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "18.02.23"
     },
     {
       teams: ["VfB", "KÖL"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "18.02.23"
     },
     {
