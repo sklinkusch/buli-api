@@ -1181,7 +1181,7 @@ const matches = {
     },
     {
       teams: ["MÜN", "SCV"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "19.02.23"
     },
     {
