@@ -972,17 +972,17 @@ const matches = {
     },
     {
       teams: ["HSV", "BIE"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "19.02.23"
     },
     {
       teams: ["FCH", "FCN"],
-      goals: [null, null],
+      goals: [5, 0],
       date: "19.02.23"
     },
     {
       teams: ["SVS", "KSC"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "19.02.23"
     }
   ],
