@@ -972,12 +972,12 @@ const matches = {
     },
     {
       teams: ["BSC2", "TBB"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "19.02.23"
     },
     {
       teams: ["CZJ", "BFC"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "19.02.23"
     },
     {
