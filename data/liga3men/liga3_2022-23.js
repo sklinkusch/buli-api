@@ -1191,7 +1191,7 @@ const matches = {
     },
     {
       teams: ["OLD", "HFC"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "20.02.23"
     }
   ],
