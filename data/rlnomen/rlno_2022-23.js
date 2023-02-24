@@ -779,7 +779,7 @@ const matches = {
     },
     {
       teams: ["ERF", "AGL"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "21.02.23"
     },
     {
