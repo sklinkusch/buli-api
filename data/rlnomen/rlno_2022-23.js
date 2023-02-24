@@ -989,12 +989,12 @@ const matches = {
   22: [
     {
       teams: ["TBB", "VBL"],
-      goals: [null, null],
+      goals: [1, 3],
       date: "24.02.23"
     },
     {
       teams: ["AGL", "L47"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "24.02.23"
     },
     {
