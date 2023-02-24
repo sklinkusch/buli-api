@@ -700,7 +700,7 @@ const matches = {
     },
     {
       teams: ["BSC2", "BAK"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "22.02.23"
     },
   ],
