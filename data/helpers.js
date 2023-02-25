@@ -169,11 +169,14 @@ exports.makeTable = (matches) => {
   const teamsSet = new Set(teamsRaw);
   const teams = Array.from(teamsSet);
   const teamData = teams.map((team) => {
-    const ownMatches = Object.values(matches).filter(day => {
-      return day.filter(match => {
-        return match.teams.includes(team) && typeof match.goals[0] === 'number' && typeof match.goals[1] === 'number'
-      })
-    }).flat()
+    const ownMatches = Object.values(matches).reduce((matchArray, day) => {
+      const allTeamMatches = day.filter(match => match.teams.includes(team))
+      const playedTeamMatches = allTeamMatches.filter(match => typeof match.goals[0] === 'number' && typeof match.goals[1] === 'number')
+      if (playedTeamMatches.length > 0) {
+        return matchArray.concat(playedTeamMatches)
+      }
+      return matchArray
+    }, [])
     const points = ownMatches.reduce((pointSum, match) => {
       const index = match.teams.indexOf(team)
       const indexOp = index === 0 ? 1 : index === 1 ? 0 : -1
