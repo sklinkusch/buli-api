@@ -1001,12 +1001,12 @@ const matches = {
     },
     {
       teams: ["ECB", "BAK"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "25.02.23"
     },
     {
       teams: ["GFC", "BSC2"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "25.02.23"
     },
     {
