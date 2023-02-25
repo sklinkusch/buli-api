@@ -996,27 +996,27 @@ const matches = {
     },
     {
       teams: ["HOF", "BVB"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "25.02.23"
     },
     {
       teams: ["RBL", "SGE"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "25.02.23"
     },
     {
       teams: ["KÖL", "WOB"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "25.02.23"
     },
     {
       teams: ["SVW", "BOC"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "25.02.23"
     },
     {
       teams: ["BSC", "FCA"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "25.02.23"
     },
     {
