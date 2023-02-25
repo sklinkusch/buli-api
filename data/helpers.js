@@ -187,6 +187,31 @@ exports.makeTable = (matches) => {
       }
       return pointSum
     }, 0)
+    const omatches = ownMatches.length
+    const victories = ownMatches.reduce((vicSum, match) => {
+      const index = match.teams.indexOf(team)
+      const indexOp = index === 0 ? 1 : index === 1 ? 0 : -1
+      if (match.goals[index] > match.goals[indexOp]) {
+        return vicSum + 1
+      }
+      return vicSum
+    }, 0)
+    const ties = ownMatches.reduce((tieSum, match) => {
+      const index = match.teams.indexOf(team)
+      const indexOp = index === 0 ? 1 : index === 1 ? 0 : -1
+      if (match.goals[index] === match.goals[indexOp]) {
+        return tieSum + 1
+      }
+      return tieSum
+    }, 0)
+    const losses = ownMatches.reduce((lossSum, match) => {
+      const index = match.teams.indexOf(team)
+      const indexOp = index === 0 ? 1 : index === 1 ? 0 : -1
+      if (match.goals[index] < match.goals[indexOp]) {
+        return lossSum + 1
+      }
+      return lossSum
+    }, 0)
     const goals = ownMatches.reduce((goalSum, match) => {
       const index = match.teams.indexOf(team)
       if (typeof match.goals[index] === 'number') {
@@ -205,7 +230,7 @@ exports.makeTable = (matches) => {
     const goalDifference = goals - countergoals
     const awayMatches = ownMatches.filter(match => match.teams[1] === team)
     const awayGoals = awayMatches.reduce((goalSum, match) => goalSum + match.goals[1], 0)
-    return { team, ownMatches, goals, countergoals, goalDifference, awayGoals, points }
+    return { team, ownMatches, goals, countergoals, goalDifference, awayGoals, points, victories, ties, losses, matches: omatches }
   })
   const sortedTable = sortFunction(teamData)
   return sortedTable
