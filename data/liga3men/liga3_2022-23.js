@@ -1205,32 +1205,32 @@ const matches = {
     },
     {
       teams: ["OSN", "WIE"],
-      goals: [null, null],
+      goals: [4, 1],
       date: "25.02.23"
     },
     {
       teams: ["SCV", "OLD"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "25.02.23"
     },
     {
       teams: ["BVB2", "WMA"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "25.02.23"
     },
     {
       teams: ["FCI", "RWE"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "25.02.23"
     },
     {
       teams: ["DUI", "SVM"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "25.02.23"
     },
     {
       teams: ["BAY", "ZWI"],
-      goals: [null, null],
+      goals: [5, 3],
       date: "25.02.23"
     },
     {
