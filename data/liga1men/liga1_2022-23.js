@@ -989,7 +989,7 @@ const matches = {
   22: [
     {
       teams: ["M05", "MGL"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "24.02.23"
     },
     {
