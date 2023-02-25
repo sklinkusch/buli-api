@@ -1,3 +1,5 @@
+const { makeTable } = require("../helpers");
+
 const matches = {
   1: [
     {
@@ -1599,4 +1601,11 @@ const matches = {
   ]
 }
 
-module.exports = matches;
+const table = makeTable(matches);
+
+const data = {
+  matches: matches,
+  table: table
+};
+
+module.exports = data;
