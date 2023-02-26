@@ -1021,17 +1021,17 @@ const matches = {
     },
     {
       teams: ["BIE", "FCH"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "26.02.23"
     },
     {
       teams: ["STP", "ROS"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "26.02.23"
     },
     {
       teams: ["H96", "FCM"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "26.02.23"
     }
   ],
