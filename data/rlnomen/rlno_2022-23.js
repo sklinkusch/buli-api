@@ -1016,22 +1016,22 @@ const matches = {
     },
     {
       teams: ["CHL", "ZFC"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "26.02.23"
     },
     {
       teams: ["LUC", "SVB"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "26.02.23"
     },
     {
       teams: ["HBS", "CZJ"],
-      goals: [null, null],
+      goals: [0, 5],
       date: "26.02.23"
     },
     {
       teams: ["BFC", "LKL"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "26.02.23"
     }
   ],
