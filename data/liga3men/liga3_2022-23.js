@@ -1245,7 +1245,7 @@ const matches = {
     },
     {
       teams: ["VKÖ", "SCF2"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "27.02.23"
     }
   ],
