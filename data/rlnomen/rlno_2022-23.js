@@ -1043,12 +1043,12 @@ const matches = {
     },
     {
       teams: ["BSC2", "BFC"],
-      goals: [null, null],
+      goals: [1, 3],
       date: "03.03.23"
     },
     {
       teams: ["SVB", "TBB"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "03.03.23"
     },
     {
