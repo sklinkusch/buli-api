@@ -1038,12 +1038,12 @@ const matches = {
   23: [
     {
       teams: ["P07", "STP"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "03.03.23"
     },
     {
       teams: ["FCM", "FCK"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "03.03.23"
     },
     {
