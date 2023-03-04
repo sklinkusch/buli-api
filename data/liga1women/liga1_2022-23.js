@@ -392,14 +392,14 @@ const matches = {
       date: "03.03.23"
     },
     {
-      teams: ["DUI", "POT"],
-      goals: [null, null],
+      teams: ["WOB", "HOF"],
+      goals: [1, 2],
       date: "04.03.23"
     },
     {
-      teams: ["WOB", "HOF"],
+      teams: ["DUI", "POT"],
       goals: [null, null],
-      date: "04.03.23"
+      date: "05.03.23"
     },
     {
       teams: ["KÖL", "B04"],
