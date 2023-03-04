@@ -1048,17 +1048,17 @@ const matches = {
     },
     {
       teams: ["HSV", "FCN"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "04.03.23"
     },
     {
       teams: ["SVS", "KIE"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "04.03.23"
     },
     {
       teams: ["JRE", "DÜS"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "04.03.23"
     },
     {
