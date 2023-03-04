@@ -1063,7 +1063,7 @@ const matches = {
     },
     {
       teams: ["FCH", "D98"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "04.03.23"
     },
     {
