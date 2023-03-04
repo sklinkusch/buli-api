@@ -1043,27 +1043,27 @@ const matches = {
     },
     {
       teams: ["MGL", "SCF"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "04.03.23"
     },
     {
       teams: ["FCU", "KÖL"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "04.03.23"
     },
     {
       teams: ["M05", "HOF"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "04.03.23"
     },
     {
       teams: ["BOC", "S04"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "04.03.23"
     },
     {
       teams: ["FCA", "SVW"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "04.03.23"
     },
     {
