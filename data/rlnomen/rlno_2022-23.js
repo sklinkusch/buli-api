@@ -1053,12 +1053,12 @@ const matches = {
     },
     {
       teams: ["L47", "LUC"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "04.03.23"
     },
     {
       teams: ["VBL", "GFC"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "04.03.23"
     },
     {
