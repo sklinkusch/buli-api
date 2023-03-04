@@ -1063,7 +1063,7 @@ const matches = {
     },
     {
       teams: ["CZJ", "ERF"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "04.03.23"
     },
     {
