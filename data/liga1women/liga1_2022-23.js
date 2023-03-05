@@ -398,12 +398,12 @@ const matches = {
     },
     {
       teams: ["DUI", "POT"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "05.03.23"
     },
     {
       teams: ["KÖL", "B04"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "05.03.23"
     },
     {
