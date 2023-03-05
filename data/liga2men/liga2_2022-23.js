@@ -1068,17 +1068,17 @@ const matches = {
     },
     {
       teams: ["EBS", "BIE"],
-      goals: [null, null],
+      goals: [3, 3],
       date: "05.03.23"
     },
     {
       teams: ["SGF", "H96"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "05.03.23"
     },
     {
       teams: ["ROS", "KSC"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "05.03.23"
     }
   ],
