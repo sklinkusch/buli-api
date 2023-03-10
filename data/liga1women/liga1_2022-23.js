@@ -420,7 +420,7 @@ const matches = {
   14: [
     {
       teams: ["FCB", "DUI"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "10.03.23"
     },
     {
