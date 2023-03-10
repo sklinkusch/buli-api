@@ -1085,12 +1085,12 @@ const matches = {
   24: [
     {
       teams: ["FCK", "SVS"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "10.03.23"
     },
     {
       teams: ["FCN", "EBS"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "10.03.23"
     },
     {
