@@ -1090,22 +1090,22 @@ const matches = {
     },
     {
       teams: ["BSC", "M05"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "11.03.23"
     },
     {
       teams: ["RBL", "MGL"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "11.03.23"
     },
     {
       teams: ["FCB", "FCA"],
-      goals: [null, null],
+      goals: [5, 3],
       date: "11.03.23"
     },
     {
       teams: ["SGE", "VfB"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "11.03.23"
     },
     {
