@@ -1309,32 +1309,32 @@ const matches = {
     },
     {
       teams: ["OSN", "OLD"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "11.03.23"
     },
     {
       teams: ["DUI", "MÜN"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "11.03.23"
     },
     {
       teams: ["BAY", "WMA"],
-      goals: [null, null],
+      goals: [1, 3],
       date: "11.03.23"
     },
     {
       teams: ["AUE", "RWE"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "11.03.23"
     },
     {
       teams: ["SVE", "SVM"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "11.03.23"
     },
     {
       teams: ["VKÖ", "ZWI"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "11.03.23"
     },
     {
