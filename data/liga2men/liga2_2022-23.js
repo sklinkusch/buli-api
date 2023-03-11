@@ -1110,7 +1110,7 @@ const matches = {
     },
     {
       teams: ["DÜS", "FCH"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "11.03.23"
     },
     {
