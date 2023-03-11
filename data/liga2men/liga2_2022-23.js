@@ -1095,17 +1095,17 @@ const matches = {
     },
     {
       teams: ["STP", "SGF"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "11.03.23"
     },
     {
       teams: ["BIE", "D98"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "11.03.23"
     },
     {
       teams: ["FCM", "P07"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "11.03.23"
     },
     {
