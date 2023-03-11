@@ -1085,8 +1085,8 @@ const matches = {
   24: [
     {
       teams: ["LUC", "ZFC"],
-      goals: [null, null],
-      date: "10.03.23"
+      goals: [1, 4],
+      date: "11.03.23"
     },
     {
       teams: ["L47", "SVB"],
