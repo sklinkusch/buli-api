@@ -1115,17 +1115,17 @@ const matches = {
     },
     {
       teams: ["KSC", "HSV"],
-      goals: [null, null],
+      goals: [4, 2],
       date: "12.03.23"
     },
     {
       teams: ["H96", "ROS"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "12.03.23"
     },
     {
       teams: ["KIE", "JRE"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "12.03.23"
     }
   ],
