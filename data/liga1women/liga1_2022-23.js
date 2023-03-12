@@ -424,18 +424,13 @@ const matches = {
       date: "10.03.23"
     },
     {
-      teams: ["SVW", "SGE"],
-      goals: [null, null],
-      date: "11.03.23"
-    },
-    {
       teams: ["HOF", "SVM"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "12.03.23"
     },
     {
       teams: ["B04", "WOB"],
-      goals: [null, null],
+      goals: [1, 4],
       date: "12.03.23"
     },
     {
@@ -447,6 +442,11 @@ const matches = {
       teams: ["ESS", "SCF"],
       goals: [null, null],
       date: "12.03.23"
+    },
+    {
+      teams: ["SVW", "SGE"],
+      goals: [null, null],
+      date: "14.03.23"
     }
   ],
   15: [
