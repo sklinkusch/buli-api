@@ -434,19 +434,19 @@ const matches = {
       date: "12.03.23"
     },
     {
-      teams: ["POT", "KÖL"],
-      goals: [null, null],
-      date: "12.03.23"
-    },
-    {
       teams: ["ESS", "SCF"],
       goals: [2, 1],
       date: "12.03.23"
     },
     {
       teams: ["SVW", "SGE"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "14.03.23"
+    },
+    {
+      teams: ["POT", "KÖL"],
+      goals: [null, null],
+      date: "22.03.23"
     }
   ],
   15: [
