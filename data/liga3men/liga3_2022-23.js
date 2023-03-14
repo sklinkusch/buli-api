@@ -1356,27 +1356,27 @@ const matches = {
   27: [
     {
       teams: ["RWE", "OSN"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "14.03.23"
     },
     {
       teams: ["ZWI", "AUE"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "14.03.23"
     },
     {
       teams: ["MÜN", "SVE"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "14.03.23"
     },
     {
       teams: ["HFC", "VKÖ"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "14.03.23"
     },
     {
       teams: ["SVM", "SCV"],
-      goals: [null, null],
+      goals: [1, 3],
       date: "14.03.23"
     },
     {
