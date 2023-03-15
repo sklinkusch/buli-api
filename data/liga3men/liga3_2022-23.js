@@ -1381,27 +1381,27 @@ const matches = {
     },
     {
       teams: ["SCF2", "WIE"],
-      goals: [null, null],
+      goals: [4, 2],
       date: "15.03.23"
     },
     {
       teams: ["DRE", "DUI"],
-      goals: [null, null],
+      goals: [2, 9],
       date: "15.03.23"
     },
     {
       teams: ["WMA", "FCI"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "15.03.23"
     },
     {
       teams: ["OLD", "BVB2"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "15.03.23"
     },
     {
       teams: ["FCS", "BAY"],
-      goals: [null, null],
+      goals: [5, 0],
       date: "15.03.23"
     }
   ],
