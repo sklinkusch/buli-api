@@ -452,7 +452,7 @@ const matches = {
   15: [
     {
       teams: ["WOB", "POT"],
-      goals: [null, null],
+      goals: [5, 0],
       date: "18.03.23"
     },
     {
