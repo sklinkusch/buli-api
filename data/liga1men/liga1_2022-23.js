@@ -1132,7 +1132,7 @@ const matches = {
   25: [
     {
       teams: ["MGL", "SVW"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "17.03.23"
     },
     {
