@@ -1157,7 +1157,7 @@ const matches = {
     },
     {
       teams: ["D98", "FCK"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "18.03.23"
     },
     {
@@ -1599,9 +1599,9 @@ const matches = {
       date: "29.05.23"
     }
   ]
-}
+};
 
-const table = makeTable(matches)
+const table = makeTable(matches);
 
 const data = {
   matches: matches,
