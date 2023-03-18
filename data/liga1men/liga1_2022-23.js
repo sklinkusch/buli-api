@@ -1137,22 +1137,22 @@ const matches = {
     },
     {
       teams: ["BOC", "RBL"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "18.03.23"
     },
     {
       teams: ["VfB", "WOB"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "18.03.23"
     },
     {
       teams: ["HOF", "BSC"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "18.03.23"
     },
     {
       teams: ["FCA", "S04"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "18.03.23"
     },
     {
