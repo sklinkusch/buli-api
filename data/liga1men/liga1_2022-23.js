@@ -1157,7 +1157,7 @@ const matches = {
     },
     {
       teams: ["BVB", "KÖL"],
-      goals: [null, null],
+      goals: [6, 1],
       date: "18.03.23"
     },
     {
@@ -1599,13 +1599,13 @@ const matches = {
       date: "27.05.23"
     }
   ]
-}
+};
 
 const table = makeTable(matches);
 
 const data = {
   matches: matches,
   table: table
-}
+};
 
 module.exports = data;
