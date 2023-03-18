@@ -1102,7 +1102,7 @@ const matches = {
       teams: ["CHL", "CFC"],
       goals: [3, 0],
       date: "12.03.23"
-    }
+    },
     {
       teams: ["GFC", "TBB"],
       goals: [null, null],
@@ -1127,7 +1127,7 @@ const matches = {
       teams: ["ECB", "CZJ"],
       goals: [null, null],
       date: "19.04.23"
-    },
+    }
   ],
   25: [
     {
