@@ -1157,7 +1157,7 @@ const matches = {
     },
     {
       teams: ["CZJ", "CHL"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "18.03.23"
     },
     {
