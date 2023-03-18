@@ -1142,17 +1142,17 @@ const matches = {
     },
     {
       teams: ["JRE", "P07"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "18.03.23"
     },
     {
       teams: ["HSV", "KIE"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "18.03.23"
     },
     {
       teams: ["SGF", "FCM"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "18.03.23"
     },
     {
