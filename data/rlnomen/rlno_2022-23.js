@@ -332,47 +332,47 @@ const matches = {
   ],
   8: [
     {
-      teams: ['CHL', 'CZJ'],
+      teams: ["CHL", "CZJ"],
       goals: [1, 0],
       date: "07.10.22"
     },
     {
-      teams: ['AGL', 'CFC'],
+      teams: ["AGL", "CFC"],
       goals: [3, 3],
       date: "07.10.22"
     },
     {
-      teams: ['ERF', 'BSC2'],
+      teams: ["ERF", "BSC2"],
       goals: [2, 1],
       date: "08.10.22"
     },
     {
-      teams: ['BFC', 'TBB'],
+      teams: ["BFC", "TBB"],
       goals: [4, 1],
       date: "08.10.22"
     },
     {
-      teams: ['ECB', 'LKL'],
+      teams: ["ECB", "LKL"],
       goals: [3, 1],
       date: "08.10.22"
     },
     {
-      teams: ['HBS', 'VBL'],
+      teams: ["HBS", "VBL"],
       goals: [0, 1],
       date: "09.10.22"
     },
     {
-      teams: ['GFC', 'SVB'],
+      teams: ["GFC", "SVB"],
       goals: [0, 2],
       date: "09.10.22"
     },
     {
-      teams: ['L47', 'ZFC'],
+      teams: ["L47", "ZFC"],
       goals: [2, 1],
       date: "09.10.22"
     },
     {
-      teams: ['LUC', 'BAK'],
+      teams: ["LUC", "BAK"],
       goals: [0, 1],
       date: "09.10.22"
     }
@@ -704,7 +704,7 @@ const matches = {
       teams: ["BSC2", "BAK"],
       goals: [2, 2],
       date: "22.02.23"
-    },
+    }
   ],
   16: [
     {
@@ -798,7 +798,7 @@ const matches = {
       teams: ["ECB", "CHL"],
       goals: [2, 0],
       date: "22.02.23"
-    },
+    }
   ],
   18: [
     {
@@ -1162,7 +1162,7 @@ const matches = {
     },
     {
       teams: ["BAK", "LUC"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "19.03.23"
     },
     {
@@ -1268,7 +1268,7 @@ const matches = {
       teams: ["BSC2", "CHL"],
       goals: [null, null],
       date: "09.04.23"
-    },
+    }
   ],
   28: [
     {
@@ -1409,7 +1409,7 @@ const matches = {
       teams: ["AGL", "TBB"],
       goals: [null, null],
       date: "30.04.23"
-    },
+    }
   ],
   31: [
     {
@@ -1599,7 +1599,7 @@ const matches = {
       date: "28.05.23"
     }
   ]
-}
+};
 
 const table = makeTable(matches);
 
