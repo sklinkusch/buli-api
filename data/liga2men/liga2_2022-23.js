@@ -1162,17 +1162,17 @@ const matches = {
     },
     {
       teams: ["SVS", "STP"],
-      goals: [null, null],
+      goals: [0, 5],
       date: "19.03.23"
     },
     {
       teams: ["ROS", "DÜS"],
-      goals: [null, null],
+      goals: [2, 5],
       date: "19.03.23"
     },
     {
       teams: ["EBS", "H96"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "19.03.23"
     }
   ],
