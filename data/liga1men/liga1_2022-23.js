@@ -1167,7 +1167,7 @@ const matches = {
     },
     {
       teams: ["B04", "FCB"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "19.03.23"
     },
     {
