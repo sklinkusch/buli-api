@@ -1162,7 +1162,7 @@ const matches = {
     },
     {
       teams: ["FCU", "SGE"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "19.03.23"
     },
     {
