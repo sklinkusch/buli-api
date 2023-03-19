@@ -523,52 +523,52 @@ const matches = {
   ],
   11: [
     {
-      teams: ['SCV', 'VKÖ'],
+      teams: ["SCV", "VKÖ"],
       goals: [2, 2],
       date: "07.10.22"
     },
     {
-      teams: ['OLD', 'AUE'],
+      teams: ["OLD", "AUE"],
       goals: [1, 3],
       date: "08.10.22"
     },
     {
-      teams: ['MÜN', 'FCI'],
+      teams: ["MÜN", "FCI"],
       goals: [1, 2],
       date: "08.10.22"
     },
     {
-      teams: ['WMA', 'FCS'],
+      teams: ["WMA", "FCS"],
       goals: [1, 0],
       date: "08.10.22"
     },
     {
-      teams: ['SVE', 'DUI'],
+      teams: ["SVE", "DUI"],
       goals: [3, 0],
       date: "08.10.22"
     },
     {
-      teams: ['SVM', 'BAY'],
+      teams: ["SVM", "BAY"],
       goals: [0, 1],
       date: "08.10.22"
     },
     {
-      teams: ['ZWI', 'WIE'],
+      teams: ["ZWI", "WIE"],
       goals: [0, 1],
       date: "08.10.22"
     },
     {
-      teams: ['DRE', 'OSN'],
+      teams: ["DRE", "OSN"],
       goals: [3, 2],
       date: "09.10.22"
     },
     {
-      teams: ['SCF2', 'RWE'],
+      teams: ["SCF2", "RWE"],
       goals: [0, 3],
       date: "09.10.22"
     },
     {
-      teams: ['HFC', 'BVB2'],
+      teams: ["HFC", "BVB2"],
       goals: [0, 0],
       date: "10.10.22"
     }
@@ -1039,7 +1039,7 @@ const matches = {
       teams: ["MÜN", "DRE"],
       goals: [1, 2],
       date: "30.01.23"
-    },
+    }
   ],
   21: [
     {
@@ -1443,7 +1443,7 @@ const matches = {
     },
     {
       teams: ["SVE", "HFC"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "19.03.23"
     },
     {
