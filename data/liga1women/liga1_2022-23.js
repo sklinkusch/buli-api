@@ -319,7 +319,7 @@ const matches = {
       teams: ["SVW", "HOF"],
       goals: [1, 1],
       date: "11.12.22"
-    },
+    }
   ],
   11: [
     {
@@ -462,12 +462,12 @@ const matches = {
     },
     {
       teams: ["SGE", "ESS"],
-      goals: [null, null],
+      goals: [4, 1],
       date: "19.03.23"
     },
     {
       teams: ["DUI", "SVW"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "19.03.23"
     },
     {
@@ -712,6 +712,6 @@ const table = makeTable(matches);
 const data = {
   matches: matches,
   table: table
-}
+};
 
 module.exports = data;
