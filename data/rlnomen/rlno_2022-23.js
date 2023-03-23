@@ -1105,12 +1105,12 @@ const matches = {
     },
     {
       teams: ["GFC", "TBB"],
-      goals: [null, null],
+      goals: [5, 0],
       date: "21.03.23"
     },
     {
       teams: ["BFC", "VBL"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "21.03.23"
     },
     {
