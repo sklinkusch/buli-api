@@ -1460,7 +1460,7 @@ const matches = {
   29: [
     {
       teams: ["HFC", "DUI"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "24.03.23"
     },
     {
