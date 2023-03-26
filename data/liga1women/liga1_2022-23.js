@@ -494,12 +494,12 @@ const matches = {
     },
     {
       teams: ["HOF", "ESS"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "26.03.23"
     },
     {
       teams: ["B04", "SCF"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "26.03.23"
     },
     {
