@@ -1120,7 +1120,7 @@ const matches = {
     },
     {
       teams: ["L47", "SVB"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "25.03.23"
     },
     {
