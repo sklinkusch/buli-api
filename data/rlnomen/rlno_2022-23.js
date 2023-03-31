@@ -843,7 +843,7 @@ const matches = {
     },
     {
       teams: ["ERF", "LUC"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "28.03.23"
     }
   ],
@@ -1078,7 +1078,7 @@ const matches = {
     },
     {
       teams: ["BAK", "CHL"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "27.03.23"
     }
   ],
