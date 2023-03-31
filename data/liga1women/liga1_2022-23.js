@@ -515,14 +515,9 @@ const matches = {
   ],
   17: [
     {
-      teams: ["SCF", "POT"],
-      goals: [null, null],
-      date: "01.04.23"
-    },
-    {
-      teams: ["ESS", "B04"],
-      goals: [null, null],
-      date: "01.04.23"
+      teams: ["KÖL", "DUI"],
+      goals: [4, 0],
+      date: "31.03.23"
     },
     {
       teams: ["SGE", "HOF"],
@@ -530,19 +525,24 @@ const matches = {
       date: "01.04.23"
     },
     {
-      teams: ["KÖL", "DUI"],
+      teams: ["SCF", "POT"],
       goals: [null, null],
-      date: "01.04.23"
-    },
-    {
-      teams: ["WOB", "SVW"],
-      goals: [null, null],
-      date: "01.04.23"
+      date: "02.04.23"
     },
     {
       teams: ["SVM", "FCB"],
       goals: [null, null],
-      date: "01.04.23"
+      date: "02.04.23"
+    },
+    {
+      teams: ["ESS", "B04"],
+      goals: [null, null],
+      date: "02.04.23"
+    },
+    {
+      teams: ["WOB", "SVW"],
+      goals: [null, null],
+      date: "02.04.23"
     }
   ],
   18: [
