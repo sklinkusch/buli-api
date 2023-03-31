@@ -1179,13 +1179,13 @@ const matches = {
   26: [
     {
       teams: ["HBS", "TBB"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "31.03.23"
     },
     {
       teams: ["AGL", "CZJ"],
-      goals: [null, null],
-      date: "31.04.23"
+      goals: [0, 0],
+      date: "31.03.23"
     },
     {
       teams: ["ECB", "BSC2"],
