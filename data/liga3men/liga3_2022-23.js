@@ -1505,7 +1505,7 @@ const matches = {
     },
     {
       teams: ["SCF2", "FCS"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "27.03.23"
     }
   ],
