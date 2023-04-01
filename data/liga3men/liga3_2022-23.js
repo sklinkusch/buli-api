@@ -1522,27 +1522,27 @@ const matches = {
     },
     {
       teams: ["AUE", "OLD"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "01.04.23"
     },
     {
       teams: ["BVB2", "HFC"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "01.04.23"
     },
     {
       teams: ["WIE", "ZWI"],
-      goals: [null, null],
+      goals: [4, 3],
       date: "01.04.23"
     },
     {
       teams: ["VKÖ", "SCV"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "01.04.23"
     },
     {
       teams: ["RWE", "SCF2"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "01.04.23"
     },
     {
