@@ -1189,17 +1189,17 @@ const matches = {
     },
     {
       teams: ["ECB", "BSC2"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "01.04.23"
     },
     {
       teams: ["ERF", "VBL"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "01.04.23"
     },
     {
       teams: ["L47", "BAK"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "01.04.23"
     },
     {
