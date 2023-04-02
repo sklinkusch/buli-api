@@ -1552,7 +1552,7 @@ const matches = {
     },
     {
       teams: ["FCS", "WMA"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "02.04.23"
     },
     {
