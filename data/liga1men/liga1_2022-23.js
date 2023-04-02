@@ -1219,7 +1219,7 @@ const matches = {
     },
     {
       teams: ["SVW", "HOF"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "02.04.23"
     }
   ],
