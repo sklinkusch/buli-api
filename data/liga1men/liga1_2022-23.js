@@ -1214,7 +1214,7 @@ const matches = {
     },
     {
       teams: ["KÖL", "MGL"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "02.04.23"
     },
     {
