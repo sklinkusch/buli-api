@@ -526,12 +526,12 @@ const matches = {
     },
     {
       teams: ["SCF", "POT"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "02.04.23"
     },
     {
       teams: ["SVM", "FCB"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "02.04.23"
     },
     {
