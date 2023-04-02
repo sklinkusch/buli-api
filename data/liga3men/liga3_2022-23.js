@@ -1547,7 +1547,7 @@ const matches = {
     },
     {
       teams: ["OSN", "DRE"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "02.04.23"
     },
     {
