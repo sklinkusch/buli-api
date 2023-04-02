@@ -1209,12 +1209,12 @@ const matches = {
     },
     {
       teams: ["BFC", "GFC"],
-      goals: [null, null],
+      goals: [5, 0],
       date: "02.04.23"
     },
     {
       teams: ["LUC", "CFC"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "02.04.23"
     },
     {
