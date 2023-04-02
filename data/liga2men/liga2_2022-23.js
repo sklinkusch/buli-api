@@ -1209,17 +1209,17 @@ const matches = {
     },
     {
       teams: ["KIE", "BIE"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "02.04.23"
     },
     {
       teams: ["P07", "SGF"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "02.04.23"
     },
     {
       teams: ["FCM", "ROS"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "02.04.23"
     }
   ],
