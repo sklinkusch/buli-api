@@ -1226,27 +1226,27 @@ const matches = {
   27: [
     {
       teams: ["SCF", "FCB"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "08.04.23"
     },
     {
       teams: ["BVB", "FCU"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "08.04.23"
     },
     {
       teams: ["FCA", "KÖL"],
-      goals: [null, null],
+      goals: [1, 3],
       date: "08.04.23"
     },
     {
       teams: ["B04", "SGE"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "08.04.23"
     },
     {
       teams: ["M05", "SVW"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "08.04.23"
     },
     {
