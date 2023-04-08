@@ -1564,53 +1564,53 @@ const matches = {
   31: [
     {
       teams: ["DRE", "RWE"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "08.04.23"
     },
     {
       teams: ["DUI", "BVB2"],
-      goals: [null, null],
-      date: "08.04.23"
-    },
-    {
-      teams: ["SVE", "VKÖ"],
-      goals: [null, null],
-      date: "08.04.23"
-    },
-    {
-      teams: ["ZWI", "FCS"],
-      goals: [null, null],
+      goals: [0, 5],
       date: "08.04.23"
     },
     {
       teams: ["WMA", "SCF2"],
-      goals: [null, null],
-      date: "08.04.23"
-    },
-    {
-      teams: ["SCV", "BAY"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "08.04.23"
     },
     {
       teams: ["OLD", "WIE"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "08.04.23"
     },
     {
       teams: ["MÜN", "OSN"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "08.04.23"
     },
     {
       teams: ["HFC", "AUE"],
-      goals: [null, null],
+      goals: [5, 2],
       date: "08.04.23"
     },
     {
       teams: ["SVM", "FCI"],
       goals: [null, null],
-      date: "08.04.23"
+      date: "09.04.23"
+    },
+    {
+      teams: ["ZWI", "FCS"],
+      goals: [null, null],
+      date: "09.04.23"
+    },
+    {
+      teams: ["SCV", "BAY"],
+      goals: [null, null],
+      date: "09.04.23"
+    },
+    {
+      teams: ["SVE", "VKÖ"],
+      goals: [null, null],
+      date: "10.04.23"
     }
   ],
   32: [
