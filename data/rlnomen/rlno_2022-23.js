@@ -1226,7 +1226,7 @@ const matches = {
   27: [
     {
       teams: ["VBL", "ECB"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "05.04.23"
     },
     {
