@@ -1246,12 +1246,12 @@ const matches = {
     },
     {
       teams: ["BAK", "ZFC"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "07.04.23"
     },
     {
       teams: ["TBB", "ERF"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "07.04.23"
     },
     {
