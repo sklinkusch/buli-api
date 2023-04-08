@@ -1226,17 +1226,17 @@ const matches = {
   27: [
     {
       teams: ["HSV", "H96"],
-      goals: [null, null],
+      goals: [6, 1],
       date: "08.04.23"
     },
     {
       teams: ["FCN", "KSC"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "08.04.23"
     },
     {
       teams: ["EBS", "FCK"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "08.04.23"
     },
     {
