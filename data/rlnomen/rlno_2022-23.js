@@ -1231,12 +1231,17 @@ const matches = {
     },
     {
       teams: ["LKL", "AGL"],
-      goals: [null, null],
+      goals: [2, 0],
+      date: "06.04.23"
+    },
+    {
+      teams: ["BSC2", "CHL"],
+      goals: [3, 0],
       date: "06.04.23"
     },
     {
       teams: ["SVB", "BFC"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "06.04.23"
     },
     {
@@ -1261,11 +1266,6 @@ const matches = {
     },
     {
       teams: ["CZJ", "LUC"],
-      goals: [null, null],
-      date: "09.04.23"
-    },
-    {
-      teams: ["BSC2", "CHL"],
       goals: [null, null],
       date: "09.04.23"
     }
