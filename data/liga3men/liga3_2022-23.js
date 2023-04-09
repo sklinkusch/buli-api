@@ -1599,7 +1599,7 @@ const matches = {
     },
     {
       teams: ["ZWI", "FCS"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "09.04.23"
     },
     {
