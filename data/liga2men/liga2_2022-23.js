@@ -1246,27 +1246,27 @@ const matches = {
     },
     {
       teams: ["SVS", "SGF"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "09.04.23"
     },
     {
       teams: ["D98", "P07"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "09.04.23"
     },
     {
       teams: ["ROS", "KIE"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "09.04.23"
     },
     {
       teams: ["BIE", "DÜS"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "09.04.23"
     },
     {
       teams: ["JRE", "FCM"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "09.04.23"
     }
   ],
