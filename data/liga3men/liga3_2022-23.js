@@ -1615,22 +1615,17 @@ const matches = {
   ],
   32: [
     {
+      teams: ["FCS", "DRE"],
+      goals: [2, 0],
+      date: "14.04.23"
+    },
+    {
       teams: ["FCI", "OLD"],
       goals: [null, null],
       date: "15.04.23"
     },
     {
-      teams: ["VKÖ", "DUI"],
-      goals: [null, null],
-      date: "15.04.23"
-    },
-    {
       teams: ["WIE", "MÜN"],
-      goals: [null, null],
-      date: "15.04.23"
-    },
-    {
-      teams: ["RWE", "WMA"],
       goals: [null, null],
       date: "15.04.23"
     },
@@ -1650,19 +1645,24 @@ const matches = {
       date: "15.04.23"
     },
     {
-      teams: ["FCS", "DRE"],
+      teams: ["AUE", "SCV"],
       goals: [null, null],
       date: "15.04.23"
     },
     {
       teams: ["SCF2", "ZWI"],
       goals: [null, null],
-      date: "15.04.23"
+      date: "16.04.23"
     },
     {
-      teams: ["AUE", "SCV"],
+      teams: ["RWE", "WMA"],
       goals: [null, null],
-      date: "15.04.23"
+      date: "16.04.23"
+    },
+    {
+      teams: ["VKÖ", "DUI"],
+      goals: [null, null],
+      date: "17.04.23"
     }
   ],
   33: [
