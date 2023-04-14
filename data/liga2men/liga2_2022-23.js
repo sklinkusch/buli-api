@@ -1273,12 +1273,12 @@ const matches = {
   28: [
     {
       teams: ["H96", "FCH"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "14.04.23"
     },
     {
       teams: ["SGF", "JRE"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "14.04.23"
     },
     {
