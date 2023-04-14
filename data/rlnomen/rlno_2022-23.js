@@ -1273,17 +1273,17 @@ const matches = {
   28: [
     {
       teams: ["BAK", "SVB"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "14.04.23"
     },
     {
       teams: ["CHL", "VBL"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "14.04.23"
     },
     {
       teams: ["HBS", "BFC"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "14.04.23"
     },
     {
