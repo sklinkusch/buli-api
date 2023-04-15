@@ -1298,7 +1298,7 @@ const matches = {
     },
     {
       teams: ["SGE", "MGL"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "15.04.23"
     },
     {
