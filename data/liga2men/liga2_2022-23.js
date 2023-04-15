@@ -1283,17 +1283,17 @@ const matches = {
     },
     {
       teams: ["KIE", "FCN"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "15.04.23"
     },
     {
       teams: ["P07", "ROS"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "15.04.23"
     },
     {
       teams: ["FCM", "SVS"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "15.04.23"
     },
     {
