@@ -1621,32 +1621,32 @@ const matches = {
     },
     {
       teams: ["FCI", "OLD"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "15.04.23"
     },
     {
       teams: ["WIE", "MÜN"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "15.04.23"
     },
     {
       teams: ["OSN", "SVE"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "15.04.23"
     },
     {
       teams: ["BVB2", "SVM"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "15.04.23"
     },
     {
       teams: ["BAY", "HFC"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "15.04.23"
     },
     {
       teams: ["AUE", "SCV"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "15.04.23"
     },
     {
