@@ -535,14 +535,14 @@ const matches = {
       date: "02.04.23"
     },
     {
-      teams: ["ESS", "B04"],
-      goals: [null, null],
-      date: "02.04.23"
-    },
-    {
       teams: ["WOB", "SVW"],
       goals: [8, 0],
       date: "02.04.23"
+    },
+    {
+      teams: ["ESS", "B04"],
+      goals: [0, 0],
+      date: "15.04.23"
     }
   ],
   18: [
