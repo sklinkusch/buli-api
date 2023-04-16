@@ -1303,17 +1303,17 @@ const matches = {
     },
     {
       teams: ["KSC", "BIE"],
-      goals: [null, null],
+      goals: [4, 2],
       date: "16.04.23"
     },
     {
       teams: ["DÜS", "D98"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "16.04.23"
     },
     {
       teams: ["STP", "EBS"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "16.04.23"
     }
   ],
