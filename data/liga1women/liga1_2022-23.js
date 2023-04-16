@@ -503,14 +503,14 @@ const matches = {
       date: "26.03.23"
     },
     {
-      teams: ["DUI", "SGE"],
-      goals: [null, null],
-      date: "26.03.23"
-    },
-    {
       teams: ["POT", "SVM"],
       goals: [3, 1],
       date: "26.03.23"
+    },
+    {
+      teams: ["DUI", "SGE"],
+      goals: [0, 1],
+      date: "16.04.23"
     }
   ],
   17: [
