@@ -1656,7 +1656,7 @@ const matches = {
     },
     {
       teams: ["RWE", "WMA"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "16.04.23"
     },
     {
