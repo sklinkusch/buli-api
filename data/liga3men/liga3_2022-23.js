@@ -1661,7 +1661,7 @@ const matches = {
     },
     {
       teams: ["VKÖ", "DUI"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "17.04.23"
     }
   ],
