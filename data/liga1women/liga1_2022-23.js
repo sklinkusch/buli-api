@@ -547,24 +547,14 @@ const matches = {
   ],
   18: [
     {
-      teams: ["KÖL", "SGE"],
-      goals: [null, null],
-      date: "22.04.23"
-    },
-    {
       teams: ["DUI", "WOB"],
-      goals: [null, null],
-      date: "22.04.23"
+      goals: [0, 3],
+      date: "19.04.23"
     },
     {
       teams: ["B04", "HOF"],
       goals: [null, null],
-      date: "22.04.23"
-    },
-    {
-      teams: ["POT", "ESS"],
-      goals: [null, null],
-      date: "22.04.23"
+      date: "21.04.23"
     },
     {
       teams: ["FCB", "SCF"],
@@ -572,48 +562,58 @@ const matches = {
       date: "22.04.23"
     },
     {
+      teams: ["KÖL", "SGE"],
+      goals: [null, null],
+      date: "23.04.23"
+    },
+    {
+      teams: ["POT", "ESS"],
+      goals: [null, null],
+      date: "23.04.23"
+    },
+    {
       teams: ["SVW", "SVM"],
       goals: [null, null],
-      date: "22.04.23"
+      date: "23.04.23"
     }
   ],
   19: [
     {
-      teams: ["HOF", "POT"],
+      teams: ["B04", "SGE"],
       goals: [null, null],
-      date: "06.05.23"
+      date: "05.05.23"
     },
     {
-      teams: ["B04", "SGE"],
+      teams: ["ESS", "FCB"],
       goals: [null, null],
       date: "06.05.23"
     },
     {
       teams: ["WOB", "KÖL"],
       goals: [null, null],
-      date: "06.05.23"
-    },
-    {
-      teams: ["SVM", "DUI"],
-      goals: [null, null],
-      date: "06.05.23"
+      date: "07.05.23"
     },
     {
       teams: ["SCF", "SVW"],
       goals: [null, null],
-      date: "06.05.23"
+      date: "07.05.23"
     },
     {
-      teams: ["ESS", "FCB"],
+      teams: ["HOF", "POT"],
       goals: [null, null],
-      date: "06.05.23"
+      date: "07.05.23"
+    },
+    {
+      teams: ["SVM", "DUI"],
+      goals: [null, null],
+      date: "07.05.23"
     }
   ],
   20: [
     {
-      teams: ["SGE", "WOB"],
+      teams: ["FCB", "HOF"],
       goals: [null, null],
-      date: "13.05.23"
+      date: "12.05.23"
     },
     {
       teams: ["POT", "B04"],
@@ -621,88 +621,88 @@ const matches = {
       date: "13.05.23"
     },
     {
-      teams: ["FCB", "HOF"],
+      teams: ["SGE", "WOB"],
       goals: [null, null],
-      date: "13.05.23"
-    },
-    {
-      teams: ["SVW", "ESS"],
-      goals: [null, null],
-      date: "13.05.23"
+      date: "14.05.23"
     },
     {
       teams: ["DUI", "SCF"],
       goals: [null, null],
-      date: "13.05.23"
+      date: "14.05.23"
+    },
+    {
+      teams: ["SVW", "ESS"],
+      goals: [null, null],
+      date: "14.05.23"
     },
     {
       teams: ["KÖL", "SVM"],
       goals: [null, null],
-      date: "13.05.23"
+      date: "14.05.23"
     }
   ],
   21: [
     {
-      teams: ["POT", "SGE"],
-      goals: [null, null],
-      date: "20.05.23"
-    },
-    {
-      teams: ["SVW", "WOB"],
-      goals: [null, null],
-      date: "20.05.23"
-    },
-    {
-      teams: ["SCF", "KÖL"],
-      goals: [null, null],
-      date: "20.05.23"
-    },
-    {
-      teams: ["ESS", "DUI"],
-      goals: [null, null],
-      date: "20.05.23"
-    },
-    {
       teams: ["HOF", "SVW"],
       goals: [null, null],
-      date: "20.05.23"
+      date: "19.05.23"
     },
     {
       teams: ["B04", "FCB"],
       goals: [null, null],
       date: "20.05.23"
+    },
+    {
+      teams: ["POT", "SGE"],
+      goals: [null, null],
+      date: "21.05.23"
+    },
+    {
+      teams: ["SCF", "KÖL"],
+      goals: [null, null],
+      date: "21.05.23"
+    },
+    {
+      teams: ["SVW", "WOB"],
+      goals: [null, null],
+      date: "21.05.23"
+    },
+    {
+      teams: ["ESS", "DUI"],
+      goals: [null, null],
+      date: "21.05.23"
     }
   ],
   22: [
     {
       teams: ["FCB", "POT"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "28.05.23"
     },
     {
       teams: ["SVW", "B04"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "28.05.23"
     },
     {
       teams: ["DUI", "HOF"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "28.05.23"
     },
     {
       teams: ["KÖL", "ESS"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "28.05.23"
     },
     {
       teams: ["WOB", "SCF"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "28.05.23"
     },
     {
       teams: ["SGE", "SVM"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "28.05.23"
     }
   ]
 };
