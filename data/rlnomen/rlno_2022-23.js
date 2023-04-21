@@ -1320,26 +1320,16 @@ const matches = {
   29: [
     {
       teams: ["LKL", "L47"],
-      goals: [null, null],
-      date: "21.04.23"
-    },
-    {
-      teams: ["SVB", "HBS"],
-      goals: [null, null],
+      goals: [4, 1],
       date: "21.04.23"
     },
     {
       teams: ["TBB", "CHL"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "21.04.23"
     },
     {
       teams: ["CFC", "BAK"],
-      goals: [null, null],
-      date: "22.04.23"
-    },
-    {
-      teams: ["VBL", "AGL"],
       goals: [null, null],
       date: "22.04.23"
     },
@@ -1362,6 +1352,16 @@ const matches = {
       teams: ["BFC", "ERF"],
       goals: [null, null],
       date: "23.04.23"
+    },
+    {
+      teams: ["VBL", "AGL"],
+      goals: [null, null],
+      date: "24.04.23"
+    },
+    {
+      teams: ["SVB", "HBS"],
+      goals: [null, null],
+      date: "10.05.23"
     }
   ],
   30: [
