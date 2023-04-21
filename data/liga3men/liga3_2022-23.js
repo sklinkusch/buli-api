@@ -1667,12 +1667,12 @@ const matches = {
   ],
   33: [
     {
-      teams: ["DUI", "WIE"],
-      goals: [null, null],
-      date: "22.04.23"
+      teams: ["HFC", "OSN"],
+      goals: [0, 1],
+      date: "21.04.23"
     },
     {
-      teams: ["HFC", "OSN"],
+      teams: ["DUI", "WIE"],
       goals: [null, null],
       date: "22.04.23"
     },
@@ -1692,21 +1692,6 @@ const matches = {
       date: "22.04.23"
     },
     {
-      teams: ["ZWI", "RWE"],
-      goals: [null, null],
-      date: "22.04.23"
-    },
-    {
-      teams: ["SCV", "BVB2"],
-      goals: [null, null],
-      date: "22.04.23"
-    },
-    {
-      teams: ["SVM", "FCS"],
-      goals: [null, null],
-      date: "22.04.23"
-    },
-    {
       teams: ["OLD", "SCF2"],
       goals: [null, null],
       date: "22.04.23"
@@ -1715,21 +1700,31 @@ const matches = {
       teams: ["MÜN", "BAY"],
       goals: [null, null],
       date: "22.04.23"
+    },
+    {
+      teams: ["SVM", "FCS"],
+      goals: [null, null],
+      date: "23.04.23"
+    },
+    {
+      teams: ["ZWI", "RWE"],
+      goals: [null, null],
+      date: "23.04.23"
+    },
+    {
+      teams: ["SCV", "BVB2"],
+      goals: [null, null],
+      date: "24.04.23"
     }
   ],
   34: [
     {
-      teams: ["RWE", "OLD"],
+      teams: ["WMA", "HFC"],
       goals: [null, null],
-      date: "29.04.23"
+      date: "28.04.23"
     },
     {
       teams: ["BAY", "DUI"],
-      goals: [null, null],
-      date: "29.04.23"
-    },
-    {
-      teams: ["FCS", "MÜN"],
       goals: [null, null],
       date: "29.04.23"
     },
@@ -1749,17 +1744,7 @@ const matches = {
       date: "29.04.23"
     },
     {
-      teams: ["WMA", "HFC"],
-      goals: [null, null],
-      date: "29.04.23"
-    },
-    {
       teams: ["SCF2", "DRE"],
-      goals: [null, null],
-      date: "29.04.23"
-    },
-    {
-      teams: ["OSN", "ZWI"],
       goals: [null, null],
       date: "29.04.23"
     },
@@ -1767,21 +1752,31 @@ const matches = {
       teams: ["FCI", "SCV"],
       goals: [null, null],
       date: "29.04.23"
+    },
+    {
+      teams: ["OSN", "ZWI"],
+      goals: [null, null],
+      date: "30.04.23"
+    },
+    {
+      teams: ["FCS", "MÜN"],
+      goals: [null, null],
+      date: "30.04.23"
+    },
+    {
+      teams: ["RWE", "OLD"],
+      goals: [null, null],
+      date: "30.04.23"
     }
   ],
   35: [
     {
-      teams: ["DRE", "WIE"],
-      goals: [null, null],
-      date: "06.05.23"
-    },
-    {
-      teams: ["SCV", "OSN"],
-      goals: [null, null],
-      date: "06.05.23"
-    },
-    {
       teams: ["DUI", "AUE"],
+      goals: [null, null],
+      date: "05.05.23"
+    },
+    {
+      teams: ["DRE", "WIE"],
       goals: [null, null],
       date: "06.05.23"
     },
@@ -1801,16 +1796,6 @@ const matches = {
       date: "06.05.23"
     },
     {
-      teams: ["VKÖ", "BVB2"],
-      goals: [null, null],
-      date: "06.05.23"
-    },
-    {
-      teams: ["OLD", "FCS"],
-      goals: [null, null],
-      date: "06.05.23"
-    },
-    {
       teams: ["MÜN", "SCF2"],
       goals: [null, null],
       date: "06.05.23"
@@ -1819,21 +1804,31 @@ const matches = {
       teams: ["SVE", "BAY"],
       goals: [null, null],
       date: "06.05.23"
+    },
+    {
+      teams: ["OLD", "FCS"],
+      goals: [null, null],
+      date: "07.05.23"
+    },
+    {
+      teams: ["VKÖ", "BVB2"],
+      goals: [null, null],
+      date: "07.05.23"
+    },
+    {
+      teams: ["SCV", "OSN"],
+      goals: [null, null],
+      date: "08.05.23"
     }
   ],
   36: [
     {
-      teams: ["WMA", "OLD"],
-      goals: [null, null],
-      date: "13.05.23"
-    },
-    {
       teams: ["FCI", "DUI"],
       goals: [null, null],
-      date: "13.05.23"
+      date: "12.05.23"
     },
     {
-      teams: ["RWE", "MÜN"],
+      teams: ["WMA", "OLD"],
       goals: [null, null],
       date: "13.05.23"
     },
@@ -1843,17 +1838,7 @@ const matches = {
       date: "13.05.23"
     },
     {
-      teams: ["AUE", "BVB2"],
-      goals: [null, null],
-      date: "13.05.23"
-    },
-    {
       teams: ["BAY", "VKÖ"],
-      goals: [null, null],
-      date: "13.05.23"
-    },
-    {
-      teams: ["OSN", "SVM"],
       goals: [null, null],
       date: "13.05.23"
     },
@@ -1871,9 +1856,29 @@ const matches = {
       teams: ["WIE", "SCV"],
       goals: [null, null],
       date: "13.05.23"
+    },
+    {
+      teams: ["RWE", "MÜN"],
+      goals: [null, null],
+      date: "14.05.23"
+    },
+    {
+      teams: ["OSN", "SVM"],
+      goals: [null, null],
+      date: "14.05.23"
+    },
+    {
+      teams: ["AUE", "BVB2"],
+      goals: [null, null],
+      date: "15.05.23"
     }
   ],
   37: [
+    {
+      teams: ["MÜN", "WMA"],
+      goals: [null, null],
+      date: "19.05.23"
+    },
     {
       teams: ["SVE", "WIE"],
       goals: [null, null],
@@ -1890,27 +1895,7 @@ const matches = {
       date: "20.05.23"
     },
     {
-      teams: ["MÜN", "WMA"],
-      goals: [null, null],
-      date: "20.05.23"
-    },
-    {
       teams: ["HFC", "RWE"],
-      goals: [null, null],
-      date: "20.05.23"
-    },
-    {
-      teams: ["SVM", "DRE"],
-      goals: [null, null],
-      date: "20.05.23"
-    },
-    {
-      teams: ["OLD", "ZWI"],
-      goals: [null, null],
-      date: "20.05.23"
-    },
-    {
-      teams: ["DUI", "FCS"],
       goals: [null, null],
       date: "20.05.23"
     },
@@ -1923,6 +1908,21 @@ const matches = {
       teams: ["BVB2", "BAY"],
       goals: [null, null],
       date: "20.05.23"
+    },
+    {
+      teams: ["OLD", "ZWI"],
+      goals: [null, null],
+      date: "21.05.23"
+    },
+    {
+      teams: ["DUI", "FCS"],
+      goals: [null, null],
+      date: "21.05.23"
+    },
+    {
+      teams: ["SVM", "DRE"],
+      goals: [null, null],
+      date: "22.05.23"
     }
   ],
   38: [
