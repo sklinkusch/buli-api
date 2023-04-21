@@ -1320,7 +1320,7 @@ const matches = {
   29: [
     {
       teams: ["FCA", "VfB"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "21.04.23"
     },
     {
