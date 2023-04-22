@@ -1325,22 +1325,22 @@ const matches = {
     },
     {
       teams: ["M05", "FCB"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "22.04.23"
     },
     {
       teams: ["HOF", "KÖL"],
-      goals: [null, null],
+      goals: [1, 3],
       date: "22.04.23"
     },
     {
       teams: ["BOC", "WOB"],
-      goals: [null, null],
+      goals: [1, 5],
       date: "22.04.23"
     },
     {
       teams: ["BSC", "SVW"],
-      goals: [null, null],
+      goals: [2, 4],
       date: "22.04.23"
     },
     {
