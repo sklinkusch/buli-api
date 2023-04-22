@@ -1673,32 +1673,32 @@ const matches = {
     },
     {
       teams: ["DUI", "WIE"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "22.04.23"
     },
     {
       teams: ["SVE", "AUE"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "22.04.23"
     },
     {
       teams: ["VKÖ", "FCI"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "22.04.23"
     },
     {
       teams: ["DRE", "WMA"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "22.04.23"
     },
     {
       teams: ["OLD", "SCF2"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "22.04.23"
     },
     {
       teams: ["MÜN", "BAY"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "22.04.23"
     },
     {
