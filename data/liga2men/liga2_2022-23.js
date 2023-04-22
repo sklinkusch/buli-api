@@ -1330,17 +1330,17 @@ const matches = {
     },
     {
       teams: ["ROS", "SGF"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "22.04.23"
     },
     {
       teams: ["FCN", "DÜS"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "22.04.23"
     },
     {
       teams: ["BIE", "H96"],
-      goals: [null, null],
+      goals: [1, 3],
       date: "22.04.23"
     },
     {
