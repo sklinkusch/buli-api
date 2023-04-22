@@ -936,7 +936,7 @@ const matches = {
       date: "21.03.23"
     },
     {
-      teams: ["TBB", "CHL"],
+      teams: ["TBB", "LKL"],
       goals: [0, 2],
       date: "11.04.23"
     }
