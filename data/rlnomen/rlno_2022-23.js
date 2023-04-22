@@ -1330,7 +1330,7 @@ const matches = {
     },
     {
       teams: ["CFC", "BAK"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "22.04.23"
     },
     {
