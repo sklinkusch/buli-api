@@ -563,12 +563,12 @@ const matches = {
     },
     {
       teams: ["KÖL", "SGE"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "23.04.23"
     },
     {
       teams: ["POT", "ESS"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "23.04.23"
     },
     {
