@@ -520,11 +520,6 @@ const matches = {
       date: "31.03.23"
     },
     {
-      teams: ["SGE", "HOF"],
-      goals: [null, null],
-      date: "01.04.23"
-    },
-    {
       teams: ["SCF", "POT"],
       goals: [0, 1],
       date: "02.04.23"
@@ -543,6 +538,11 @@ const matches = {
       teams: ["ESS", "B04"],
       goals: [0, 0],
       date: "15.04.23"
+    },
+    {
+      teams: ["SGE", "HOF"],
+      goals: [null, null],
+      date: "30.04.23"
     }
   ],
   18: [
