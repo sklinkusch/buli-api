@@ -146,12 +146,34 @@ const sortFunction = (teamData) => {
           }
           return acc;
         }, 0);
+        const aAwayGoals = aMatches.reduce((acc, curr) => {
+          if (
+            singleTeamKeys.includes(curr.teams[0]) &&
+            singleTeamKeys.includes(curr.teams[1])
+          ) {
+            const index = curr.teams.indexOf(aTeam);
+            return index === 1 ? acc + curr.goals[index] : acc;
+          }
+          return acc;
+        }, 0);
+        const bAwayGoals = aMatches.reduce((acc, curr) => {
+          if (
+            singleTeamKeys.includes(curr.teams[0]) &&
+            singleTeamKeys.includes(curr.teams[1])
+          ) {
+            const index = curr.teams.indexOf(bTeam);
+            return index === 1 ? acc + curr.goals[index] : acc;
+          }
+          return acc;
+        }, 0);
         if (aPoints > bPoints) return -1;
         if (bPoints > aPoints) return +1;
         if (aGoalDifference > bGoalDifference) return -1;
         if (bGoalDifference > aGoalDifference) return +1;
         if (aGoals > bGoals) return -1;
         if (bGoals > aGoals) return +1;
+        if (aAwayGoals > bAwayGoals) return -1;
+        if (bAwayGoals > aAwayGoals) return +1;
         return 0;
       });
       teamsAfterDirectComparisonB.push(...sortedTeams);
