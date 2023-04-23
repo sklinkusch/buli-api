@@ -179,7 +179,96 @@ const sortFunction = (teamData) => {
       teamsAfterDirectComparisonB.push(...sortedTeams);
     }
   });
-  return teamsAfterDirectComparisonB;
+  let teamsAfterDirectComparisonC = [];
+  teamsAfterDirectComparisonB.forEach((team, index, array) => {
+    if (index === 0) {
+      teamsAfterDirectComparisonC.push({ ...team, rank: 1 });
+    } else {
+      const {
+        team: currTeam,
+        points: currPoints,
+        goalDifference: currDiff,
+        goals: currGoals,
+        ownMatches: currOwnMatches
+      } = team;
+      const {
+        team: prevTeam,
+        points: prevPoints,
+        goalDifference: prevDiff,
+        goals: prevGoals
+      } = array[index - 1];
+      if (
+        currPoints === prevPoints &&
+        currDiff === prevDiff &&
+        currGoals === prevGoals
+      ) {
+        const matchesAgainstPrevTeam = currOwnMatches.filter((match) =>
+          match.teams.includes(prevTeam)
+        );
+        const ownPoints = matchesAgainstPrevTeam.reduce((acc, match) => {
+          const matchIndex = match.teams.indexOf(currTeam);
+          const otherIndex = matchIndex === 0 ? 1 : 0;
+          const tGoals = match.goals[matchIndex];
+          const cGoals = match.goals[otherIndex];
+          if (tGoals > cGoals) return acc + 3;
+          if (tGoals === cGoals) return acc + 1;
+          return acc;
+        }, 0);
+        const otherPoints = matchesAgainstPrevTeam.reduce((acc, match) => {
+          const matchIndex = match.teams.indexOf(prevTeam);
+          const otherIndex = matchIndex === 0 ? 1 : 0;
+          const tGoals = match.goals[matchIndex];
+          const cGoals = match.goals[otherIndex];
+          if (tGoals > cGoals) return acc + 3;
+          if (tGoals === cGoals) return acc + 1;
+          return acc;
+        }, 0);
+        const ownGoals = matchesAgainstPrevTeam.reduce((acc, match) => {
+          const matchIndex = match.teams.indexOf(currTeam);
+          return acc + match.goals[matchIndex];
+        }, 0);
+        const otherGoals = matchesAgainstPrevTeam.reduce((acc, match) => {
+          const matchIndex = match.teams.indexOf(prevTeam);
+          return acc + match.goals[matchIndex];
+        }, 0);
+        const ownDiff = ownGoals - otherGoals;
+        const otherDiff = otherGoals - ownGoals;
+        const ownAwayGoals = matchesAgainstPrevTeam.reduce((acc, match) => {
+          const matchIndex = match.teams.indexOf(currTeam);
+          if (matchIndex === 1) {
+            return acc + match.goals[matchIndex];
+          }
+          return acc;
+        }, 0);
+        const otherAwayGoals = matchesAgainstPrevTeam.reduce((acc, match) => {
+          const matchIndex = match.teams.indexOf(prevTeam);
+          if (matchIndex === 1) {
+            return acc + match.goals[matchIndex];
+          }
+          return acc;
+        }, 0);
+        if (otherPoints > ownPoints) {
+          teamsAfterDirectComparisonC.push({ ...team, rank: index + 1 });
+        } else if (otherDiff > ownDiff) {
+          teamsAfterDirectComparisonC.push({ ...team, rank: index + 1 });
+        } else if (otherGoals > ownGoals) {
+          teamsAfterDirectComparisonC.push({ ...team, rank: index + 1 });
+        } else if (otherAwayGoals > ownAwayGoals) {
+          teamsAfterDirectComparisonC.push({ ...team, rank: index + 1 });
+        } else {
+          teamsAfterDirectComparisonC.push({
+            ...team,
+            rank: teamsAfterDirectComparisonC[
+              teamsAfterDirectComparisonC.length - 1
+            ].rank
+          });
+        }
+      } else {
+        teamsAfterDirectComparisonC.push({ ...team, rank: index + 1 });
+      }
+    }
+  });
+  return teamsAfterDirectComparisonC;
 };
 
 exports.makeTable = (matches) => {
