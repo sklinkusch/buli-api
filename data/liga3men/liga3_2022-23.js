@@ -1516,11 +1516,6 @@ const matches = {
       date: "31.03.23"
     },
     {
-      teams: ["DUI", "SVE"],
-      goals: [null, null],
-      date: "01.04.23"
-    },
-    {
       teams: ["AUE", "OLD"],
       goals: [1, 0],
       date: "01.04.23"
@@ -1559,6 +1554,11 @@ const matches = {
       teams: ["FCI", "MÜN"],
       goals: [1, 3],
       date: "03.04.23"
+    },
+    {
+      teams: ["DUI", "SVE"],
+      goals: [null, null],
+      date: "25.04.23"
     }
   ],
   31: [
