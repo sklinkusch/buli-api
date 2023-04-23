@@ -1448,7 +1448,7 @@ const matches = {
     },
     {
       teams: ["BVB2", "ZWI"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "19.03.23"
     },
     {
