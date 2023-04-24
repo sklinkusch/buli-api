@@ -1355,7 +1355,7 @@ const matches = {
     },
     {
       teams: ["VBL", "AGL"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "24.04.23"
     },
     {
