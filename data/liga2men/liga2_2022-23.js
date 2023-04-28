@@ -1367,12 +1367,12 @@ const matches = {
   30: [
     {
       teams: ["SGF", "FCH"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "28.04.23"
     },
     {
       teams: ["P07", "EBS"],
-      goals: [null, null],
+      goals: [5, 1],
       date: "28.04.23"
     },
     {
