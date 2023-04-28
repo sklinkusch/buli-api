@@ -1721,7 +1721,7 @@ const matches = {
   34: [
     {
       teams: ["WMA", "HFC"],
-      goals: [null, null],
+      goals: [4, 1],
       date: "28.04.23"
     },
     {
