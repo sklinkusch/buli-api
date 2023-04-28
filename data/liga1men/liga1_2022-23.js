@@ -1367,7 +1367,7 @@ const matches = {
   30: [
     {
       teams: ["BOC", "BVB"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "28.04.23"
     },
     {
