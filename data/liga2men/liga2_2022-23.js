@@ -1392,7 +1392,7 @@ const matches = {
     },
     {
       teams: ["H96", "FCN"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "29.04.23"
     },
     {
