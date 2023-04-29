@@ -1386,7 +1386,7 @@ const matches = {
     },
     {
       teams: ["DRE", "DUI"],
-      goals: [2, 9],
+      goals: [2, 0],
       date: "15.03.23"
     },
     {
