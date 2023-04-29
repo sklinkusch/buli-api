@@ -1557,7 +1557,7 @@ const matches = {
     },
     {
       teams: ["DUI", "SVE"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "25.04.23"
     }
   ],
@@ -1726,32 +1726,32 @@ const matches = {
     },
     {
       teams: ["BAY", "DUI"],
-      goals: [null, null],
+      goals: [0, 4],
       date: "29.04.23"
     },
     {
       teams: ["BVB2", "SVE"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "29.04.23"
     },
     {
       teams: ["AUE", "VKÖ"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "29.04.23"
     },
     {
       teams: ["WIE", "SVM"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "29.04.23"
     },
     {
       teams: ["SCF2", "DRE"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "29.04.23"
     },
     {
       teams: ["FCI", "SCV"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "29.04.23"
     },
     {
