@@ -1377,17 +1377,17 @@ const matches = {
     },
     {
       teams: ["STP", "BIE"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "29.04.23"
     },
     {
       teams: ["FCM", "HSV"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "29.04.23"
     },
     {
       teams: ["FCK", "ROS"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "29.04.23"
     },
     {
