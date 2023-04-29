@@ -1382,12 +1382,7 @@ const matches = {
     },
     {
       teams: ["L47", "BSC2"],
-      goals: [null, null],
-      date: "29.04.23"
-    },
-    {
-      teams: ["ECB", "BFC"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "29.04.23"
     },
     {
@@ -1401,14 +1396,19 @@ const matches = {
       date: "30.04.23"
     },
     {
+      teams: ["AGL", "TBB"],
+      goals: [null, null],
+      date: "30.04.23"
+    },
+    {
       teams: ["ERF", "HBS"],
       goals: [null, null],
       date: "30.04.23"
     },
     {
-      teams: ["AGL", "TBB"],
+      teams: ["ECB", "BFC"],
       goals: [null, null],
-      date: "30.04.23"
+      date: "02.05.23"
     }
   ],
   31: [
