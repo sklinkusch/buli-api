@@ -1402,7 +1402,7 @@ const matches = {
     },
     {
       teams: ["ERF", "HBS"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "30.04.23"
     },
     {
