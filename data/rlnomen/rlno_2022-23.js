@@ -1387,17 +1387,17 @@ const matches = {
     },
     {
       teams: ["CHL", "GFC"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "30.04.23"
     },
     {
       teams: ["CFC", "SVB"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "30.04.23"
     },
     {
       teams: ["AGL", "TBB"],
-      goals: [null, null],
+      goals: [5, 2],
       date: "30.04.23"
     },
     {
