@@ -1766,7 +1766,7 @@ const matches = {
     },
     {
       teams: ["RWE", "OLD"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "30.04.23"
     }
   ],
