@@ -1397,17 +1397,17 @@ const matches = {
     },
     {
       teams: ["KIE", "D98"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "30.04.23"
     },
     {
       teams: ["DÜS", "KSC"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "30.04.23"
     },
     {
       teams: ["SVS", "JRE"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "30.04.23"
     }
   ],
