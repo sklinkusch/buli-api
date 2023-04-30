@@ -1761,7 +1761,7 @@ const matches = {
     },
     {
       teams: ["FCS", "MÜN"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "30.04.23"
     },
     {
