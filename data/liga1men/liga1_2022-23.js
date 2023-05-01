@@ -1460,9 +1460,9 @@ const matches = {
   ],
   32: [
     {
-      teams: ["VfB", "B04"],
+      teams: ["KÖL", "BSC"],
       goals: [null, null],
-      date: "13.05.23"
+      date: "12.05.23"
     },
     {
       teams: ["FCU", "SCF"],
@@ -1480,17 +1480,7 @@ const matches = {
       date: "13.05.23"
     },
     {
-      teams: ["BVB", "MGL"],
-      goals: [null, null],
-      date: "13.05.23"
-    },
-    {
       teams: ["BOC", "FCA"],
-      goals: [null, null],
-      date: "13.05.23"
-    },
-    {
-      teams: ["KÖL", "BSC"],
       goals: [null, null],
       date: "13.05.23"
     },
@@ -1500,9 +1490,19 @@ const matches = {
       date: "13.05.23"
     },
     {
-      teams: ["RBL", "SVW"],
+      teams: ["BVB", "MGL"],
       goals: [null, null],
       date: "13.05.23"
+    },
+    {
+      teams: ["VfB", "B04"],
+      goals: [null, null],
+      date: "14.05.23"
+    },
+    {
+      teams: ["RBL", "SVW"],
+      goals: [null, null],
+      date: "14.05.23"
     }
   ],
   33: [
