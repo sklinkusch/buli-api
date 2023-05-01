@@ -1507,14 +1507,9 @@ const matches = {
   ],
   33: [
     {
-      teams: ["FCA", "BVB"],
+      teams: ["SCF", "WOB"],
       goals: [null, null],
-      date: "20.05.23"
-    },
-    {
-      teams: ["FCB", "RBL"],
-      goals: [null, null],
-      date: "20.05.23"
+      date: "19.05.23"
     },
     {
       teams: ["HOF", "FCU"],
@@ -1527,17 +1522,7 @@ const matches = {
       date: "20.05.23"
     },
     {
-      teams: ["B04", "MGL"],
-      goals: [null, null],
-      date: "20.05.23"
-    },
-    {
       teams: ["S04", "SGE"],
-      goals: [null, null],
-      date: "20.05.23"
-    },
-    {
-      teams: ["SCF", "WOB"],
       goals: [null, null],
       date: "20.05.23"
     },
@@ -1547,9 +1532,24 @@ const matches = {
       date: "20.05.23"
     },
     {
-      teams: ["M05", "VfB"],
+      teams: ["FCB", "RBL"],
       goals: [null, null],
       date: "20.05.23"
+    },
+    {
+      teams: ["M05", "VfB"],
+      goals: [null, null],
+      date: "21.05.23"
+    },
+    {
+      teams: ["FCA", "BVB"],
+      goals: [null, null],
+      date: "21.05.23"
+    },
+    {
+      teams: ["B04", "MGL"],
+      goals: [null, null],
+      date: "21.05.23"
     }
   ],
   34: [
