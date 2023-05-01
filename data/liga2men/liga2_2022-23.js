@@ -1415,35 +1415,35 @@ const matches = {
     {
       teams: ["BIE", "SGF"],
       goals: [null, null],
-      date: "07.05.23"
-    },
-    {
-      teams: ["D98", "STP"],
-      goals: [null, null],
-      date: "07.05.23"
+      date: "05.05.23"
     },
     {
       teams: ["HSV", "P07"],
       goals: [null, null],
-      date: "07.05.23"
+      date: "05.05.23"
     },
     {
       teams: ["DÜS", "KIE"],
       goals: [null, null],
-      date: "07.05.23"
+      date: "06.05.23"
     },
     {
       teams: ["KSC", "H96"],
       goals: [null, null],
-      date: "07.05.23"
-    },
-    {
-      teams: ["EBS", "SVS"],
-      goals: [null, null],
-      date: "07.05.23"
+      date: "06.05.23"
     },
     {
       teams: ["ROS", "JRE"],
+      goals: [null, null],
+      date: "06.05.23"
+    },
+    {
+      teams: ["D98", "STP"],
+      goals: [null, null],
+      date: "06.05.23"
+    },
+    {
+      teams: ["EBS", "SVS"],
       goals: [null, null],
       date: "07.05.23"
     },
