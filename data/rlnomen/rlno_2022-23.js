@@ -1415,7 +1415,27 @@ const matches = {
     {
       teams: ["LKL", "BAK"],
       goals: [null, null],
-      date: "07.05.23"
+      date: "05.05.23"
+    },
+    {
+      teams: ["BSC2", "ZFC"],
+      goals: [null, null],
+      date: "05.05.23"
+    },
+    {
+      teams: ["SVB", "ERF"],
+      goals: [null, null],
+      date: "05.05.23"
+    },
+    {
+      teams: ["GFC", "AGL"],
+      goals: [null, null],
+      date: "06.05.23"
+    },
+    {
+      teams: ["TBB", "LUC"],
+      goals: [null, null],
+      date: "06.05.23"
     },
     {
       teams: ["BFC", "CHL"],
@@ -1423,39 +1443,19 @@ const matches = {
       date: "07.05.23"
     },
     {
+      teams: ["VBL", "L47"],
+      goals: [null, null],
+      date: "07.05.23"
+    },
+    {
       teams: ["CZJ", "CFC"],
       goals: [null, null],
-      date: "07.05.23"
-    },
-    {
-      teams: ["GFC", "AGL"],
-      goals: [null, null],
-      date: "07.05.23"
-    },
-    {
-      teams: ["BSC2", "ZFC"],
-      goals: [null, null],
-      date: "07.05.23"
-    },
-    {
-      teams: ["SVB", "ERF"],
-      goals: [null, null],
-      date: "07.05.23"
-    },
-    {
-      teams: ["TBB", "LUC"],
-      goals: [null, null],
-      date: "07.05.23"
+      date: "08.05.23"
     },
     {
       teams: ["HBS", "ECB"],
       goals: [null, null],
-      date: "07.05.23"
-    },
-    {
-      teams: ["VBL", "L47"],
-      goals: [null, null],
-      date: "07.05.23"
+      date: "08.05.23"
     }
   ],
   32: [
