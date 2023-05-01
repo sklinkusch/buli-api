@@ -1507,19 +1507,34 @@ const matches = {
   ],
   33: [
     {
-      teams: ["HSV", "SGF"],
-      goals: [null, null],
-      date: "21.05.23"
-    },
-    {
       teams: ["KIE", "STP"],
       goals: [null, null],
-      date: "21.05.23"
+      date: "19.05.23"
+    },
+    {
+      teams: ["D98", "FCM"],
+      goals: [null, null],
+      date: "19.05.23"
     },
     {
       teams: ["BIE", "P07"],
       goals: [null, null],
-      date: "21.05.23"
+      date: "20.05.23"
+    },
+    {
+      teams: ["FCH", "SVS"],
+      goals: [null, null],
+      date: "20.05.23"
+    },
+    {
+      teams: ["EBS", "JRE"],
+      goals: [null, null],
+      date: "20.05.23"
+    },
+    {
+      teams: ["HSV", "SGF"],
+      goals: [null, null],
+      date: "20.05.23"
     },
     {
       teams: ["DÜS", "H96"],
@@ -1528,21 +1543,6 @@ const matches = {
     },
     {
       teams: ["FCN", "ROS"],
-      goals: [null, null],
-      date: "21.05.23"
-    },
-    {
-      teams: ["FCH", "SVS"],
-      goals: [null, null],
-      date: "21.05.23"
-    },
-    {
-      teams: ["EBS", "JRE"],
-      goals: [null, null],
-      date: "21.05.23"
-    },
-    {
-      teams: ["D98", "FCM"],
       goals: [null, null],
       date: "21.05.23"
     },
