@@ -1414,17 +1414,17 @@ const matches = {
   31: [
     {
       teams: ["LKL", "BAK"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "05.05.23"
     },
     {
       teams: ["BSC2", "ZFC"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "05.05.23"
     },
     {
       teams: ["SVB", "ERF"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "05.05.23"
     },
     {
