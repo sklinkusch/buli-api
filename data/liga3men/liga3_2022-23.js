@@ -1773,7 +1773,7 @@ const matches = {
   35: [
     {
       teams: ["DUI", "AUE"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "05.05.23"
     },
     {
