@@ -1414,12 +1414,12 @@ const matches = {
   31: [
     {
       teams: ["B04", "KÖL"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "05.05.23"
     },
     {
       teams: ["M05", "S04"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "05.05.23"
     },
     {
