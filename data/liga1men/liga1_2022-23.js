@@ -1424,27 +1424,27 @@ const matches = {
     },
     {
       teams: ["SCF", "RBL"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "06.05.23"
     },
     {
       teams: ["FCA", "FCU"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "06.05.23"
     },
     {
       teams: ["HOF", "SGE"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "06.05.23"
     },
     {
       teams: ["MGL", "BOC"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "06.05.23"
     },
     {
       teams: ["BSC", "VfB"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "06.05.23"
     },
     {
