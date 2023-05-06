@@ -580,12 +580,12 @@ const matches = {
   19: [
     {
       teams: ["B04", "SGE"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "06.05.23"
     },
     {
       teams: ["ESS", "FCB"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "06.05.23"
     },
     {
