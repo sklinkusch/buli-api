@@ -1424,17 +1424,17 @@ const matches = {
     },
     {
       teams: ["DÜS", "KIE"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "06.05.23"
     },
     {
       teams: ["KSC", "H96"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "06.05.23"
     },
     {
       teams: ["ROS", "JRE"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "06.05.23"
     },
     {
