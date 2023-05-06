@@ -1429,12 +1429,12 @@ const matches = {
     },
     {
       teams: ["GFC", "AGL"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "06.05.23"
     },
     {
       teams: ["TBB", "LUC"],
-      goals: [null, null],
+      goals: [1, 3],
       date: "06.05.23"
     },
     {
