@@ -1778,32 +1778,32 @@ const matches = {
     },
     {
       teams: ["DRE", "WIE"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "06.05.23"
     },
     {
       teams: ["HFC", "FCI"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "06.05.23"
     },
     {
       teams: ["ZWI", "WMA"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "06.05.23"
     },
     {
       teams: ["SVM", "RWE"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "06.05.23"
     },
     {
       teams: ["MÜN", "SCF2"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "06.05.23"
     },
     {
       teams: ["SVE", "BAY"],
-      goals: [null, null],
+      goals: [5, 2],
       date: "06.05.23"
     },
     {
