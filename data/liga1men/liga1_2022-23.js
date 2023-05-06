@@ -1449,7 +1449,7 @@ const matches = {
     },
     {
       teams: ["SVW", "FCB"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "06.05.23"
     },
     {
