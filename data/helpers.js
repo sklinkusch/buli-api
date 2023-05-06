@@ -354,8 +354,14 @@ exports.makeTable = (matches) => {
       (goalSum, match) => goalSum + match.goals[1],
       0
     );
+    const live = ownMatches.reduce((acc, match) => {
+      if (match.live) return true;
+      if (acc === true) return true;
+      return false;
+    }, false);
     return {
       team,
+      live,
       ownMatches,
       goals,
       countergoals,
