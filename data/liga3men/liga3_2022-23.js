@@ -1813,7 +1813,7 @@ const matches = {
     },
     {
       teams: ["VKÖ", "BVB2"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "07.05.23"
     },
     {
