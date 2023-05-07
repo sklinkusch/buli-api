@@ -600,12 +600,12 @@ const matches = {
     },
     {
       teams: ["HOF", "POT"],
-      goals: [null, null],
+      goals: [6, 1],
       date: "07.05.23"
     },
     {
       teams: ["SVM", "DUI"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "07.05.23"
     }
   ],
