@@ -1439,12 +1439,12 @@ const matches = {
     },
     {
       teams: ["BFC", "CHL"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "07.05.23"
     },
     {
       teams: ["VBL", "L47"],
-      goals: [null, null],
+      goals: [2, 4],
       date: "07.05.23"
     },
     {
