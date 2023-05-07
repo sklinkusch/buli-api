@@ -590,12 +590,12 @@ const matches = {
     },
     {
       teams: ["WOB", "KÖL"],
-      goals: [null, null],
+      goals: [7, 1],
       date: "07.05.23"
     },
     {
       teams: ["SCF", "SVW"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "07.05.23"
     },
     {
