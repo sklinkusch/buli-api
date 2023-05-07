@@ -1449,12 +1449,12 @@ const matches = {
     },
     {
       teams: ["CZJ", "CFC"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "08.05.23"
     },
     {
       teams: ["HBS", "ECB"],
-      goals: [null, null],
+      goals: [1, 3],
       date: "08.05.23"
     }
   ],
