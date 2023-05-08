@@ -1818,7 +1818,7 @@ const matches = {
     },
     {
       teams: ["SCV", "OSN"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "08.05.23"
     }
   ],
