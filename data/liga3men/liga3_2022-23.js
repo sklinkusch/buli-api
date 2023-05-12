@@ -1825,7 +1825,7 @@ const matches = {
   36: [
     {
       teams: ["FCI", "DUI"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "12.05.23"
     },
     {
