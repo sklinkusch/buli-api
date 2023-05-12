@@ -1461,7 +1461,7 @@ const matches = {
   32: [
     {
       teams: ["KÖL", "BSC"],
-      goals: [null, null],
+      goals: [5, 2],
       date: "12.05.23"
     },
     {
