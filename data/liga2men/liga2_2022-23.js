@@ -1471,17 +1471,17 @@ const matches = {
     },
     {
       teams: ["FCK", "BIE"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "13.05.23"
     },
     {
       teams: ["KIE", "KSC"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "13.05.23"
     },
     {
       teams: ["SGF", "EBS"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "13.05.23"
     },
     {
