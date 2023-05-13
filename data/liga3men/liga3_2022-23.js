@@ -1830,32 +1830,32 @@ const matches = {
     },
     {
       teams: ["WMA", "OLD"],
-      goals: [null, null],
+      goals: [1, 3],
       date: "13.05.23"
     },
     {
       teams: ["SCF2", "SVE"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "13.05.23"
     },
     {
       teams: ["BAY", "VKÖ"],
-      goals: [null, null],
+      goals: [1, 4],
       date: "13.05.23"
     },
     {
       teams: ["FCS", "HFC"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "13.05.23"
     },
     {
       teams: ["ZWI", "DRE"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "13.05.23"
     },
     {
       teams: ["WIE", "SCV"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "13.05.23"
     },
     {
