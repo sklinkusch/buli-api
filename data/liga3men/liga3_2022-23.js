@@ -1860,7 +1860,7 @@ const matches = {
     },
     {
       teams: ["RWE", "MÜN"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "14.05.23"
     },
     {
