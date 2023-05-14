@@ -622,12 +622,12 @@ const matches = {
     },
     {
       teams: ["SGE", "WOB"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "14.05.23"
     },
     {
       teams: ["DUI", "SCF"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "14.05.23"
     },
     {
