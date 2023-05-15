@@ -1870,7 +1870,7 @@ const matches = {
     },
     {
       teams: ["AUE", "BVB2"],
-      goals: [null, null],
+      goals: [3, 3],
       date: "15.05.23"
     }
   ],
