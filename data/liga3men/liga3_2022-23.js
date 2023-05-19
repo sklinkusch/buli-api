@@ -1877,7 +1877,7 @@ const matches = {
   37: [
     {
       teams: ["MÜN", "WMA"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "19.05.23"
     },
     {
