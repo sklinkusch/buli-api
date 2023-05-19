@@ -1508,12 +1508,12 @@ const matches = {
   33: [
     {
       teams: ["KIE", "STP"],
-      goals: [null, null],
+      goals: [3, 4],
       date: "19.05.23"
     },
     {
       teams: ["D98", "FCM"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "19.05.23"
     },
     {
