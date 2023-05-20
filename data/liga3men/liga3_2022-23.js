@@ -1882,32 +1882,32 @@ const matches = {
     },
     {
       teams: ["SVE", "WIE"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "20.05.23"
     },
     {
       teams: ["VKÖ", "OSN"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "20.05.23"
     },
     {
       teams: ["AUE", "FCI"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "20.05.23"
     },
     {
       teams: ["HFC", "RWE"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "20.05.23"
     },
     {
       teams: ["SCV", "SCF2"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "20.05.23"
     },
     {
       teams: ["BVB2", "BAY"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "20.05.23"
     },
     {
