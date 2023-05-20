@@ -1513,22 +1513,22 @@ const matches = {
     },
     {
       teams: ["HOF", "FCU"],
-      goals: [null, null],
+      goals: [4, 2],
       date: "20.05.23"
     },
     {
       teams: ["SVW", "KÖL"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "20.05.23"
     },
     {
       teams: ["S04", "SGE"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "20.05.23"
     },
     {
       teams: ["BSC", "BOC"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "20.05.23"
     },
     {
