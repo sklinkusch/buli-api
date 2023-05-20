@@ -1708,7 +1708,7 @@ const matches = {
     },
     {
       teams: ["ZWI", "RWE"],
-      goals: [null, null], // nach Angriffen von Fans auf den Schiedsrichter beim Stand von 1:1 abgebrochen
+      goals: [0, 2], // nach Angriffen von Fans auf den Schiedsrichter beim Stand von 1:1 abgebrochen
       date: "23.04.23",
       remark: "abgebr."
     },
