@@ -1518,17 +1518,17 @@ const matches = {
     },
     {
       teams: ["BIE", "P07"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "20.05.23"
     },
     {
       teams: ["FCH", "SVS"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "20.05.23"
     },
     {
       teams: ["EBS", "JRE"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "20.05.23"
     },
     {
