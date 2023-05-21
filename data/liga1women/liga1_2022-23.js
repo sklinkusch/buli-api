@@ -654,12 +654,12 @@ const matches = {
     },
     {
       teams: ["POT", "SGE"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "2023-05-21T11:00Z"
     },
     {
       teams: ["SCF", "KÖL"],
-      goals: [null, null],
+      goals: [1, 3],
       date: "2023-05-21T11:00Z"
     },
     {
