@@ -1538,17 +1538,17 @@ const matches = {
     },
     {
       teams: ["DÜS", "H96"],
-      goals: [null, null],
+      goals: [3, 3],
       date: "2023-05-21T11:30Z"
     },
     {
       teams: ["FCN", "ROS"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-05-21T11:30Z"
     },
     {
       teams: ["KSC", "FCK"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-05-21T11:30Z"
     }
   ],
