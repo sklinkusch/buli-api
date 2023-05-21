@@ -664,12 +664,12 @@ const matches = {
     },
     {
       teams: ["SVM", "WOB"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "2023-05-21T14:00Z"
     },
     {
       teams: ["ESS", "DUI"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-05-21T14:00Z"
     }
   ],
