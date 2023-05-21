@@ -1538,7 +1538,7 @@ const matches = {
     },
     {
       teams: ["M05", "VfB"],
-      goals: [null, null],
+      goals: [1, 4],
       date: "2023-05-21T13:30Z"
     },
     {
