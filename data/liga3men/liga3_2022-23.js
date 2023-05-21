@@ -1878,104 +1878,104 @@ const matches = {
     {
       teams: ["MÜN", "WMA"],
       goals: [3, 1],
-      date: "19.05.23"
+      date: "2023-05-19T17:00Z"
     },
     {
       teams: ["SVE", "WIE"],
       goals: [1, 1],
-      date: "20.05.23"
+      date: "2023-05-20T12:00Z"
     },
     {
       teams: ["VKÖ", "OSN"],
       goals: [0, 2],
-      date: "20.05.23"
+      date: "2023-05-20T12:00Z"
     },
     {
       teams: ["AUE", "FCI"],
       goals: [0, 3],
-      date: "20.05.23"
+      date: "2023-05-20T12:00Z"
     },
     {
       teams: ["HFC", "RWE"],
       goals: [2, 0],
-      date: "20.05.23"
+      date: "2023-05-20T12:00Z"
     },
     {
       teams: ["SCV", "SCF2"],
       goals: [1, 2],
-      date: "20.05.23"
+      date: "2023-05-20T12:00Z"
     },
     {
       teams: ["BVB2", "BAY"],
       goals: [1, 0],
-      date: "20.05.23"
+      date: "2023-05-20T12:00Z"
     },
     {
       teams: ["OLD", "ZWI"],
       goals: [null, null],
-      date: "21.05.23"
+      date: "2023-05-21T11:00Z"
     },
     {
       teams: ["DUI", "FCS"],
       goals: [null, null],
-      date: "21.05.23"
+      date: "2023-05-21T12:00Z"
     },
     {
       teams: ["SVM", "DRE"],
       goals: [null, null],
-      date: "22.05.23"
+      date: "2023-05-22T17:00Z"
     }
   ],
   38: [
     {
       teams: ["BAY", "AUE"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "2023-05-27T11:30Z"
     },
     {
       teams: ["DRE", "OLD"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "2023-05-27T11:30Z"
     },
     {
       teams: ["WMA", "DUI"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "2023-05-27T11:30Z"
     },
     {
       teams: ["ZWI", "MÜN"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "2023-05-27T11:30Z"
     },
     {
       teams: ["FCI", "SVE"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "2023-05-27T11:30Z"
     },
     {
       teams: ["OSN", "BVB2"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "2023-05-27T11:30Z"
     },
     {
       teams: ["FCS", "VKÖ"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "2023-05-27T11:30Z"
     },
     {
       teams: ["SCF2", "SVM"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "2023-05-27T11:30Z"
     },
     {
       teams: ["WIE", "HFC"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "2023-05-27T11:30Z"
     },
     {
       teams: ["RWE", "SCV"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "2023-05-27T11:30Z"
     }
   ]
 };

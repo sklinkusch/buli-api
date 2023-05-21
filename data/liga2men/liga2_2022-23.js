@@ -1509,94 +1509,94 @@ const matches = {
     {
       teams: ["KIE", "STP"],
       goals: [3, 4],
-      date: "19.05.23"
+      date: "2023-05-19T16:30Z"
     },
     {
       teams: ["D98", "FCM"],
       goals: [1, 0],
-      date: "19.05.23"
+      date: "2023-05-19T16:30Z"
     },
     {
       teams: ["BIE", "P07"],
       goals: [2, 2],
-      date: "20.05.23"
+      date: "2023-05-20T11:00Z"
     },
     {
       teams: ["FCH", "SVS"],
       goals: [1, 0],
-      date: "20.05.23"
+      date: "2023-05-20T11:00Z"
     },
     {
       teams: ["EBS", "JRE"],
       goals: [1, 2],
-      date: "20.05.23"
+      date: "2023-05-20T11:00Z"
     },
     {
       teams: ["HSV", "SGF"],
       goals: [2, 1],
-      date: "20.05.23"
+      date: "2023-05-20T18:30Z"
     },
     {
       teams: ["DÜS", "H96"],
       goals: [null, null],
-      date: "21.05.23"
+      date: "2023-05-21T11:30Z"
     },
     {
       teams: ["FCN", "ROS"],
       goals: [null, null],
-      date: "21.05.23"
+      date: "2023-05-21T11:30Z"
     },
     {
       teams: ["KSC", "FCK"],
       goals: [null, null],
-      date: "21.05.23"
+      date: "2023-05-21T11:30Z"
     }
   ],
   34: [
     {
       teams: ["FCM", "BIE"],
       goals: [null, null],
-      date: "28.05.23"
+      date: "2023-05-28T13:30Z"
     },
     {
       teams: ["SVS", "HSV"],
       goals: [null, null],
-      date: "28.05.23"
+      date: "2023-05-28T13:30Z"
     },
     {
       teams: ["SGF", "D98"],
       goals: [null, null],
-      date: "28.05.23"
+      date: "2023-05-28T13:30Z"
     },
     {
       teams: ["JRE", "FCH"],
       goals: [null, null],
-      date: "28.05.23"
+      date: "2023-05-28T13:30Z"
     },
     {
       teams: ["P07", "FCN"],
       goals: [null, null],
-      date: "28.05.23"
+      date: "2023-05-28T13:30Z"
     },
     {
       teams: ["H96", "KIE"],
       goals: [null, null],
-      date: "28.05.23"
+      date: "2023-05-28T13:30Z"
     },
     {
       teams: ["FCK", "DÜS"],
       goals: [null, null],
-      date: "28.05.23"
+      date: "2023-05-28T13:30Z"
     },
     {
       teams: ["STP", "KSC"],
       goals: [null, null],
-      date: "28.05.23"
+      date: "2023-05-28T13:30Z"
     },
     {
       teams: ["ROS", "EBS"],
       goals: [null, null],
-      date: "29.05.23"
+      date: "2023-05-28T13:30Z"
     }
   ]
 };

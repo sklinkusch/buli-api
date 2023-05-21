@@ -1509,94 +1509,94 @@ const matches = {
     {
       teams: ["SCF", "WOB"],
       goals: [2, 0],
-      date: "19.05.23"
+      date: "2023-05-19T18:30Z"
     },
     {
       teams: ["HOF", "FCU"],
       goals: [4, 2],
-      date: "20.05.23"
+      date: "2023-05-20T13:30Z"
     },
     {
       teams: ["SVW", "KÖL"],
       goals: [1, 1],
-      date: "20.05.23"
+      date: "2023-05-20T13:30Z"
     },
     {
       teams: ["S04", "SGE"],
       goals: [2, 2],
-      date: "20.05.23"
+      date: "2023-05-20T13:30Z"
     },
     {
       teams: ["BSC", "BOC"],
       goals: [1, 1],
-      date: "20.05.23"
+      date: "2023-05-20T13:30Z"
     },
     {
       teams: ["FCB", "RBL"],
       goals: [1, 3],
-      date: "20.05.23"
+      date: "2023-05-20T16:30Z"
     },
     {
       teams: ["M05", "VfB"],
       goals: [null, null],
-      date: "21.05.23"
+      date: "2023-05-21T13:30Z"
     },
     {
       teams: ["FCA", "BVB"],
       goals: [null, null],
-      date: "21.05.23"
+      date: "2023-05-21T15:30Z"
     },
     {
       teams: ["B04", "MGL"],
       goals: [null, null],
-      date: "21.05.23"
+      date: "2023-05-21T17:30Z"
     }
   ],
   34: [
     {
       teams: ["KÖL", "FCB"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "2023-05-27T13:30Z"
     },
     {
       teams: ["BOC", "B04"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "2023-05-27T13:30Z"
     },
     {
       teams: ["SGE", "SCF"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "2023-05-27T13:30Z"
     },
     {
       teams: ["BVB", "M05"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "2023-05-27T13:30Z"
     },
     {
       teams: ["VfB", "HOF"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "2023-05-27T13:30Z"
     },
     {
       teams: ["MGL", "FCA"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "2023-05-27T13:30Z"
     },
     {
       teams: ["WOB", "BSC"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "2023-05-27T13:30Z"
     },
     {
       teams: ["RBL", "S04"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "2023-05-27T13:30Z"
     },
     {
       teams: ["FCU", "SVW"],
       goals: [null, null],
-      date: "27.05.23"
+      date: "2023-05-27T13:30Z"
     }
   ]
 };
