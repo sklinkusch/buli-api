@@ -663,7 +663,7 @@ const matches = {
       date: "2023-05-21T11:00Z"
     },
     {
-      teams: ["SVW", "WOB"],
+      teams: ["SVM", "WOB"],
       goals: [null, null],
       date: "2023-05-21T14:00Z"
     },
