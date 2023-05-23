@@ -375,5 +375,49 @@ exports.makeTable = (matches) => {
     };
   });
   const sortedTable = sortFunction(teamData);
-  return sortedTable;
+  const totalTeams = sortedTable.length;
+  const totalMatches = 2 * (totalTeams - 1);
+  const maxPossiblePoints = sortedTable.map((team) => {
+    const playedMatches = team.matches;
+    const matchesToPlay = totalMatches - playedMatches;
+    const minimalPoints = team.points;
+    const maximalPoints = minimalPoints + 3 * matchesToPlay;
+    return maximalPoints;
+  });
+  const bestRank = sortedTable.map((team, idx, arr) => {
+    const newTable = arr.map((tm) => {
+      if (tm.team === team.team) {
+        return { ...tm, points: maxPossiblePoints[idx] };
+      }
+      return tm;
+    });
+    const newSortedTable = newTable.sort((a, b) => {
+      if (a.points > b.points) return -1;
+      if (b.points > a.points) return +1;
+      if (a.team === team.team) return -1;
+      if (b.team === team.team) return +1;
+      return 0;
+    });
+    const teamRank = newSortedTable.findIndex((tm) => tm.team === team.team);
+    return teamRank;
+  });
+  const worstRank = sortedTable.map((team, idx, arr) => {
+    const newTable = arr.map((tm, ind) => {
+      if (tm.team === team.team) return tm;
+      return { ...tm, points: maxPossiblePoints[ind] };
+    });
+    const newSortedTable = newTable.sort((a, b) => {
+      if (a.points > b.points) return -1;
+      if (b.points > a.points) return +1;
+      if (a.team === team.team) return +1;
+      if (b.team === team.team) return -1;
+      return 0;
+    });
+    const teamRank = newSortedTable.findIndex((tm) => tm.team === team.team);
+    return teamRank;
+  });
+  const enhancedTable = sortedTable.map((team, index) => {
+    return { ...team, best: bestRank[index], worst: worstRank[index] };
+  });
+  return enhancedTable;
 };
