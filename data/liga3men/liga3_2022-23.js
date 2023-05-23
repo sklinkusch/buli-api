@@ -1922,7 +1922,7 @@ const matches = {
     },
     {
       teams: ["SVM", "DRE"],
-      goals: [null, null],
+      goals: [4, 1],
       date: "2023-05-22T17:00Z"
     }
   ],
