@@ -1555,47 +1555,47 @@ const matches = {
   34: [
     {
       teams: ["KÖL", "FCB"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-05-27T13:30Z"
     },
     {
       teams: ["BOC", "B04"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "2023-05-27T13:30Z"
     },
     {
       teams: ["SGE", "SCF"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-05-27T13:30Z"
     },
     {
       teams: ["BVB", "M05"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-05-27T13:30Z"
     },
     {
       teams: ["VfB", "HOF"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-05-27T13:30Z"
     },
     {
       teams: ["MGL", "FCA"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-05-27T13:30Z"
     },
     {
       teams: ["WOB", "BSC"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-05-27T13:30Z"
     },
     {
       teams: ["RBL", "S04"],
-      goals: [null, null],
+      goals: [4, 2],
       date: "2023-05-27T13:30Z"
     },
     {
       teams: ["FCU", "SVW"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-05-27T13:30Z"
     }
   ]
