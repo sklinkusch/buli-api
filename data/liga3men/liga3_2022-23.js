@@ -1929,52 +1929,52 @@ const matches = {
   38: [
     {
       teams: ["BAY", "AUE"],
-      goals: [null, null],
+      goals: [3, 3],
       date: "2023-05-27T11:30Z"
     },
     {
       teams: ["DRE", "OLD"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-05-27T11:30Z"
     },
     {
       teams: ["WMA", "DUI"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2023-05-27T11:30Z"
     },
     {
       teams: ["ZWI", "MÜN"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-05-27T11:30Z"
     },
     {
       teams: ["FCI", "SVE"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-05-27T11:30Z"
     },
     {
       teams: ["OSN", "BVB2"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-05-27T11:30Z"
     },
     {
       teams: ["FCS", "VKÖ"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-05-27T11:30Z"
     },
     {
       teams: ["SCF2", "SVM"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-05-27T11:30Z"
     },
     {
       teams: ["WIE", "HFC"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-05-27T11:30Z"
     },
     {
       teams: ["RWE", "SCV"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-05-27T11:30Z"
     }
   ]
