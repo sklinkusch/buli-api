@@ -1555,47 +1555,47 @@ const matches = {
   34: [
     {
       teams: ["FCM", "BIE"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "2023-05-28T13:30Z"
     },
     {
       teams: ["SVS", "HSV"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-05-28T13:30Z"
     },
     {
       teams: ["SGF", "D98"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "2023-05-28T13:30Z"
     },
     {
       teams: ["JRE", "FCH"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "2023-05-28T13:30Z"
     },
     {
       teams: ["P07", "FCN"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-05-28T13:30Z"
     },
     {
       teams: ["H96", "KIE"],
-      goals: [null, null],
+      goals: [1, 5],
       date: "2023-05-28T13:30Z"
     },
     {
       teams: ["FCK", "DÜS"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "2023-05-28T13:30Z"
     },
     {
       teams: ["STP", "KSC"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-05-28T13:30Z"
     },
     {
       teams: ["ROS", "EBS"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-05-28T13:30Z"
     }
   ]
