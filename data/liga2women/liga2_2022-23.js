@@ -929,37 +929,37 @@ const matches = {
   26: [
     {
       teams: ["FCN", "HOF2"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "2023-05-29T12:00Z"
     },
     {
       teams: ["CZJ", "WOB2"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-05-29T12:00Z"
     },
     {
       teams: ["FCI", "FCB2"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "2023-05-29T12:00Z"
     },
     {
       teams: ["GTL", "SGE2"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-05-29T12:00Z"
     },
     {
       teams: ["SCF2", "SAN"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-05-29T12:00Z"
     },
     {
       teams: ["AND", "KÖL2"],
-      goals: [null, null],
+      goals: [6, 1],
       date: "2023-05-29T12:00Z"
     },
     {
       teams: ["POT2", "RBL"],
-      goals: [null, null],
+      goals: [2, 5],
       date: "2023-05-29T12:00Z"
     }
   ]
