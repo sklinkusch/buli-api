@@ -5,7 +5,7 @@ const matches = {
     {
       teams: ["SVW", "FCB"],
       goals: [null, null],
-      date: "18.08.23"
+      date: "2023-08-18T18:30Z"
     },
     {
       teams: ["BVB", "KÖL"],
