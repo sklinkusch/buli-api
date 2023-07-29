@@ -50,49 +50,49 @@ const matches = {
   ],
   2: [
     {
-      teams: ["S04", "FCK"],
-      goals: [null, null],
-      date: "06.08.23"
-    },
-    {
       teams: ["BSC", "WIE"],
       goals: [null, null],
-      date: "06.08.23"
-    },
-    {
-      teams: ["STP", "DÜS"],
-      goals: [null, null],
-      date: "06.08.23"
+      date: "2023-08-04T16:30Z"
     },
     {
       teams: ["P07", "OSN"],
       goals: [null, null],
-      date: "06.08.23"
+      date: "2023-08-04T16:30Z"
     },
     {
-      teams: ["KSC", "HSV"],
+      teams: ["STP", "DÜS"],
       goals: [null, null],
-      date: "06.08.23"
+      date: "2023-08-05T11:00Z"
     },
     {
       teams: ["KIE", "SGF"],
       goals: [null, null],
-      date: "06.08.23"
-    },
-    {
-      teams: ["FCM", "EBS"],
-      goals: [null, null],
-      date: "06.08.23"
-    },
-    {
-      teams: ["FCN", "H96"],
-      goals: [null, null],
-      date: "06.08.23"
+      date: "2023-08-05T11:00Z"
     },
     {
       teams: ["SVE", "ROS"],
       goals: [null, null],
-      date: "06.08.23"
+      date: "2023-08-05T11:00Z"
+    },
+    {
+      teams: ["S04", "FCK"],
+      goals: [null, null],
+      date: "2023-08-05T18:30Z"
+    },
+    {
+      teams: ["KSC", "HSV"],
+      goals: [null, null],
+      date: "2023-08-06T11:30Z"
+    },
+    {
+      teams: ["FCM", "EBS"],
+      goals: [null, null],
+      date: "2023-08-06T11:30Z"
+    },
+    {
+      teams: ["FCN", "H96"],
+      goals: [null, null],
+      date: "2023-08-06T11:30Z"
     }
   ],
   3: [
