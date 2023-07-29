@@ -9,22 +9,22 @@ const matches = {
     },
     {
       teams: ["FCK", "STP"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-07-29T11:00Z"
     },
     {
       teams: ["H96", "SVE"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-07-29T11:00Z"
     },
     {
       teams: ["OSN", "KSC"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "2023-07-29T11:00Z"
     },
     {
       teams: ["WIE", "FCM"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-07-29T11:00Z"
     },
     {
