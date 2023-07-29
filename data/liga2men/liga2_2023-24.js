@@ -29,7 +29,7 @@ const matches = {
     },
     {
       teams: ["DÜS", "BSC"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-07-29T18:30Z"
     },
     {
