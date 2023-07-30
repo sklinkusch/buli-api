@@ -34,17 +34,17 @@ const matches = {
     },
     {
       teams: ["SGF", "P07"],
-      goals: [null, null],
+      goals: [5, 0],
       date: "2023-07-30T11:30Z"
     },
     {
       teams: ["ROS", "FCN"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-07-30T11:30Z"
     },
     {
       teams: ["EBS", "KIE"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-07-30T11:30Z"
     }
   ],
