@@ -51,12 +51,12 @@ const matches = {
   2: [
     {
       teams: ["BSC", "WIE"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-08-04T16:30Z"
     },
     {
       teams: ["P07", "OSN"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-08-04T16:30Z"
     },
     {
