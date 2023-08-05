@@ -9,27 +9,27 @@ const matches = {
     },
     {
       teams: ["VKÖ", "SCV"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2023-08-05T12:00Z"
     },
     {
       teams: ["LÜB", "SVS"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-08-05T12:00Z"
     },
     {
       teams: ["MÜN", "WMA"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-08-05T12:00Z"
     },
     {
       teams: ["PMS", "BVB2"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-08-05T12:00Z"
     },
     {
       teams: ["JRE", "UHA"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-08-05T12:00Z"
     },
     {
