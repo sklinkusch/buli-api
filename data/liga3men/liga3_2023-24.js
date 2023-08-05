@@ -208,8 +208,8 @@ const matches = {
       goals: [null, null],
       date: "2023-08-27T17:30Z"
     }
-  ],
-  5: [
+  ]
+  /*5: [
     {
       teams: ["", ""],
       goals: [null, null],
@@ -1976,7 +1976,7 @@ const matches = {
       goals: [null, null],
       date: ""
     }
-  ]
+  ]*/
 };
 
 const table = makeTable(matches);
