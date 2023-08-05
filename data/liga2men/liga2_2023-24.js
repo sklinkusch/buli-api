@@ -61,17 +61,17 @@ const matches = {
     },
     {
       teams: ["STP", "DÜS"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-08-05T11:00Z"
     },
     {
       teams: ["KIE", "SGF"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-08-05T11:00Z"
     },
     {
       teams: ["SVE", "ROS"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-08-05T11:00Z"
     },
     {
