@@ -81,17 +81,17 @@ const matches = {
     },
     {
       teams: ["KSC", "HSV"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-08-06T11:30Z"
     },
     {
       teams: ["FCM", "EBS"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-08-06T11:30Z"
     },
     {
       teams: ["FCN", "H96"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-08-06T11:30Z"
     }
   ],
