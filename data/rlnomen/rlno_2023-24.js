@@ -76,12 +76,12 @@ const matches = {
     },
     {
       teams: ["AGL", "BFC"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2023-08-06T11:00Z"
     },
     {
       teams: ["CHL", "VBL"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-08-06T11:00Z"
     },
     {
