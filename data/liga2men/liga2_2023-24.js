@@ -76,7 +76,7 @@ const matches = {
     },
     {
       teams: ["S04", "FCK"],
-      goals: [2, 0],
+      goals: [3, 0],
       date: "2023-08-05T18:30Z"
     },
     {
