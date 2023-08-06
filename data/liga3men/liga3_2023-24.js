@@ -44,7 +44,7 @@ const matches = {
     },
     {
       teams: ["SCF2", "DUI"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-08-06T14:30Z"
     },
     {
