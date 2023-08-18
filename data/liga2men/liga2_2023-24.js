@@ -98,12 +98,12 @@ const matches = {
   3: [
     {
       teams: ["FCK", "SVE"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "2023-08-18T16:30Z"
     },
     {
       teams: ["WIE", "KSC"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-08-18T16:30Z"
     },
     {
