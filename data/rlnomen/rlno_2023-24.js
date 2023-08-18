@@ -144,7 +144,7 @@ const matches = {
   ],
   4: [
     {
-      teams: ["ZFC", "LUK"],
+      teams: ["ZFC", "LUC"],
       goals: [null, null],
       date: "2023-08-18T17:00Z"
     },
