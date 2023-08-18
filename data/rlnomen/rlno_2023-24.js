@@ -145,17 +145,17 @@ const matches = {
   4: [
     {
       teams: ["ZFC", "LUC"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-08-18T17:00Z"
     },
     {
       teams: ["AGL", "BSC2"],
-      goals: [null, null],
+      goals: [2, 6],
       date: "2023-08-18T17:00Z"
     },
     {
       teams: ["ZWI", "VBL"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-08-18T17:00Z"
     },
     {
