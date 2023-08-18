@@ -56,7 +56,7 @@ const matches = {
   2: [
     {
       teams: ["SVS", "DRE"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-08-18T17:00Z"
     },
     {
