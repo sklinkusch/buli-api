@@ -138,7 +138,7 @@ const matches = {
     },
     {
       teams: ["ERF", "CHL"],
-      goals: [null, null],
+      goals: [4, 2],
       date: "2023-08-16T18:20Z"
     }
   ]
