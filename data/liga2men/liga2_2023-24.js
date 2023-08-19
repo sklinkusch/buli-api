@@ -108,17 +108,17 @@ const matches = {
     },
     {
       teams: ["DÜS", "P07"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-08-19T11:00Z"
     },
     {
       teams: ["SGF", "STP"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-08-19T11:00Z"
     },
     {
       teams: ["ROS", "H96"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-08-19T11:00Z"
     },
     {
