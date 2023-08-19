@@ -34,7 +34,7 @@ const matches = {
     },
     {
       teams: ["BVB", "KÖL"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-08-19T16:30Z"
     },
     {
