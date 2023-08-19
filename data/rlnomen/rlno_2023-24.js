@@ -160,12 +160,12 @@ const matches = {
     },
     {
       teams: ["BAK", "ERF"],
-      goals: [null, null],
+      goals: [0, 4],
       date: "2023-08-19T11:00Z"
     },
     {
       teams: ["CHL", "ROS2"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-08-19T11:00Z"
     },
     {
