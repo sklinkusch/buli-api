@@ -61,27 +61,27 @@ const matches = {
     },
     {
       teams: ["FCS", "VKÖ"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-08-19T12:00Z"
     },
     {
       teams: ["FCI", "HFC"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "2023-08-19T12:00Z"
     },
     {
       teams: ["DUI", "MÜN"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "2023-08-19T12:00Z"
     },
     {
       teams: ["BIE", "PMS"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "2023-08-19T12:00Z"
     },
     {
       teams: ["UHA", "ULM"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "2023-08-19T12:00Z"
     },
     {
