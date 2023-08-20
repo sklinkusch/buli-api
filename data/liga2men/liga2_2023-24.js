@@ -128,17 +128,17 @@ const matches = {
     },
     {
       teams: ["KIE", "FCM"],
-      goals: [null, null],
+      goals: [2, 4],
       date: "2023-08-20T11:30Z"
     },
     {
       teams: ["EBS", "S04"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-08-20T11:30Z"
     },
     {
       teams: ["OSN", "FCN"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "2023-08-20T11:30Z"
     }
   ],
