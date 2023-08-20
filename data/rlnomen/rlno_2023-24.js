@@ -175,12 +175,12 @@ const matches = {
     },
     {
       teams: ["ECB", "CFC"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-08-20T11:00Z"
     },
     {
       teams: ["GFC", "SVB"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-08-20T11:00Z"
     },
     {
