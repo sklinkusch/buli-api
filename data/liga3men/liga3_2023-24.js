@@ -108,27 +108,27 @@ const matches = {
   3: [
     {
       teams: ["PMS", "FCI"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2023-08-22T17:00Z"
     },
     {
       teams: ["DRE", "WMA"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-08-22T17:00Z"
     },
     {
       teams: ["ULM", "BIE"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-08-22T17:00Z"
     },
     {
       teams: ["HFC", "DUI"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-08-22T17:00Z"
     },
     {
       teams: ["MÜN", "LÜB"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-08-22T17:00Z"
     },
     {
