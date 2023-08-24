@@ -91,7 +91,7 @@ const matches = {
     },
     {
       teams: ["BAK", "BSC2"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-08-23T17:00Z"
     }
   ],
