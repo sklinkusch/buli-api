@@ -192,12 +192,12 @@ const matches = {
   5: [
     {
       teams: ["VBL", "AGL"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-08-25T17:00Z"
     },
     {
       teams: ["BFC", "CZJ"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-08-25T17:00Z"
     },
     {
