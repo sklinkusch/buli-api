@@ -160,7 +160,7 @@ const matches = {
   4: [
     {
       teams: ["DUI", "ULM"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-08-25T17:00Z"
     },
     {
