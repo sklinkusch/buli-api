@@ -50,49 +50,49 @@ const matches = {
   ],
   2: [
     {
-      teams: ["FCB", "FCA"],
-      goals: [null, null],
-      date: "26.08.23"
-    },
-    {
       teams: ["RBL", "VfB"],
-      goals: [null, null],
-      date: "26.08.23"
+      goals: [5, 1],
+      date: "2023-08-25T18:30Z"
     },
     {
       teams: ["SCF", "SVW"],
       goals: [null, null],
-      date: "26.08.23"
-    },
-    {
-      teams: ["M05", "SGE"],
-      goals: [null, null],
-      date: "26.08.23"
-    },
-    {
-      teams: ["MGL", "B04"],
-      goals: [null, null],
-      date: "26.08.23"
+      date: "2023-08-26T13:30Z"
     },
     {
       teams: ["KÖL", "WOB"],
       goals: [null, null],
-      date: "26.08.23"
+      date: "2023-08-26T13:30Z"
     },
     {
-      teams: ["BOC", "HOF"],
+      teams: ["BOC", "BVB"],
       goals: [null, null],
-      date: "26.08.23"
+      date: "2023-08-26T13:30Z"
     },
     {
       teams: ["FCH", "HOF"],
       goals: [null, null],
-      date: "26.08.23"
+      date: "2023-08-26T13:30Z"
     },
     {
       teams: ["D98", "FCU"],
       goals: [null, null],
-      date: "26.08.23"
+      date: "2023-08-26T13:30Z"
+    },
+    {
+      teams: ["MGL", "B04"],
+      goals: [null, null],
+      date: "2023-08-26T16:30Z"
+    },
+    {
+      teams: ["M05", "SGE"],
+      goals: [null, null],
+      date: "2023-08-27T13:30Z"
+    },
+    {
+      teams: ["FCB", "FCA"],
+      goals: [null, null],
+      date: "2023-08-27T15:30Z"
     }
   ],
   3: [
