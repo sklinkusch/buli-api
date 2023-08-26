@@ -202,17 +202,17 @@ const matches = {
     },
     {
       teams: ["LUC", "EIL"],
-      goals: [null, null],
+      goals: [3, 3],
       date: "2023-08-26T11:00Z"
     },
     {
       teams: ["LKL", "GFC"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-08-26T11:00Z"
     },
     {
       teams: ["ECB", "CHL"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-08-26T11:00Z"
     },
     {
