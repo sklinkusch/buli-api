@@ -170,7 +170,7 @@ const matches = {
     },
     {
       teams: ["H96", "HSV"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-08-26T18:30Z"
     },
     {
