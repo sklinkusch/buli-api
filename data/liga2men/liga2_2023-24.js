@@ -155,17 +155,17 @@ const matches = {
     },
     {
       teams: ["BSC", "SGF"],
-      goals: [null, null],
+      goals: [5, 0],
       date: "2023-08-26T11:00Z"
     },
     {
       teams: ["ROS", "OSN"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-08-26T11:00Z"
     },
     {
       teams: ["SVE", "DÜS"],
-      goals: [null, null],
+      goals: [0, 5],
       date: "2023-08-26T11:00Z"
     },
     {
