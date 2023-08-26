@@ -190,7 +190,7 @@ const matches = {
     },
     {
       teams: ["SVS", "MÜN"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "2023-08-26T14:30Z"
     },
     {
