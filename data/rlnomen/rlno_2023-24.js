@@ -217,12 +217,12 @@ const matches = {
     },
     {
       teams: ["BSC2", "ZFC"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-08-27T11:00Z"
     },
     {
       teams: ["ROS2", "BAK"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-08-27T11:00Z"
     },
     {
