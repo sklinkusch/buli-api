@@ -200,7 +200,7 @@ const matches = {
     },
     {
       teams: ["WMA", "HFC"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "2023-08-27T14:30Z"
     },
     {
