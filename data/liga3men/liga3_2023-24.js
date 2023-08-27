@@ -205,7 +205,7 @@ const matches = {
     },
     {
       teams: ["RWE", "PMS"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-08-27T17:30Z"
     }
   ],
