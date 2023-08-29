@@ -232,7 +232,7 @@ const matches = {
     },
     {
       teams: ["CFC", "SVB"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-08-29T17:00Z"
     }
   ],
