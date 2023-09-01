@@ -239,7 +239,7 @@ const matches = {
   6: [
     {
       teams: ["AGL", "ERF"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-08-31T17:00Z"
     },
     {
