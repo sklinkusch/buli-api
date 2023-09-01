@@ -192,12 +192,12 @@ const matches = {
   5: [
     {
       teams: ["DÜS", "KSC"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2023-09-01T16:30Z"
     },
     {
       teams: ["EBS", "STP"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-09-01T16:30Z"
     },
     {
