@@ -212,7 +212,7 @@ const matches = {
   5: [
     {
       teams: ["FCS", "BVB2"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-09-01T17:00Z"
     },
     {
