@@ -244,12 +244,12 @@ const matches = {
     },
     {
       teams: ["EIL", "BSC2"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "2023-09-01T17:00Z"
     },
     {
       teams: ["BAK", "ECB"],
-      goals: [null, null],
+      goals: [0, 4],
       date: "2023-09-01T17:00Z"
     },
     {
