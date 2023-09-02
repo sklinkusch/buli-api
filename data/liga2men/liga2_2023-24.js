@@ -202,17 +202,17 @@ const matches = {
     },
     {
       teams: ["KIE", "P07"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-09-02T11:00Z"
     },
     {
       teams: ["FCM", "BSC"],
-      goals: [null, null],
+      goals: [6, 4],
       date: "2023-09-02T11:00Z"
     },
     {
       teams: ["WIE", "S04"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-09-02T11:00Z"
     },
     {
