@@ -217,27 +217,27 @@ const matches = {
     },
     {
       teams: ["SCF2", "RWE"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "2023-09-02T12:00Z"
     },
     {
       teams: ["PMS", "WMA"],
-      goals: [null, null],
+      goals: [1, 3],
       date: "2023-09-02T12:00Z"
     },
     {
       teams: ["SCV", "UHA"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-09-02T12:00Z"
     },
     {
       teams: ["ULM", "LÜB"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-09-02T12:00Z"
     },
     {
       teams: ["DRE", "FCI"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-09-02T12:00Z"
     },
     {
