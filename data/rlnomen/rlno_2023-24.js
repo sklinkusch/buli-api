@@ -259,7 +259,7 @@ const matches = {
     },
     {
       teams: ["CHL", "CFC"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-09-02T14:00Z"
     },
     {
