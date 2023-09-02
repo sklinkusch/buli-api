@@ -242,7 +242,7 @@ const matches = {
     },
     {
       teams: ["MÜN", "AUE"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-09-02T14:30Z"
     },
     {
