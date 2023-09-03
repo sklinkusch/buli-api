@@ -247,7 +247,7 @@ const matches = {
     },
     {
       teams: ["HFC", "SVS"],
-      goals: [null, null],
+      goals: [4, 1],
       date: "2023-09-03T11:30Z"
     },
     {
