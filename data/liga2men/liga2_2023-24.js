@@ -222,17 +222,17 @@ const matches = {
     },
     {
       teams: ["HSV", "ROS"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-09-03T11:30Z"
     },
     {
       teams: ["SGF", "H96"],
-      goals: [null, null],
+      goals: [1, 3],
       date: "2023-09-03T11:30Z"
     },
     {
       teams: ["OSN", "SVE"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-09-03T11:30Z"
     }
   ],
