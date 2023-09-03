@@ -252,7 +252,7 @@ const matches = {
     },
     {
       teams: ["JRE", "DUI"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-09-03T14:30Z"
     },
     {
