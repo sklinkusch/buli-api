@@ -133,7 +133,7 @@ const matches = {
     },
     {
       teams: ["SGE", "KÖL"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-09-03T13:30Z"
     },
     {
