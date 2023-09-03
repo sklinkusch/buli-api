@@ -264,12 +264,12 @@ const matches = {
     },
     {
       teams: ["ZWI", "ROS2"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "2023-09-03T11:00Z"
     },
     {
       teams: ["GFC", "BFC"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-09-03T11:00Z"
     },
     {
