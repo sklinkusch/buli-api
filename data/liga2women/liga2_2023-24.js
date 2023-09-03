@@ -98,12 +98,12 @@ const matches = {
     },
     {
       teams: ["SGE2", "WEI"],
-      goals: [null, null],
+      goals: [3, 3],
       date: "2023-09-03T12:00Z"
     },
     {
       teams: ["SAN", "POT"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-09-03T12:00Z"
     },
     {
