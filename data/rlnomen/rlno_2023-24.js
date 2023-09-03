@@ -279,7 +279,7 @@ const matches = {
     },
     {
       teams: ["SVB", "LKL"],
-      goals: [null, null],
+      goals: [4, 1],
       date: "2023-09-03T14:05Z"
     }
   ]
