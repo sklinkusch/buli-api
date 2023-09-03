@@ -78,22 +78,22 @@ const matches = {
   3: [
     {
       teams: ["FCB2", "WOB2"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-09-03T09:00Z"
     },
     {
       teams: ["CZJ", "AND"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-09-03T09:00Z"
     },
     {
       teams: ["GTL", "HOF2"],
-      goals: [null, null],
+      goals: [6, 0],
       date: "2023-09-03T09:00Z"
     },
     {
       teams: ["HSV", "FCI"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-09-03T09:00Z"
     },
     {
