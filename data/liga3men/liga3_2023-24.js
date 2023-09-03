@@ -257,7 +257,7 @@ const matches = {
     },
     {
       teams: ["VKÖ", "BIE"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-09-03T17:30Z"
     }
   ],
