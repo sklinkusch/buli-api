@@ -138,7 +138,7 @@ const matches = {
     },
     {
       teams: ["FCU", "RBL"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "2023-09-03T15:30Z"
     }
   ],
