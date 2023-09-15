@@ -264,7 +264,7 @@ const matches = {
   6: [
     {
       teams: ["DUI", "SCV"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "2023-09-15T17:00Z"
     },
     {
