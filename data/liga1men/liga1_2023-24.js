@@ -145,48 +145,48 @@ const matches = {
   4: [
     {
       teams: ["FCB", "B04"],
-      goals: [null, null],
-      date: "16.09.23"
+      goals: [2, 2],
+      date: "2023-09-15T18:30Z"
     },
     {
       teams: ["RBL", "FCA"],
       goals: [null, null],
-      date: "16.09.23"
+      date: "2023-09-16T13:30Z"
     },
     {
       teams: ["SCF", "BVB"],
       goals: [null, null],
-      date: "16.09.23"
+      date: "2023-09-16T13:30Z"
     },
     {
       teams: ["WOB", "FCU"],
       goals: [null, null],
-      date: "16.09.23"
+      date: "2023-09-16T13:30Z"
     },
     {
       teams: ["M05", "VfB"],
       goals: [null, null],
-      date: "16.09.23"
+      date: "2023-09-16T13:30Z"
     },
     {
       teams: ["KÖL", "HOF"],
       goals: [null, null],
-      date: "16.09.23"
+      date: "2023-09-16T13:30Z"
     },
     {
       teams: ["BOC", "SGE"],
       goals: [null, null],
-      date: "16.09.23"
+      date: "2023-09-16T16:30Z"
     },
     {
       teams: ["FCH", "SVW"],
       goals: [null, null],
-      date: "16.09.23"
+      date: "2023-09-17T13:30Z"
     },
     {
       teams: ["D98", "MGL"],
       goals: [null, null],
-      date: "16.09.23"
+      date: "2023-09-17T15:30Z"
     }
   ],
   5: [
