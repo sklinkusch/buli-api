@@ -239,12 +239,12 @@ const matches = {
   6: [
     {
       teams: ["P07", "WIE"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-09-15T16:30Z"
     },
     {
       teams: ["FCN", "SGF"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-09-15T16:30Z"
     },
     {
