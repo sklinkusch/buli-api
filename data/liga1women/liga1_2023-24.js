@@ -9,7 +9,7 @@ const matches = {
     },
     {
       teams: ["HOF", "DUI"],
-      goals: [null, null],
+      goals: [9, 0],
       date: "2023-09-16T10:00Z"
     },
     {
