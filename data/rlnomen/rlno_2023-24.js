@@ -301,12 +301,12 @@ const matches = {
     },
     {
       teams: ["BSC2", "CZJ"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-09-16T11:00Z"
     },
     {
       teams: ["ERF", "ZFC"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-09-16T11:00Z"
     },
     {
