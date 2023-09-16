@@ -175,7 +175,7 @@ const matches = {
     },
     {
       teams: ["BOC", "SGE"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-09-16T16:30Z"
     },
     {
