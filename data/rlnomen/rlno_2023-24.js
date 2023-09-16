@@ -310,7 +310,7 @@ const matches = {
       date: "2023-09-16T11:00Z"
     },
     {
-      teams: ["VBL", "GEIL"],
+      teams: ["VBL", "EIL"],
       goals: [null, null],
       date: "2023-09-17T11:00Z"
     },
