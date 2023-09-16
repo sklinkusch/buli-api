@@ -294,7 +294,7 @@ const matches = {
     },
     {
       teams: ["FCI", "MÜN"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-09-16T14:30Z"
     },
     {
