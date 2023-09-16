@@ -269,31 +269,31 @@ const matches = {
     },
     {
       teams: ["RWE", "JRE"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-09-16T12:00Z"
     },
     {
       teams: ["BIE", "SCF2"],
-      goals: [null, null],
-      date: "2023-09-16T12:00Z"
-    },
-    {
-      teams: ["FCI", "MÜN"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "2023-09-16T12:00Z"
     },
     {
       teams: ["LÜB", "DRE"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-09-16T12:00Z"
     },
     {
       teams: ["BVB2", "VKÖ"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-09-16T12:00Z"
     },
     {
       teams: ["SVS", "PMS"],
+      goals: [0, 2],
+      date: "2023-09-16T12:00Z"
+    },
+    {
+      teams: ["FCI", "MÜN"],
       goals: [null, null],
       date: "2023-09-16T14:30Z"
     },
