@@ -130,22 +130,22 @@ const matches = {
     },
     {
       teams: ["AND", "SAN"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "2023-09-17T12:00Z"
     },
     {
       teams: ["HOF2", "SGE2"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-09-17T12:00Z"
     },
     {
       teams: ["POT", "FCB2"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-09-17T12:00Z"
     },
     {
       teams: ["WOB2", "GTL"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-09-17T12:00Z"
     }
   ],
