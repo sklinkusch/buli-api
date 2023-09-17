@@ -29,7 +29,7 @@ const matches = {
     },
     {
       teams: ["ESS", "SGE"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-09-17T16:30Z"
     }
   ],
