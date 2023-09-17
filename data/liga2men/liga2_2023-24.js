@@ -269,17 +269,17 @@ const matches = {
     },
     {
       teams: ["BSC", "EBS"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "2023-09-17T11:30Z"
     },
     {
       teams: ["STP", "KIE"],
-      goals: [null, null],
+      goals: [5, 1],
       date: "2023-09-17T11:30Z"
     },
     {
       teams: ["H96", "OSN"],
-      goals: [null, null],
+      goals: [7, 0],
       date: "2023-09-17T11:30Z"
     }
   ],
