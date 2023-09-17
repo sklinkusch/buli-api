@@ -115,17 +115,17 @@ const matches = {
   4: [
     {
       teams: ["MGL", "CZJ"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-09-17T09:00Z"
     },
     {
       teams: ["FCI", "SVM"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-09-17T09:00Z"
     },
     {
       teams: ["WEI", "HSV"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "2023-09-17T09:00Z"
     },
     {
