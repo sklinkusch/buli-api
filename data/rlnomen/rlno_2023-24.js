@@ -311,17 +311,17 @@ const matches = {
     },
     {
       teams: ["VBL", "EIL"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-09-17T11:00Z"
     },
     {
       teams: ["CHL", "BAK"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-09-17T11:00Z"
     },
     {
       teams: ["ROS2", "AGL"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-09-17T11:00Z"
     },
     {
