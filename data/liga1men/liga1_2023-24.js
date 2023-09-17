@@ -185,7 +185,7 @@ const matches = {
     },
     {
       teams: ["D98", "MGL"],
-      goals: [null, null],
+      goals: [3, 3],
       date: "2023-09-17T15:30Z"
     }
   ],
