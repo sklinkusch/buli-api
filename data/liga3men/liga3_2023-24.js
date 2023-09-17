@@ -299,7 +299,7 @@ const matches = {
     },
     {
       teams: ["AUE", "HFC"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2023-09-17T11:30Z"
     },
     {
