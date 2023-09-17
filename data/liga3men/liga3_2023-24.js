@@ -310,7 +310,7 @@ const matches = {
     {
       teams: ["UHA", "FCS"],
       goals: [0, 0],
-      date: "2023-09-17T11:30Z"
+      date: "2023-09-17T17:30Z"
     }
   ],
   7: [
