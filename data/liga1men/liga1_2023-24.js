@@ -180,7 +180,7 @@ const matches = {
     },
     {
       teams: ["FCH", "SVW"],
-      goals: [null, null],
+      goals: [4, 2],
       date: "2023-09-17T13:30Z"
     },
     {
