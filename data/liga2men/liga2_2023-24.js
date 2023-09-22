@@ -286,12 +286,12 @@ const matches = {
   7: [
     {
       teams: ["FCM", "P07"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-09-22T16:30Z"
     },
     {
       teams: ["OSN", "HSV"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-09-22T16:30Z"
     },
     {
