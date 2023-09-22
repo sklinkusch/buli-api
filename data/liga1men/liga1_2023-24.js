@@ -191,49 +191,49 @@ const matches = {
   ],
   5: [
     {
+      teams: ["VfB", "D98"],
+      goals: [3, 1],
+      date: "2023-09-22T18:30Z"
+    },
+    {
       teams: ["FCB", "BOC"],
       goals: [null, null],
-      date: "23.09.23"
+      date: "2023-09-23T13:30Z"
     },
     {
       teams: ["BVB", "WOB"],
       goals: [null, null],
-      date: "23.09.23"
+      date: "2023-09-23T13:30Z"
     },
     {
       teams: ["FCU", "HOF"],
       goals: [null, null],
-      date: "23.09.23"
-    },
-    {
-      teams: ["B04", "FCH"],
-      goals: [null, null],
-      date: "23.09.23"
-    },
-    {
-      teams: ["SGE", "SCF"],
-      goals: [null, null],
-      date: "23.09.23"
+      date: "2023-09-23T13:30Z"
     },
     {
       teams: ["MGL", "RBL"],
       goals: [null, null],
-      date: "23.09.23"
-    },
-    {
-      teams: ["SVW", "KÖL"],
-      goals: [null, null],
-      date: "23.09.23"
+      date: "2023-09-23T13:30Z"
     },
     {
       teams: ["FCA", "M05"],
       goals: [null, null],
-      date: "23.09.23"
+      date: "2023-09-23T13:30Z"
     },
     {
-      teams: ["VfB", "D98"],
+      teams: ["SVW", "KÖL"],
       goals: [null, null],
-      date: "23.09.23"
+      date: "2023-09-23T16:30Z"
+    },
+    {
+      teams: ["B04", "FCH"],
+      goals: [null, null],
+      date: "2023-09-24T13:30Z"
+    },
+    {
+      teams: ["SGE", "SCF"],
+      goals: [null, null],
+      date: "2023-09-24T15:30Z"
     }
   ],
   6: [
