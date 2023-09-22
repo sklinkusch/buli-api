@@ -343,7 +343,7 @@ const matches = {
     },
     {
       teams: ["ZWI", "CHL"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-09-22T17:30Z"
     },
     {
