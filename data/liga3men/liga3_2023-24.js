@@ -346,7 +346,7 @@ const matches = {
     },
     {
       teams: ["HFC", "MÜN"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "2023-09-23T14:30Z"
     },
     {
