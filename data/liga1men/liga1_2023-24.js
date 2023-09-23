@@ -197,27 +197,27 @@ const matches = {
     },
     {
       teams: ["FCB", "BOC"],
-      goals: [null, null],
+      goals: [7, 0],
       date: "2023-09-23T13:30Z"
     },
     {
       teams: ["BVB", "WOB"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-09-23T13:30Z"
     },
     {
       teams: ["FCU", "HOF"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "2023-09-23T13:30Z"
     },
     {
       teams: ["MGL", "RBL"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-09-23T13:30Z"
     },
     {
       teams: ["FCA", "M05"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-09-23T13:30Z"
     },
     {
