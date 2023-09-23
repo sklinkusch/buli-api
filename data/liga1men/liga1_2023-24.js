@@ -222,7 +222,7 @@ const matches = {
     },
     {
       teams: ["SVW", "KÖL"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-09-23T16:30Z"
     },
     {
