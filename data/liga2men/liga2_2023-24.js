@@ -311,7 +311,7 @@ const matches = {
     },
     {
       teams: ["STP", "S04"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2023-09-23T18:30Z"
     },
     {
