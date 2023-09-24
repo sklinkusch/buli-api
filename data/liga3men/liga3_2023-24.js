@@ -351,7 +351,7 @@ const matches = {
     },
     {
       teams: ["ULM", "RWE"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-09-24T11:30Z"
     },
     {
