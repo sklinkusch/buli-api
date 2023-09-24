@@ -363,17 +363,17 @@ const matches = {
     },
     {
       teams: ["AGL", "ECB"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-09-24T11:00Z"
     },
     {
       teams: ["GFC", "BSC2"],
-      goals: [null, null],
+      goals: [5, 2],
       date: "2023-09-24T11:00Z"
     },
     {
       teams: ["ZFC", "ROS2"],
-      goals: [null, null],
+      goals: [4, 2],
       date: "2023-09-24T11:30Z"
     }
   ]
