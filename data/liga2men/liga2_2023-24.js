@@ -343,17 +343,17 @@ const matches = {
     },
     {
       teams: ["KSC", "KIE"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "2023-09-30T11:00Z"
     },
     {
       teams: ["H96", "WIE"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-09-30T11:00Z"
     },
     {
       teams: ["ROS", "EBS"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-09-30T11:00Z"
     },
     {
