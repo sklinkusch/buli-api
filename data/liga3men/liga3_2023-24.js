@@ -398,7 +398,7 @@ const matches = {
     },
     {
       teams: ["LÜB", "HFC"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-09-30T14:30Z"
     },
     {
