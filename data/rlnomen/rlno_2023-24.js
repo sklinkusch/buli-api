@@ -395,12 +395,12 @@ const matches = {
     },
     {
       teams: ["VBL", "GFC"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-09-30T11:00Z"
     },
     {
       teams: ["ECB", "ZFC"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-09-30T11:00Z"
     },
     {
