@@ -405,7 +405,7 @@ const matches = {
     },
     {
       teams: ["CFC", "BFC"],
-      goals: [null, null],
+      goals: [0, 4],
       date: "2023-09-30T12:05Z"
     },
     {
