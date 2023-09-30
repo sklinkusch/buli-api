@@ -152,7 +152,7 @@ const matches = {
   5: [
     {
       teams: ["HSV", "SVM"],
-      goals: [null, null],
+      goals: [4, 3],
       date: "2023-09-30T12:00Z"
     },
     {
