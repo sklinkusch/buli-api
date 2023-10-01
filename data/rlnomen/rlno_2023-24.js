@@ -410,12 +410,12 @@ const matches = {
     },
     {
       teams: ["BAK", "ZWI"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-10-01T11:00Z"
     },
     {
       teams: ["ROS2", "EIL"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-10-01T11:00Z"
     },
     {
