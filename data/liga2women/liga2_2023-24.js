@@ -157,12 +157,12 @@ const matches = {
     },
     {
       teams: ["FCB2", "AND"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-10-01T09:00Z"
     },
     {
       teams: ["SGE2", "WOB2"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-10-01T09:00Z"
     },
     {
