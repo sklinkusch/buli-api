@@ -363,17 +363,17 @@ const matches = {
     },
     {
       teams: ["FCN", "FCM"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-10-01T11:30Z"
     },
     {
       teams: ["SVE", "SGF"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-10-01T11:30Z"
     },
     {
       teams: ["OSN", "FCK"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-10-01T11:30Z"
     }
   ],
