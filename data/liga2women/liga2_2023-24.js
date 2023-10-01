@@ -167,22 +167,22 @@ const matches = {
     },
     {
       teams: ["CZJ", "FCI"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "2023-10-01T12:00Z"
     },
     {
       teams: ["GTL", "POT"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-10-01T12:00Z"
     },
     {
       teams: ["SAN", "MGL"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "2023-10-01T12:00Z"
     },
     {
       teams: ["WEI", "HOF2"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2023-10-01T12:00Z"
     }
   ],
