@@ -403,7 +403,7 @@ const matches = {
     },
     {
       teams: ["RWE", "DRE"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2023-10-01T11:30Z"
     },
     {
