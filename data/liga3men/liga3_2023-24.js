@@ -408,7 +408,7 @@ const matches = {
     },
     {
       teams: ["BVB2", "UHA"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-10-01T14:30Z"
     },
     {
