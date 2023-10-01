@@ -274,7 +274,7 @@ const matches = {
     },
     {
       teams: ["D98", "SVW"],
-      goals: [null, null],
+      goals: [4, 2],
       date: "2023-10-01T13:30Z"
     },
     {
