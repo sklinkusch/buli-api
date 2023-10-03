@@ -425,27 +425,27 @@ const matches = {
     },
     {
       teams: ["SCF2", "SVS"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "2023-10-03T17:00Z"
     },
     {
       teams: ["VKÖ", "FCI"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-10-03T17:00Z"
     },
     {
       teams: ["FCS", "LÜB"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-10-03T17:00Z"
     },
     {
       teams: ["SCV", "BIE"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2023-10-03T17:00Z"
     },
     {
       teams: ["ULM", "MÜN"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-10-03T17:00Z"
     },
     {
