@@ -450,78 +450,78 @@ const matches = {
     },
     {
       teams: ["JRE", "WMA"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-10-04T17:00Z"
     },
     {
       teams: ["DRE", "HFC"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-10-04T17:00Z"
     },
     {
       teams: ["PMS", "AUE"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "2023-10-04T17:00Z"
     },
     {
       teams: ["UHA", "RWE"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "2023-10-04T17:00Z"
     }
-  ]
-  /*10: [
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    },
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    },
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    },
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    },
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    },
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    },
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    },
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    },
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    },
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    }
   ],
-  11: [
+  10: [
+    {
+      teams: ["SVS", "ULM"],
+      goals: [null, null],
+      date: "2023-10-06T17:00Z"
+    },
+    {
+      teams: ["DUI", "UHA"],
+      goals: [null, null],
+      date: "2023-10-07T12:00Z"
+    },
+    {
+      teams: ["BIE", "BVB2"],
+      goals: [null, null],
+      date: "2023-10-07T12:00Z"
+    },
+    {
+      teams: ["MÜN", "DRE"],
+      goals: [null, null],
+      date: "2023-10-07T12:00Z"
+    },
+    {
+      teams: ["RWE", "SCV"],
+      goals: [null, null],
+      date: "2023-10-07T12:00Z"
+    },
+    {
+      teams: ["WMA", "VKÖ"],
+      goals: [null, null],
+      date: "2023-10-07T12:00Z"
+    },
+    {
+      teams: ["AUE", "FCS"],
+      goals: [null, null],
+      date: "2023-10-07T14:30Z"
+    },
+    {
+      teams: ["LÜB", "SCF2"],
+      goals: [null, null],
+      date: "2023-10-08T11:30Z"
+    },
+    {
+      teams: ["HFC", "PMS"],
+      goals: [null, null],
+      date: "2023-10-08T14:30Z"
+    },
+    {
+      teams: ["FCI", "JRE"],
+      goals: [null, null],
+      date: "2023-10-08T17:30Z"
+    }
+  ]
+  /*11: [
     {
       teams: ["", ""],
       goals: [null, null],
