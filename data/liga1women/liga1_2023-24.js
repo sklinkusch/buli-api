@@ -68,7 +68,7 @@ const matches = {
   3: [
     {
       teams: ["WOB", "FCN"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-10-06T16:30Z"
     },
     {
