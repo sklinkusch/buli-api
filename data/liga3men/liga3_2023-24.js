@@ -477,27 +477,27 @@ const matches = {
     },
     {
       teams: ["DUI", "UHA"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-10-07T12:00Z"
     },
     {
       teams: ["BIE", "BVB2"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-10-07T12:00Z"
     },
     {
       teams: ["MÜN", "DRE"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-10-07T12:00Z"
     },
     {
       teams: ["RWE", "SCV"],
-      goals: [null, null],
+      goals: [0, 5],
       date: "2023-10-07T12:00Z"
     },
     {
       teams: ["WMA", "VKÖ"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-10-07T12:00Z"
     },
     {
