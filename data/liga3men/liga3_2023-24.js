@@ -502,7 +502,7 @@ const matches = {
     },
     {
       teams: ["AUE", "FCS"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-10-07T14:30Z"
     },
     {
