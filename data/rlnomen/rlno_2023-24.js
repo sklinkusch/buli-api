@@ -442,17 +442,17 @@ const matches = {
     },
     {
       teams: ["AGL", "BAK"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2023-10-07T11:00Z"
     },
     {
       teams: ["GFC", "ERF"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-10-07T11:00Z"
     },
     {
       teams: ["CZJ", "ROS2"],
-      goals: [null, null],
+      goals: [5, 1],
       date: "2023-10-07T11:00Z"
     },
     {
