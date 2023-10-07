@@ -78,7 +78,7 @@ const matches = {
     },
     {
       teams: ["SGE", "RBL"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2023-10-07T12:00Z"
     },
     {
