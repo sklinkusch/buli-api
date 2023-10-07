@@ -390,17 +390,17 @@ const matches = {
     },
     {
       teams: ["FCM", "KSC"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-10-07T11:00Z"
     },
     {
       teams: ["SGF", "ROS"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-10-07T11:00Z"
     },
     {
       teams: ["WIE", "HSV"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-10-07T11:00Z"
     },
     {
