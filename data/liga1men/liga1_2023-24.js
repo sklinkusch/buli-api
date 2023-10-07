@@ -291,22 +291,22 @@ const matches = {
     },
     {
       teams: ["BVB", "FCU"],
-      goals: [null, null],
+      goals: [4, 2],
       date: "2023-10-07T13:30Z"
     },
     {
       teams: ["RBL", "BOC"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-10-07T13:30Z"
     },
     {
       teams: ["FCA", "D98"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-10-07T13:30Z"
     },
     {
       teams: ["VfB", "WOB"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2023-10-07T13:30Z"
     },
     {
