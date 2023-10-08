@@ -189,27 +189,27 @@ const matches = {
   6: [
     {
       teams: ["MGL", "FCB2"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-10-08T09:00Z"
     },
     {
       teams: ["FCI", "SAN"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-10-08T09:00Z"
     },
     {
       teams: ["SVM", "CZJ"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-10-08T09:00Z"
     },
     {
       teams: ["HOF2", "HSV"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-10-08T09:00Z"
     },
     {
       teams: ["WOB2", "WEI"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-10-08T09:00Z"
     },
     {
