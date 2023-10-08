@@ -88,7 +88,7 @@ const matches = {
     },
     {
       teams: ["SCF", "SVW"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-10-08T16:30Z"
     },
     {
