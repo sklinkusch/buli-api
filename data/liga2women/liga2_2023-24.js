@@ -214,12 +214,12 @@ const matches = {
     },
     {
       teams: ["AND", "GTL"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-10-08T12:00Z"
     },
     {
       teams: ["POT", "SGE2"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-10-08T12:00Z"
     }
   ],
