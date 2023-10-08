@@ -507,7 +507,7 @@ const matches = {
     },
     {
       teams: ["LÜB", "SCF2"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-10-08T11:30Z"
     },
     {
