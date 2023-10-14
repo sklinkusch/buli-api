@@ -554,7 +554,7 @@ const matches = {
     },
     {
       teams: ["BIE", "WMA"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2023-10-14T14:30Z"
     },
     {
