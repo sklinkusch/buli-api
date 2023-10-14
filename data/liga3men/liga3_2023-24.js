@@ -524,7 +524,7 @@ const matches = {
   11: [
     {
       teams: ["BVB2", "RWE"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-10-13T17:00Z"
     },
     {
