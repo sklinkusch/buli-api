@@ -662,7 +662,7 @@ const matches = {
   15: [
     {
       teams: ["ROS2", "LUC"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-10-14T11:00Z"
     },
     {
