@@ -105,7 +105,7 @@ const matches = {
     },
     {
       teams: ["SVW", "KÖL"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "2023-10-14T12:00Z"
     },
     {
