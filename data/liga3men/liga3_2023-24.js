@@ -534,22 +534,22 @@ const matches = {
     },
     {
       teams: ["JRE", "LÜB"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-10-14T12:00Z"
     },
     {
       teams: ["UHA", "SVS"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-10-14T12:00Z"
     },
     {
       teams: ["VKÖ", "AUE"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-10-14T12:00Z"
     },
     {
       teams: ["SCV", "FCI"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-10-14T12:00Z"
     },
     {
