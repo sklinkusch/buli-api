@@ -115,7 +115,7 @@ const matches = {
     },
     {
       teams: ["RBL", "WOB"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "2023-10-15T12:00Z"
     },
     {
