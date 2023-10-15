@@ -226,17 +226,17 @@ const matches = {
   7: [
     {
       teams: ["HSV", "CZJ"],
-      goals: [null, null],
+      goals: [5, 0],
       date: "2023-10-15T09:00Z"
     },
     {
       teams: ["SAN", "SVM"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-10-15T09:00Z"
     },
     {
       teams: ["HOF2", "WOB2"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-10-15T09:00Z"
     },
     {
