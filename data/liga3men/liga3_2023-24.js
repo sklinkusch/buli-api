@@ -569,7 +569,7 @@ const matches = {
     },
     {
       teams: ["PMS", "MÜN"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-10-15T14:30Z"
     }
   ],
