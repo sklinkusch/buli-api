@@ -479,17 +479,17 @@ const matches = {
     },
     {
       teams: ["CFC", "LUC"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-10-20T17:00Z"
     },
     {
       teams: ["BSC2", "BFC"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-10-20T17:00Z"
     },
     {
       teams: ["ERF", "SVB"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-10-20T17:00Z"
     },
     {
