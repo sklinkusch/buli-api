@@ -333,7 +333,7 @@ const matches = {
   8: [
     {
       teams: ["BVB", "SVW"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-10-20T18:30Z"
     },
     {
