@@ -427,12 +427,12 @@ const matches = {
   10: [
     {
       teams: ["H96", "FCM"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-10-20T16:30Z"
     },
     {
       teams: ["SVE", "EBS"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "2023-10-20T16:30Z"
     },
     {
