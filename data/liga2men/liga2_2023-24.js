@@ -452,7 +452,7 @@ const matches = {
     },
     {
       teams: ["DÜS", "FCK"],
-      goals: [null, null],
+      goals: [4, 3],
       date: "2023-10-21T18:30Z"
     },
     {
