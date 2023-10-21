@@ -363,7 +363,7 @@ const matches = {
     },
     {
       teams: ["M05", "FCB"],
-      goals: [null, null],
+      goals: [1, 3],
       date: "2023-10-21T16:30Z"
     },
     {
