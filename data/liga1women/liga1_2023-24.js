@@ -142,7 +142,7 @@ const matches = {
     },
     {
       teams: ["ESS", "SVW"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-10-21T12:00Z"
     },
     {
