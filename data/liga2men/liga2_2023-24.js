@@ -437,17 +437,17 @@ const matches = {
     },
     {
       teams: ["HSV", "SGF"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-10-21T11:00Z"
     },
     {
       teams: ["P07", "STP"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-10-21T11:00Z"
     },
     {
       teams: ["OSN", "WIE"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "2023-10-21T11:00Z"
     },
     {
