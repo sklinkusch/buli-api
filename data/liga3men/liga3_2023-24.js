@@ -528,11 +528,6 @@ const matches = {
       date: "2023-10-13T17:00Z"
     },
     {
-      teams: ["SCF2", "HFC"],
-      goals: [null, null],
-      date: "2023-10-14T12:00Z"
-    },
-    {
       teams: ["JRE", "LÜB"],
       goals: [2, 1],
       date: "2023-10-14T12:00Z"
@@ -558,11 +553,6 @@ const matches = {
       date: "2023-10-14T14:30Z"
     },
     {
-      teams: ["FCS", "DUI"],
-      goals: [null, null],
-      date: "2023-10-15T11:30Z"
-    },
-    {
       teams: ["ULM", "DRE"],
       goals: [2, 3],
       date: "2023-10-15T11:30Z"
@@ -571,6 +561,16 @@ const matches = {
       teams: ["PMS", "MÜN"],
       goals: [1, 1],
       date: "2023-10-15T14:30Z"
+    },
+    {
+      teams: ["SCF2", "HFC"],
+      goals: [null, null],
+      date: "2023-11-28T18:00Z"
+    },
+    {
+      teams: ["FCS", "DUI"],
+      goals: [null, null],
+      date: "2023-11-29T18:00Z"
     }
   ],
   12: [
@@ -606,7 +606,7 @@ const matches = {
     },
     {
       teams: ["DUI", "BIE"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-10-21T14:30Z"
     },
     {
