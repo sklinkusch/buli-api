@@ -263,12 +263,12 @@ const matches = {
   8: [
     {
       teams: ["FCI", "GTL"],
-      goals: [null, null],
+      goals: [1, 4],
       date: "2023-10-22T09:00Z"
     },
     {
       teams: ["SVM", "FCB2"],
-      goals: [null, null],
+      goals: [5, 0],
       date: "2023-10-22T09:00Z"
     },
     {
