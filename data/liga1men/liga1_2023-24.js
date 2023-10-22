@@ -373,7 +373,7 @@ const matches = {
     },
     {
       teams: ["FCH", "FCA"],
-      goals: [null, null],
+      goals: [2, 5],
       date: "2023-10-22T15:30Z"
     }
   ],
