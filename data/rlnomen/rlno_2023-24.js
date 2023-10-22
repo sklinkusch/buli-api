@@ -514,7 +514,7 @@ const matches = {
     },
     {
       teams: ["CHL", "EIL"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-10-22T14:00Z"
     }
   ],
