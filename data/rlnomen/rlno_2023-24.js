@@ -504,12 +504,12 @@ const matches = {
     },
     {
       teams: ["VBL", "LKL"],
-      goals: [null, null],
+      goals: [5, 0],
       date: "2023-10-22T11:00Z"
     },
     {
       teams: ["ZWI", "AGL"],
-      goals: [null, null],
+      goals: [0, 5],
       date: "2023-10-22T11:00Z"
     },
     {
