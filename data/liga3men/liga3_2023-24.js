@@ -611,7 +611,7 @@ const matches = {
     },
     {
       teams: ["SVS", "SCV"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-10-22T11:30Z"
     },
     {
