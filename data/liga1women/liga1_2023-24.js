@@ -152,7 +152,7 @@ const matches = {
     },
     {
       teams: ["SGE", "DUI"],
-      goals: [null, null],
+      goals: [5, 1],
       date: "2023-10-22T14:00Z"
     },
     {
