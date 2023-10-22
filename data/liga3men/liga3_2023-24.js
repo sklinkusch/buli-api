@@ -621,7 +621,7 @@ const matches = {
     },
     {
       teams: ["AUE", "ULM"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-10-22T17:30Z"
     }
   ]
