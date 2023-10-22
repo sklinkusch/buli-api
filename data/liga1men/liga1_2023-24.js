@@ -368,7 +368,7 @@ const matches = {
     },
     {
       teams: ["KÖL", "MGL"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2023-10-22T13:30Z"
     },
     {
