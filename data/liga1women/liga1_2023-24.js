@@ -157,7 +157,7 @@ const matches = {
     },
     {
       teams: ["RBL", "FCB"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "2022-10-22T16:30Z"
     }
   ]
