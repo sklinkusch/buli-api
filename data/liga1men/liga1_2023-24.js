@@ -380,7 +380,7 @@ const matches = {
   9: [
     {
       teams: ["BOC", "M05"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-10-27T18:30Z"
     },
     {
