@@ -521,7 +521,7 @@ const matches = {
   12: [
     {
       teams: ["BFC", "VBL"],
-      goals: [null, null],
+      goals: [3, 3],
       date: "2023-10-27T17:00Z"
     },
     {
