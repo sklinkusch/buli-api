@@ -628,7 +628,7 @@ const matches = {
   13: [
     {
       teams: ["UHA", "WMA"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "2023-10-27T17:00Z"
     },
     {
