@@ -474,12 +474,12 @@ const matches = {
   11: [
     {
       teams: ["SGF", "OSN"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "2023-10-27T16:30Z"
     },
     {
       teams: ["EBS", "DÜS"],
-      goals: [null, null],
+      goals: [1, 4],
       date: "2023-10-27T16:30Z"
     },
     {
