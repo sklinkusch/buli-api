@@ -484,17 +484,17 @@ const matches = {
     },
     {
       teams: ["S04", "H96"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "2023-10-28T11:00Z"
     },
     {
       teams: ["BSC", "P07"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2023-10-28T11:00Z"
     },
     {
       teams: ["STP", "KSC"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-10-28T11:00Z"
     },
     {
