@@ -526,12 +526,12 @@ const matches = {
     },
     {
       teams: ["EIL", "BAK"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-10-28T11:00Z"
     },
     {
       teams: ["LUC", "BSC2"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-10-28T11:00Z"
     },
     {
