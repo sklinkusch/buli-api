@@ -551,7 +551,7 @@ const matches = {
     },
     {
       teams: ["LKL", "ERF"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-10-29T15:00Z"
     },
     {
