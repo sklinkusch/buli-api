@@ -504,17 +504,17 @@ const matches = {
     },
     {
       teams: ["KIE", "FCN"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "2023-10-29T12:30Z"
     },
     {
       teams: ["FCM", "SVE"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-10-29T12:30Z"
     },
     {
       teams: ["WIE", "ROS"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-10-29T12:30Z"
     }
   ],
