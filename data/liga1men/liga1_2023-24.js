@@ -415,7 +415,7 @@ const matches = {
     },
     {
       teams: ["SGE", "BVB"],
-      goals: [null, null],
+      goals: [3, 3],
       date: "2023-10-29T14:30Z"
     },
     {
