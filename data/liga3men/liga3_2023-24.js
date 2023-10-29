@@ -664,7 +664,8 @@ const matches = {
     {
       teams: ["FCS", "DRE"],
       goals: [null, null],
-      date: "2023-10-29T12:30Z"
+      date: "2023-10-29T12:30Z",
+      remark: "abgebrochen" // Platz unbespielbar, Stand nach 45 min: 0:0
     },
     {
       teams: ["SCV", "LÜB"],
