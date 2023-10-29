@@ -536,17 +536,17 @@ const matches = {
     },
     {
       teams: ["SVB", "ROS2"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-10-29T12:00Z"
     },
     {
       teams: ["GFC", "ECB"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-10-29T12:00Z"
     },
     {
       teams: ["CZJ", "CHL"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-10-29T12:00Z"
     },
     {
