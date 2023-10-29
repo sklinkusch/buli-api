@@ -669,13 +669,13 @@ const matches = {
     },
     {
       teams: ["SCV", "LÜB"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "2023-10-29T15:30Z"
     },
     {
       teams: ["SCF2", "AUE"],
       goals: [null, null],
-      date: "2023-10-29T12:30Z"
+      date: "2023-10-29T18:30Z"
     }
   ]
   /*14: [
