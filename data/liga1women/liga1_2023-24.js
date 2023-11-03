@@ -160,40 +160,40 @@ const matches = {
       goals: [0, 3],
       date: "2022-10-22T16:30Z"
     }
-  ]
-  /*6: [
+  ],
+  6: [
     {
-      teams: ["DUI", "KÖL"],
-      goals: [2, 1],
-      date: "2022-10-28T17:15Z"
+      teams: ["DUI", "RBL"],
+      goals: [null, null],
+      date: "2023-11-03T17:30Z"
     },
     {
-      teams: ["HOF", "SGE"],
-      goals: [3, 3],
-      date: "2022-10-29T11:00Z"
-    },
-    {
-      teams: ["POT", "SCF"],
-      goals: [0, 5],
-      date: "2022-10-30T12:00Z"
-    },
-    {
-      teams: ["FCB", "SVM"],
-      goals: [3, 1],
-      date: "2022-10-30T12:00Z"
+      teams: ["HOF", "SCF"],
+      goals: [null, null],
+      date: "2023-11-04T11:00Z"
     },
     {
       teams: ["B04", "ESS"],
-      goals: [6, 0],
-      date: "2022-10-30T15:00Z"
+      goals: [null, null],
+      date: "2023-11-04T13:00Z"
     },
     {
-      teams: ["SVW", "WOB"],
-      goals: [2, 3],
-      date: "2022-10-30T15:00Z"
+      teams: ["FCB", "WOB"],
+      goals: [null, null],
+      date: "2023-11-05T14:00Z"
+    },
+    {
+      teams: ["FCN", "KÖL"],
+      goals: [null, null],
+      date: "2023-11-05T17:30Z"
+    },
+    {
+      teams: ["SVW", "SGE"],
+      goals: [null, null],
+      date: "2023-11-06T18:30Z"
     }
-  ],
-  7: [
+  ]
+  /*7: [
     {
       teams: ["HOF", "B04"],
       goals: [3, 1],
