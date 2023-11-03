@@ -556,7 +556,7 @@ const matches = {
     },
     {
       teams: ["ZFC", "ZWI"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-10-31T12:30Z"
     },
     {
