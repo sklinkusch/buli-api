@@ -579,17 +579,17 @@ const matches = {
     {
       teams: ["AGL", "ZFC"],
       goals: [null, null],
-      date: "2023-11-04Z12:00Z"
+      date: "2023-11-04T12:00Z"
     },
     {
       teams: ["CHL", "GFC"],
       goals: [null, null],
-      date: "2023-11-04Z12:00Z"
+      date: "2023-11-04T12:00Z"
     },
     {
       teams: ["ERF", "BFC"],
       goals: [null, null],
-      date: "2023-11-04Z13:00Z"
+      date: "2023-11-04T13:00Z"
     },
     {
       teams: ["CFC", "BSC2"],
