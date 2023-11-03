@@ -521,12 +521,12 @@ const matches = {
   12: [
     {
       teams: ["DÜS", "WIE"],
-      goals: [null, null],
+      goals: [1, 3],
       date: "2023-11-03T17:30Z"
     },
     {
       teams: ["SVE", "STP"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "2023-11-03T17:30Z"
     },
     {
