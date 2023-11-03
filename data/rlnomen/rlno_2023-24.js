@@ -568,12 +568,12 @@ const matches = {
   13: [
     {
       teams: ["VBL", "LUC"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-11-03T18:00Z"
     },
     {
       teams: ["BAK", "CZJ"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-11-03T18:00Z"
     },
     {
