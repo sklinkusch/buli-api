@@ -169,7 +169,7 @@ const matches = {
     },
     {
       teams: ["HOF", "SCF"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "2023-11-04T11:00Z"
     },
     {
