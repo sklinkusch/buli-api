@@ -578,12 +578,12 @@ const matches = {
     },
     {
       teams: ["AGL", "ZFC"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "2023-11-04T12:00Z"
     },
     {
       teams: ["CHL", "GFC"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-11-04T12:00Z"
     },
     {
