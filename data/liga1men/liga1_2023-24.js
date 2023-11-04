@@ -457,7 +457,7 @@ const matches = {
     },
     {
       teams: ["BVB", "FCB"],
-      goals: [null, null],
+      goals: [0, 4],
       date: "2023-11-04T17:30Z"
     },
     {
