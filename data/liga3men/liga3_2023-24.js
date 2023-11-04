@@ -711,7 +711,7 @@ const matches = {
     },
     {
       teams: ["FCI", "BVB2"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-11-04T15:30Z"
     },
     {
