@@ -531,17 +531,17 @@ const matches = {
     },
     {
       teams: ["FCK", "SGF"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "2023-11-04T12:00Z"
     },
     {
       teams: ["FCN", "S04"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-11-04T12:00Z"
     },
     {
       teams: ["OSN", "KIE"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-11-04T12:00Z"
     },
     {
