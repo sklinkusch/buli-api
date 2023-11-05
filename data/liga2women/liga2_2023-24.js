@@ -320,17 +320,17 @@ const matches = {
     },
     {
       teams: ["GTL", "SVM"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-11-05T13:00Z"
     },
     {
       teams: ["HOF2", "AND"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "2023-11-05T13:00Z"
     },
     {
       teams: ["WOB2", "POT"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "2023-11-05T13:00Z"
     }
   ]
