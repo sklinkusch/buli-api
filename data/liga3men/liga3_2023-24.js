@@ -726,7 +726,7 @@ const matches = {
     },
     {
       teams: ["HFC", "VKÖ"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-11-05T18:30Z"
     }
   ],
