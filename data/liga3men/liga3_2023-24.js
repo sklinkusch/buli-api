@@ -716,7 +716,7 @@ const matches = {
     },
     {
       teams: ["WMA", "DUI"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-11-05T12:30Z"
     },
     {
