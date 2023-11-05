@@ -467,7 +467,7 @@ const matches = {
     },
     {
       teams: ["FCH", "VfB"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-11-05T16:30Z"
     }
   ],
