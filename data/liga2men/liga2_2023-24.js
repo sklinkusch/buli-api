@@ -551,17 +551,17 @@ const matches = {
     },
     {
       teams: ["KSC", "P07"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "2023-11-05T12:30Z"
     },
     {
       teams: ["H96", "EBS"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-11-05T12:30Z"
     },
     {
       teams: ["ROS", "BSC"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-11-05T12:30Z"
     }
   ],
