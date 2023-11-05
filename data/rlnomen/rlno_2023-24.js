@@ -593,12 +593,12 @@ const matches = {
     },
     {
       teams: ["CFC", "BSC2"],
-      goals: [null, null],
+      goals: [4, 1],
       date: "2023-11-05T12:00Z"
     },
     {
       teams: ["ECB", "SVB"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "2023-11-05T12:00Z"
     },
     {
