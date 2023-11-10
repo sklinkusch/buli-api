@@ -474,7 +474,7 @@ const matches = {
   11: [
     {
       teams: ["MGL", "WOB"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "2023-11-10T19:30Z"
     },
     {
