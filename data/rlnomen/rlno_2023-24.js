@@ -608,7 +608,7 @@ const matches = {
     },
     {
       teams: ["ROS2", "LKL"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-11-08T18:00Z"
     }
   ],
