@@ -196,7 +196,7 @@ const matches = {
   7: [
     {
       teams: ["SGE", "B04"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-11-10T17:30Z"
     },
     {
