@@ -733,7 +733,7 @@ const matches = {
   15: [
     {
       teams: ["VKÖ", "DRE"],
-      goals: [null, null],
+      goals: [1, 5],
       date: "2023-11-10T18:00Z"
     },
     {
