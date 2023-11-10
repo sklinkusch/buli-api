@@ -615,17 +615,17 @@ const matches = {
   14: [
     {
       teams: ["EIL", "AGL"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-11-10T18:00Z"
     },
     {
       teams: ["BSC2", "VBL"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-11-10T18:00Z"
     },
     {
       teams: ["SVB", "CHL"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-11-10T18:00Z"
     },
     {
