@@ -479,27 +479,23 @@ const matches = {
     },
     {
       teams: ["FCB", "FCH"],
-      goals: [1, 0],
-      date: "2023-11-11T14:30Z",
-      live: true
+      goals: [4, 2],
+      date: "2023-11-11T14:30Z"
     },
     {
       teams: ["FCA", "HOF"],
-      goals: [0, 0],
-      date: "2023-11-11T14:30Z",
-      live: true
+      goals: [1, 1],
+      date: "2023-11-11T14:30Z"
     },
     {
       teams: ["VfB", "BVB"],
-      goals: [0, 0],
-      date: "2023-11-11T14:30Z",
-      live: true
+      goals: [2, 1],
+      date: "2023-11-11T14:30Z"
     },
     {
       teams: ["D98", "M05"],
       goals: [0, 0],
-      date: "2023-11-11T14:30Z",
-      live: true
+      date: "2023-11-11T14:30Z"
     },
     {
       teams: ["BOC", "KÖL"],
