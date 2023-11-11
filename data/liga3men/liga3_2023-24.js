@@ -738,27 +738,27 @@ const matches = {
     },
     {
       teams: ["UHA", "AUE"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-11-11T13:00Z"
     },
     {
       teams: ["FCS", "MÜN"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "2023-11-11T13:00Z"
     },
     {
       teams: ["SCV", "HFC"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "2023-11-11T13:00Z"
     },
     {
       teams: ["BIE", "FCS"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-11-11T13:00Z"
     },
     {
       teams: ["DUI", "FCI"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-11-11T13:00Z"
     },
     {
