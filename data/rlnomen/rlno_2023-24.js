@@ -630,7 +630,7 @@ const matches = {
     },
     {
       teams: ["GFC", "BAK"],
-      goals: [null, null],
+      goals: [5, 0],
       date: "2023-11-11T12:00Z"
     },
     {
