@@ -337,27 +337,27 @@ const matches = {
   10: [
     {
       teams: ["MGL", "HOF2"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "2023-11-12T10:00Z"
     },
     {
       teams: ["CZJ", "GTL"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-11-12T10:00Z"
     },
     {
       teams: ["SAN", "FCB2"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "2023-11-12T10:00Z"
     },
     {
       teams: ["AND", "WOB2"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2023-11-12T10:00Z"
     },
     {
       teams: ["SVM", "SGE2"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-11-12T10:00Z"
     },
     {
