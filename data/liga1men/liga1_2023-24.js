@@ -509,7 +509,7 @@ const matches = {
     },
     {
       teams: ["SVW", "SGE"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-11-12T16:30Z"
     },
     {
