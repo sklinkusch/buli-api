@@ -598,17 +598,17 @@ const matches = {
     },
     {
       teams: ["FCM", "ROS"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-11-12T12:30Z"
     },
     {
       teams: ["SGF", "DÜS"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-11-12T12:30Z"
     },
     {
       teams: ["WIE", "FCK"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-11-12T12:30Z"
     }
   ],
