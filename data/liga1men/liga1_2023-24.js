@@ -504,7 +504,7 @@ const matches = {
     },
     {
       teams: ["B04", "FCU"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "2023-11-12T14:30Z"
     },
     {
