@@ -362,12 +362,12 @@ const matches = {
     },
     {
       teams: ["FCI", "WEI"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-11-12T13:00Z"
     },
     {
       teams: ["POT", "HSV"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-11-12T13:00Z"
     }
   ],
