@@ -773,7 +773,7 @@ const matches = {
     },
     {
       teams: ["RWE", "WMA"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-11-12T15:30Z"
     },
     {
