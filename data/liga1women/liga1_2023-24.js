@@ -216,7 +216,7 @@ const matches = {
     },
     {
       teams: ["FCB", "DUI"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-11-12T17:30Z"
     },
     {
