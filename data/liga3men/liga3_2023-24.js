@@ -763,7 +763,7 @@ const matches = {
     },
     {
       teams: ["BVB2", "LÜB"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-11-11T15:30Z"
     },
     {
