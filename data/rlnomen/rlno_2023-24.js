@@ -645,12 +645,12 @@ const matches = {
     },
     {
       teams: ["LUC", "ERF"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "2023-11-12T12:00Z"
     },
     {
       teams: ["BFC", "ROS2"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-11-12T12:00Z"
     },
     {
