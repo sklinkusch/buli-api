@@ -593,7 +593,7 @@ const matches = {
     },
     {
       teams: ["BSC", "KSC"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-11-11T19:30Z"
     },
     {
