@@ -228,7 +228,7 @@ const matches = {
   8: [
     {
       teams: ["HOF", "ESS"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "2023-11-17T17:30Z"
     },
     {
