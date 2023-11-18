@@ -374,17 +374,17 @@ const matches = {
   11: [
     {
       teams: ["SGE2", "CZJ"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "2023-11-18T13:00Z"
     },
     {
       teams: ["GTL", "SAN"],
-      goals: [null, null],
+      goals: [0, 4],
       date: "2023-11-18T13:00Z"
     },
     {
       teams: ["WOB2", "MGL"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-11-18T13:00Z"
     },
     {
