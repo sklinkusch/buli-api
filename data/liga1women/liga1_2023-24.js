@@ -238,7 +238,7 @@ const matches = {
     },
     {
       teams: ["WOB", "DUI"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-11-18T13:00Z"
     },
     {
