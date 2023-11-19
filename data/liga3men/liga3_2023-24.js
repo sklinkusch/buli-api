@@ -662,12 +662,6 @@ const matches = {
       date: "2023-10-28T14:30Z"
     },
     {
-      teams: ["FCS", "DRE"],
-      goals: [null, null],
-      date: "2023-10-29T12:30Z",
-      remark: "abgebrochen" // Platz unbespielbar, Stand nach 45 min: 0:0
-    },
-    {
       teams: ["SCV", "LÜB"],
       goals: [4, 0],
       date: "2023-10-29T15:30Z"
@@ -676,6 +670,12 @@ const matches = {
       teams: ["SCF2", "AUE"],
       goals: [0, 1],
       date: "2023-10-29T18:30Z"
+    },
+    {
+      teams: ["FCS", "DRE"],
+      goals: [1, 0],
+      date: "2023-11-19T12:30Z",
+      remark: "abgebrochen" // Platz am 2023-10-29T12:30Z unbespielbar, Stand nach 45 min: 0:0
     }
   ],
   14: [
