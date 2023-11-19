@@ -399,12 +399,12 @@ const matches = {
     },
     {
       teams: ["HSV", "FCB2"],
-      goals: [null, null],
+      goals: [1, 4],
       date: "2023-11-19T13:00Z"
     },
     {
       teams: ["POT", "AND"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-11-19T13:00Z"
     }
   ],
