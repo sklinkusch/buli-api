@@ -253,7 +253,7 @@ const matches = {
     },
     {
       teams: ["SCF", "KÖL"],
-      goals: [null, null],
+      goals: [3, 3],
       date: "2023-11-20T18:30Z"
     }
   ]
