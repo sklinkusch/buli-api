@@ -615,12 +615,12 @@ const matches = {
   14: [
     {
       teams: ["HSV", "EBS"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-11-24T17:30Z"
     },
     {
       teams: ["H96", "BSC"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-11-24T17:30Z"
     },
     {
