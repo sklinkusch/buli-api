@@ -521,7 +521,7 @@ const matches = {
   12: [
     {
       teams: ["KÖL", "FCB"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-11-24T19:30Z"
     },
     {
