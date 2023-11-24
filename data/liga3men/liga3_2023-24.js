@@ -785,7 +785,7 @@ const matches = {
   16: [
     {
       teams: ["WMA", "SCV"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-11-24T18:00Z"
     },
     {
