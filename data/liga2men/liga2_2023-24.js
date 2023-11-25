@@ -640,7 +640,7 @@ const matches = {
     },
     {
       teams: ["DÜS", "S04"],
-      goals: [null, null],
+      goals: [5, 3],
       date: "2023-11-25T19:30Z"
     },
     {
