@@ -687,7 +687,7 @@ const matches = {
     },
     {
       teams: ["ERF", "BSC2"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "2023-11-25T13:00Z"
     },
     {
