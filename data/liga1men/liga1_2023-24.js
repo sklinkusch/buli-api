@@ -526,27 +526,27 @@ const matches = {
     },
     {
       teams: ["BVB", "MGL"],
-      goals: [null, null],
+      goals: [4, 2],
       date: "2023-11-25T14:30Z"
     },
     {
       teams: ["FCU", "FCA"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-11-25T14:30Z"
     },
     {
       teams: ["SCF", "D98"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-11-25T14:30Z"
     },
     {
       teams: ["WOB", "RBL"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-11-25T14:30Z"
     },
     {
       teams: ["SVW", "B04"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "2023-11-25T14:30Z"
     },
     {
