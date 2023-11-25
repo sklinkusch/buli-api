@@ -790,27 +790,27 @@ const matches = {
     },
     {
       teams: ["FCI", "RWE"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2023-11-25T13:00Z"
     },
     {
       teams: ["MÜN", "UHA"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-11-25T13:00Z"
     },
     {
       teams: ["SVS", "DUI"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-11-25T13:00Z"
     },
     {
       teams: ["AUE", "BVB2"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2023-11-25T13:00Z"
     },
     {
       teams: ["HFC", "FCS"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "2023-11-25T13:00Z"
     },
     {
