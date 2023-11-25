@@ -625,17 +625,17 @@ const matches = {
     },
     {
       teams: ["ROS", "STP"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "2023-11-25T12:00Z"
     },
     {
       teams: ["SVE", "P07"],
-      goals: [null, null],
+      goals: [4, 1],
       date: "2023-11-25T12:00Z"
     },
     {
       teams: ["OSN", "FCM"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "2023-11-25T12:00Z"
     },
     {
