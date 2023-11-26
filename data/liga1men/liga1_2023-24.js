@@ -561,7 +561,7 @@ const matches = {
     },
     {
       teams: ["HOF", "M05"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2023-11-26T16:30Z"
     }
   ],
