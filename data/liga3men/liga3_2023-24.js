@@ -830,7 +830,7 @@ const matches = {
     },
     {
       teams: ["PMS", "VKÖ"],
-      goals: [null, null],
+      goals: [3, 3],
       date: "2023-11-26T18:30Z"
     }
   ],
