@@ -702,7 +702,7 @@ const matches = {
     },
     {
       teams: ["AGL", "CZJ"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-11-26T12:00Z"
     }
   ]
