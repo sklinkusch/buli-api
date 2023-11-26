@@ -820,7 +820,7 @@ const matches = {
     },
     {
       teams: ["LÜB", "BIE"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-11-26T12:30Z"
     },
     {
