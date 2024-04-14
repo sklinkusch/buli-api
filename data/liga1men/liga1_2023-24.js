@@ -1354,14 +1354,14 @@ const matches = {
       date: "2024-04-13T16:30Z"
     },
     {
-      teams: ["B04", "SVW"],
-      goals: [null, null],
-      date: "13.04.24"
+      teams: ["D98", "SCF"],
+      goals: [0, 1],
+      date: "2024-04-14T13:30Z"
     },
     {
-      teams: ["D98", "SCF"],
+      teams: ["B04", "SVW"],
       goals: [null, null],
-      date: "13.04.24"
+      date: "2024-04-14T15:30Z"
     }
   ],
   30: [
