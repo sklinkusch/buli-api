@@ -1324,32 +1324,32 @@ const matches = {
       date: "2024-04-12T18:30Z"
     },
     {
-      teams: ["FCB", "KÖL"],
-      goals: [null, null],
-      date: "13.04.24"
+      teams: ["MGL", "BVB"],
+      goals: [1, 2],
+      date: "2024-04-13T13:30Z"
     },
     {
       teams: ["RBL", "WOB"],
-      goals: [null, null],
-      date: "13.04.24"
+      goals: [3, 0],
+      date: "2024-04-13T13:30Z"
     },
     {
-      teams: ["B04", "SVW"],
-      goals: [null, null],
-      date: "13.04.24"
+      teams: ["FCB", "KÖL"],
+      goals: [2, 0],
+      date: "2024-04-13T13:30Z"
     },
     {
       teams: ["M05", "HOF"],
-      goals: [null, null],
-      date: "13.04.24"
-    },
-    {
-      teams: ["MGL", "BVB"],
-      goals: [null, null],
-      date: "13.04.24"
+      goals: [4, 1],
+      date: "2024-04-13T13:30Z"
     },
     {
       teams: ["BOC", "FCH"],
+      goals: [1, 1],
+      date: "2024-04-13T13:30Z"
+    },
+    {
+      teams: ["B04", "SVW"],
       goals: [null, null],
       date: "13.04.24"
     },
