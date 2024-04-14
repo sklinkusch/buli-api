@@ -1319,6 +1319,11 @@ const matches = {
   ],
   29: [
     {
+      teams: ["FCA", "FCU"],
+      goals: [2, 0],
+      date: "2024-04-12T18:30Z"
+    },
+    {
       teams: ["FCB", "KÖL"],
       goals: [null, null],
       date: "13.04.24"
@@ -1345,11 +1350,6 @@ const matches = {
     },
     {
       teams: ["BOC", "FCH"],
-      goals: [null, null],
-      date: "13.04.24"
-    },
-    {
-      teams: ["FCA", "FCU"],
       goals: [null, null],
       date: "13.04.24"
     },
