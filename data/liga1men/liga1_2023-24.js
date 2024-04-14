@@ -1068,7 +1068,7 @@ const matches = {
     },
     {
       teams: ["SGE", "WOB"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2024-02-25T14:30Z"
     },
     {
