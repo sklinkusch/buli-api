@@ -1349,12 +1349,12 @@ const matches = {
       date: "2024-04-13T13:30Z"
     },
     {
-      teams: ["B04", "SVW"],
-      goals: [null, null],
-      date: "13.04.24"
+      teams: ["VfB", "SGE"],
+      goals: [3, 0],
+      date: "2024-04-13T16:30Z"
     },
     {
-      teams: ["VfB", "SGE"],
+      teams: ["B04", "SVW"],
       goals: [null, null],
       date: "13.04.24"
     },
