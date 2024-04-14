@@ -1131,49 +1131,49 @@ const matches = {
   ],
   25: [
     {
+      teams: ["VfB", "FCU"],
+      goals: [2, 0],
+      date: "2024-03-08T19:30Z"
+    },
+    {
       teams: ["FCB", "M05"],
-      goals: [null, null],
-      date: "09.03.24"
-    },
-    {
-      teams: ["RBL", "D98"],
-      goals: [null, null],
-      date: "09.03.24"
-    },
-    {
-      teams: ["B04", "WOB"],
-      goals: [null, null],
-      date: "09.03.24"
-    },
-    {
-      teams: ["SGE", "HOF"],
-      goals: [null, null],
-      date: "09.03.24"
+      goals: [8, 1],
+      date: "2024-03-09T14:30Z"
     },
     {
       teams: ["MGL", "KÖL"],
-      goals: [null, null],
-      date: "09.03.24"
-    },
-    {
-      teams: ["SVW", "BVB"],
-      goals: [null, null],
-      date: "09.03.24"
-    },
-    {
-      teams: ["BOC", "SCF"],
-      goals: [null, null],
-      date: "09.03.24"
+      goals: [3, 3],
+      date: "2024-03-09T14:30Z"
     },
     {
       teams: ["FCA", "FCH"],
-      goals: [null, null],
-      date: "09.03.24"
+      goals: [1, 0],
+      date: "2024-03-09T14:30Z"
     },
     {
-      teams: ["VfB", "FCU"],
-      goals: [null, null],
-      date: "09.03.24"
+      teams: ["RBL", "D98"],
+      goals: [2, 0],
+      date: "2024-03-09T14:30Z"
+    },
+    {
+      teams: ["SVW", "BVB"],
+      goals: [1, 2],
+      date: "2024-03-09T17:30Z"
+    },
+    {
+      teams: ["BOC", "SCF"],
+      goals: [1, 2],
+      date: "2024-03-10T14:30Z"
+    },
+    {
+      teams: ["SGE", "HOF"],
+      goals: [3, 1],
+      date: "2024-03-10T16:30Z"
+    },
+    {
+      teams: ["B04", "WOB"],
+      goals: [2, 0],
+      date: "2024-03-09T18:30Z"
     }
   ],
   26: [
