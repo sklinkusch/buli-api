@@ -708,49 +708,49 @@ const matches = {
   ],
   16: [
     {
+      teams: ["SVW", "RBL"],
+      goals: [1, 1],
+      date: "2023-12-19T17:30Z"
+    },
+    {
       teams: ["BVB", "M05"],
-      goals: [null, null],
-      date: "20.12.23"
-    },
-    {
-      teams: ["FCU", "KÖL"],
-      goals: [null, null],
-      date: "20.12.23"
-    },
-    {
-      teams: ["B04", "BOC"],
-      goals: [null, null],
-      date: "20.12.23"
-    },
-    {
-      teams: ["SGE", "MGL"],
-      goals: [null, null],
-      date: "20.12.23"
-    },
-    {
-      teams: ["WOB", "FCB"],
-      goals: [null, null],
-      date: "20.12.23"
+      goals: [1, 1],
+      date: "2023-12-19T19:30Z"
     },
     {
       teams: ["HOF", "D98"],
-      goals: [null, null],
-      date: "20.12.23"
+      goals: [3, 3],
+      date: "2023-12-19T19:30Z"
     },
     {
-      teams: ["SVW", "RBL"],
-      goals: [null, null],
-      date: "20.12.23"
+      teams: ["FCU", "KÖL"],
+      goals: [2, 0],
+      date: "2023-12-20T17:30Z"
+    },
+    {
+      teams: ["B04", "BOC"],
+      goals: [4, 0],
+      date: "2023-12-20T19:30Z"
+    },
+    {
+      teams: ["SGE", "MGL"],
+      goals: [2, 1],
+      date: "2023-12-20T19:30Z"
+    },
+    {
+      teams: ["WOB", "FCB"],
+      goals: [1, 2],
+      date: "2023-12-20T19:30Z"
     },
     {
       teams: ["VfB", "FCA"],
-      goals: [null, null],
-      date: "20.12.23"
+      goals: [3, 0],
+      date: "2023-12-20T19:30Z"
     },
     {
       teams: ["FCH", "SCF"],
-      goals: [null, null],
-      date: "20.12.23"
+      goals: [3, 2],
+      date: "2023-12-20T19:30Z"
     }
   ],
   17: [
