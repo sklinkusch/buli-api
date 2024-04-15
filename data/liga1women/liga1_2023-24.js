@@ -256,40 +256,40 @@ const matches = {
       goals: [3, 3],
       date: "2023-11-20T18:30Z"
     }
-  ]
-  /*9: [
-    {
-      teams: ["HOF", "FCB"],
-      goals: [null, null],
-      date: "2022-12-02T18:15Z"
-    },
-    {
-      teams: ["WOB", "SGE"],
-      goals: [null, null],
-      date: "2022-12-03T12:00Z"
-    },
-    {
-      teams: ["SCF", "DUI"],
-      goals: [null, null],
-      date: "2022-12-03T15:00Z"
-    },
-    {
-      teams: ["B04", "POT"],
-      goals: [null, null],
-      date: "2022-12-04T12:00Z"
-    },
-    {
-      teams: ["SVM", "KÖL"],
-      goals: [null, null],
-      date: "2022-12-04T12:00Z"
-    },
-    {
-      teams: ["ESS", "SVW"],
-      goals: [null, null],
-      date: "2022-12-04T15:00Z"
-    }
   ],
-  10: [
+  9: [
+    {
+      teams: ["RBL", "FCN"],
+      goals: [0, 0],
+      date: "2023-12-08T17:30Z"
+    },
+    {
+      teams: ["ESS", "SCF"],
+      goals: [0, 1],
+      date: "2023-12-09T11:00Z"
+    },
+    {
+      teams: ["KÖL", "WOB"],
+      goals: [1, 4],
+      date: "2023-12-09T13:00Z"
+    },
+    {
+      teams: ["SGE", "HOF"],
+      goals: [3, 1],
+      date: "2023-12-10T13:00Z"
+    },
+    {
+      teams: ["DUI", "SVW"],
+      goals: [0, 2],
+      date: "2023-12-10T17:30Z"
+    },
+    {
+      teams: ["FCB", "B04"],
+      goals: [3, 0],
+      date: "2023-12-11T18:30Z"
+    }
+  ]
+  /*10: [
     {
       teams: ["SGE", "POT"],
       goals: [null, null],
