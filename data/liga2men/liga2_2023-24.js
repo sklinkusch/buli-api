@@ -896,49 +896,49 @@ const matches = {
   ],
   20: [
     {
-      teams: ["S04", "EBS"],
-      goals: [null, null],
-      date: "04.02.24"
-    },
-    {
-      teams: ["BSC", "HSV"],
-      goals: [null, null],
-      date: "04.02.24"
-    },
-    {
-      teams: ["STP", "SGF"],
-      goals: [null, null],
-      date: "04.02.24"
-    },
-    {
-      teams: ["P07", "DÜS"],
-      goals: [null, null],
-      date: "04.02.24"
+      teams: ["FCM", "KIE"],
+      goals: [1, 1],
+      date: "2024-02-02T17:30Z"
     },
     {
       teams: ["KSC", "WIE"],
-      goals: [null, null],
-      date: "04.02.24"
+      goals: [2, 2],
+      date: "2024-02-02T17:30Z"
     },
     {
-      teams: ["H96", "ROS"],
-      goals: [null, null],
-      date: "04.02.24"
+      teams: ["STP", "SGF"],
+      goals: [3, 2],
+      date: "2024-02-03T12:00Z"
     },
     {
-      teams: ["FCM", "KIE"],
-      goals: [null, null],
-      date: "04.02.24"
+      teams: ["S04", "EBS"],
+      goals: [1, 0],
+      date: "2024-02-03T12:00Z"
     },
     {
       teams: ["FCN", "OSN"],
-      goals: [null, null],
-      date: "04.02.24"
+      goals: [2, 2],
+      date: "2024-02-03T12:00Z"
+    },
+    {
+      teams: ["BSC", "HSV"],
+      goals: [1, 2],
+      date: "2024-02-03T19:30Z"
+    },
+    {
+      teams: ["P07", "DÜS"],
+      goals: [4, 3],
+      date: "2024-02-04T12:30Z"
     },
     {
       teams: ["SVE", "FCK"],
-      goals: [null, null],
-      date: "04.02.24"
+      goals: [2, 1],
+      date: "2024-02-04T12:30Z"
+    },
+    {
+      teams: ["H96", "ROS"],
+      goals: [2, 1],
+      date: "2024-02-04T12:30Z"
     }
   ],
   21: [
