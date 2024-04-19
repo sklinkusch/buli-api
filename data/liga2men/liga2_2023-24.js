@@ -662,47 +662,47 @@ const matches = {
   15: [
     {
       teams: ["S04", "OSN"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "2023-12-01T17:30Z"
     },
     {
       teams: ["STP", "HSV"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-12-01T17:30Z"
     },
     {
       teams: ["KIE", "WIE"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "2023-12-02T12:00Z"
     },
     {
       teams: ["FCN", "DÜS"],
-      goals: [null, null],
+      goals: [0, 5],
       date: "2023-12-02T12:00Z"
     },
     {
       teams: ["EBS", "SGF"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2023-12-02T12:00Z"
     },
     {
       teams: ["FCM", "FCK"],
-      goals: [null, null],
+      goals: [4, 1],
       date: "2023-12-02T19:30Z"
     },
     {
       teams: ["BSC", "SVE"],
-      goals: [null, null],
+      goals: [5, 1],
       date: "2023-12-03T12:30Z"
     },
     {
       teams: ["P07", "H96"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2023-12-03T12:30Z"
     },
     {
       teams: ["KSC", "ROS"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2023-12-03T12:30Z"
     }
   ],
