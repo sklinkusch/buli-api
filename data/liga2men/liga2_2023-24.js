@@ -1079,7 +1079,7 @@ const matches = {
     {
       teams: ["HSV", "SVE"],
       goals: [1, 0],
-      date: "25.02.24"
+      date: "2024-02-25T12:30Z"
     }
   ],
   24: [
