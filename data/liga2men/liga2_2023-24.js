@@ -1366,6 +1366,16 @@ const matches = {
   ],
   30: [
     {
+      teams: ["SVE", "S04"],
+      goals: [1, 1],
+      date: "2024-04-19T16:30Z"
+    },
+    {
+      teams: ["FCN", "P07"],
+      goals: [0, 2],
+      date: "2024-04-19T16:30Z"
+    },
+    {
       teams: ["HSV", "KIE"],
       goals: [null, null],
       date: "21.04.24"
@@ -1392,16 +1402,6 @@ const matches = {
     },
     {
       teams: ["ROS", "FCM"],
-      goals: [null, null],
-      date: "21.04.24"
-    },
-    {
-      teams: ["FCN", "P07"],
-      goals: [null, null],
-      date: "21.04.24"
-    },
-    {
-      teams: ["SVE", "S04"],
       goals: [null, null],
       date: "21.04.24"
     },
