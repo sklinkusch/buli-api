@@ -1372,22 +1372,22 @@ const matches = {
     },
     {
       teams: ["FCH", "RBL"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2024-04-20T13:30Z"
     },
     {
       teams: ["HOF", "MGL"],
-      goals: [null, null],
+      goals: [4, 3],
       date: "2024-04-20T13:30Z"
     },
     {
       teams: ["WOB", "BOC"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2024-04-20T13:30Z"
     },
     {
       teams: ["KÖL", "D98"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "2024-04-20T13:30Z"
     },
     {
