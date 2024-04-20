@@ -1392,7 +1392,7 @@ const matches = {
     },
     {
       teams: ["HSV", "KIE"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2024-04-20T18:30Z"
     },
     {
