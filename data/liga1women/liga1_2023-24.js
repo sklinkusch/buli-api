@@ -585,7 +585,7 @@ const matches = {
     },
     {
       teams: ["ESS", "HOF"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2024-04-20T10:00Z"
     },
     {
