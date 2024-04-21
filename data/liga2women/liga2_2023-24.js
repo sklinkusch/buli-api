@@ -612,7 +612,7 @@ const matches = {
     {
       teams: ["SVM", "FCI"],
       goals: [2, 0],
-      date: "2024-03-17T10:00Z"
+      date: "2024-03-17T13:00Z"
     },
     {
       teams: ["SGE2", "HOF2"],
@@ -629,45 +629,45 @@ const matches = {
       goals: [0, 1],
       date: "2024-03-17T13:00Z"
     }
-  ]
-  /*18: [
-    {
-      teams: ["RBL", "FCB2"],
-      goals: [null, null],
-      date: "2023-03-26T09:00Z"
-    },
-    {
-      teams: ["SCF2", "FCN"],
-      goals: [null, null],
-      date: "2023-03-26T09:00Z"
-    },
-    {
-      teams: ["SAN", "FCI"],
-      goals: [null, null],
-      date: "2023-03-26T09:00Z"
-    },
-    {
-      teams: ["POT2", "AND"],
-      goals: [null, null],
-      date: "2023-03-26T09:00Z"
-    },
-    {
-      teams: ["WOB2", "HOF2"],
-      goals: [null, null],
-      date: "2023-03-26T09:00Z"
-    },
-    {
-      teams: ["SGE2", "KÖL2"],
-      goals: [null, null],
-      date: "2023-03-26T12:00Z"
-    },
-    {
-      teams: ["GTL", "CZJ"],
-      goals: [null, null],
-      date: "2023-03-26T12:00Z"
-    }
   ],
-  19: [
+  18: [
+    {
+      teams: ["MGL", "SAN"],
+      goals: [1, 1],
+      date: "2024-03-24T10:00Z"
+    },
+    {
+      teams: ["AND", "FCB2"],
+      goals: [2, 0],
+      date: "2024-03-24T10:00Z"
+    },
+    {
+      teams: ["WOB2", "SGE2"],
+      goals: [0, 0],
+      date: "2024-03-24T10:00Z"
+    },
+    {
+      teams: ["FCI", "CZJ"],
+      goals: [0, 4],
+      date: "2024-03-24T13:00Z"
+    },
+    {
+      teams: ["SVM", "HSV"],
+      goals: [4, 0],
+      date: "2024-03-24T13:00Z"
+    },
+    {
+      teams: ["HOF2", "WEI"],
+      goals: [0, 0],
+      date: "2024-03-24T13:00Z"
+    },
+    {
+      teams: ["POT", "GTL"],
+      goals: [2, 0],
+      date: "2024-03-24T13:00Z"
+    }
+  ]
+  /*19: [
     {
       teams: ["FCN", "GTL"],
       goals: [null, null],
