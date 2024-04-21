@@ -764,17 +764,17 @@ const matches = {
     },
     {
       teams: ["HSV", "WOB2"],
-      goals: [null, null],
+      goals: [4, 9],
       date: "2024-04-21T12:00Z"
     },
     {
       teams: ["SAN", "CZJ"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2024-04-21T12:00Z"
     },
     {
       teams: ["WEI", "AND"],
-      goals: [null, null],
+      goals: [1, 4],
       date: "2024-04-21T12:00Z"
     }
   ]
