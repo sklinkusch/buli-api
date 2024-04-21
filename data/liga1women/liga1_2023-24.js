@@ -600,7 +600,7 @@ const matches = {
     },
     {
       teams: ["DUI", "WOB"],
-      goals: [null, null],
+      goals: [1, 4],
       date: "2024-04-21T16:30Z"
     },
     {
