@@ -605,7 +605,7 @@ const matches = {
     },
     {
       teams: ["FCB", "SVW"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "2024-04-22T17:30Z"
     }
   ],
