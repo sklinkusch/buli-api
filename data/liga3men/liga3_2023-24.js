@@ -564,12 +564,12 @@ const matches = {
     },
     {
       teams: ["SCF2", "HFC"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2023-11-28T18:00Z"
     },
     {
       teams: ["FCS", "DUI"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2023-11-29T18:00Z"
     }
   ],
