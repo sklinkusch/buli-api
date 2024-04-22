@@ -752,7 +752,7 @@ const matches = {
       date: "2023-11-11T13:00Z"
     },
     {
-      teams: ["BIE", "FCS"],
+      teams: ["BIE", "SVS"],
       goals: [1, 1],
       date: "2023-11-11T13:00Z"
     },
