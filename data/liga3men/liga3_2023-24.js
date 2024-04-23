@@ -1197,60 +1197,60 @@ const matches = {
       goals: [1, 2],
       date: "2024-01-28T18:30Z"
     }
-  ]
-  /*24: [
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    },
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    },
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    },
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    },
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    },
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    },
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    },
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    },
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    },
-    {
-      teams: ["", ""],
-      goals: [null, null],
-      date: ""
-    }
   ],
-  25: [
+  24: [
+    {
+      teams: ["BVB2", "FCS"],
+      goals: [1, 1],
+      date: "2024-02-02T18:00Z"
+    },
+    {
+      teams: ["AUE", "MÜN"],
+      goals: [0, 0],
+      date: "2024-02-03T13:00Z"
+    },
+    {
+      teams: ["RWE", "SCF2"],
+      goals: [4, 3],
+      date: "2024-02-03T13:00Z"
+    },
+    {
+      teams: ["SVS", "HFC"],
+      goals: [1, 1],
+      date: "2024-02-03T13:00Z"
+    },
+    {
+      teams: ["UHA", "SCV"],
+      goals: [1, 0],
+      date: "2024-02-03T13:00Z"
+    },
+    {
+      teams: ["LÜB", "ULM"],
+      goals: [1, 1],
+      date: "2024-02-03T13:00Z"
+    },
+    {
+      teams: ["BIE", "VKÖ"],
+      goals: [0, 2],
+      date: "2024-02-03T15:30Z"
+    },
+    {
+      teams: ["FCI", "DRE"],
+      goals: [2, 1],
+      date: "2024-02-04T12:30Z"
+    },
+    {
+      teams: ["WMA", "PMS"],
+      goals: [2, 2],
+      date: "2024-02-04T15:30Z"
+    },
+    {
+      teams: ["DUI", "JRE"],
+      goals: [0, 1],
+      date: "2024-02-04T18:30Z"
+    }
+  ]
+  /*25: [
     {
       teams: ["", ""],
       goals: [null, null],
