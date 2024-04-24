@@ -1222,55 +1222,55 @@ const matches = {
       goals: [0, 1],
       date: "2024-03-17T12:30Z"
     }
-  ]
-  /*27: [
-    {
-      teams: ["VBL", "ECB"],
-      goals: [null, null],
-      date: "05.04.23"
-    },
-    {
-      teams: ["LKL", "AGL"],
-      goals: [null, null],
-      date: "06.04.23"
-    },
-    {
-      teams: ["BSC2", "CHL"],
-      goals: [null, null],
-      date: "06.04.23"
-    },
-    {
-      teams: ["SVB", "BFC"],
-      goals: [null, null],
-      date: "06.04.23"
-    },
-    {
-      teams: ["BAK", "ZFC"],
-      goals: [null, null],
-      date: "07.04.23"
-    },
-    {
-      teams: ["TBB", "ERF"],
-      goals: [null, null],
-      date: "07.04.23"
-    },
-    {
-      teams: ["CFC", "L47"],
-      goals: [null, null],
-      date: "08.04.23"
-    },
-    {
-      teams: ["GFC", "HBS"],
-      goals: [null, null],
-      date: "08.04.23"
-    },
-    {
-      teams: ["CZJ", "LUC"],
-      goals: [null, null],
-      date: "09.04.23"
-    }
   ],
-  28: [
+  27: [
+    {
+      teams: ["LUC", "BFC"],
+      goals: [2, 0],
+      date: "2024-03-28T18:00Z"
+    },
+    {
+      teams: ["ERF", "GFC"],
+      goals: [1, 1],
+      date: "2024-03-28T18:00Z"
+    },
+    {
+      teams: ["BSC2", "LKL"],
+      goals: [1, 1],
+      date: "2024-03-29T12:00Z"
+    },
+    {
+      teams: ["BAK", "AGL"],
+      goals: [1, 2],
+      date: "2024-03-30T12:00Z"
+    },
+    {
+      teams: ["ROS2", "CZJ"],
+      goals: [1, 3],
+      date: "2024-03-30T12:00Z"
+    },
+    {
+      teams: ["VBL", "SVB"],
+      goals: [1, 1],
+      date: "2024-03-31T11:00Z"
+    },
+    {
+      teams: ["CFC", "ZWI"],
+      goals: [2, 0],
+      date: "2024-03-31T12:00Z"
+    },
+    {
+      teams: ["ECB", "EIL"],
+      goals: [2, 1],
+      date: "2024-04-01T11:00Z"
+    },
+    {
+      teams: ["CHL", "ZFC"],
+      goals: [2, 1],
+      date: "2024-04-01T11:00Z"
+    }
+  ]
+  /*28: [
     {
       teams: ["BAK", "SVB"],
       goals: [null, null],
