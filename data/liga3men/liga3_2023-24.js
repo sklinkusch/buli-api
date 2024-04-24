@@ -1769,215 +1769,215 @@ const matches = {
       goals: [1, 0],
       date: "2024-04-21T17:30Z"
     }
-  ]
-  /*35: [
+  ],
+  35: [
     {
-      teams: ["", ""],
+      teams: ["BIE", "LÜB"],
       goals: [null, null],
-      date: ""
+      date: "2024-04-26T17:00Z"
     },
     {
-      teams: ["", ""],
+      teams: ["JRE", "DRE"],
       goals: [null, null],
-      date: ""
+      date: "2024-04-27T12:00Z"
     },
     {
-      teams: ["", ""],
+      teams: ["DUI", "SVS"],
       goals: [null, null],
-      date: ""
+      date: "2024-04-27T12:00Z"
     },
     {
-      teams: ["", ""],
+      teams: ["BVB2", "AUE"],
       goals: [null, null],
-      date: ""
+      date: "2024-04-27T12:00Z"
     },
     {
-      teams: ["", ""],
+      teams: ["VKÖ", "PMS"],
       goals: [null, null],
-      date: ""
+      date: "2024-04-27T12:00Z"
     },
     {
-      teams: ["", ""],
+      teams: ["FCS", "HFC"],
       goals: [null, null],
-      date: ""
+      date: "2024-04-27T12:00Z"
     },
     {
-      teams: ["", ""],
+      teams: ["SCV", "WMA"],
       goals: [null, null],
-      date: ""
+      date: "2024-04-27T14:30Z"
     },
     {
-      teams: ["", ""],
+      teams: ["RWE", "FCI"],
       goals: [null, null],
-      date: ""
+      date: "2024-04-28T11:30Z"
     },
     {
-      teams: ["", ""],
+      teams: ["SCF2", "ULM"],
       goals: [null, null],
-      date: ""
+      date: "2024-04-28T14:30Z"
     },
     {
-      teams: ["", ""],
+      teams: ["UHA", "MÜN"],
       goals: [null, null],
-      date: ""
+      date: "2024-04-28T17:30Z"
     }
   ],
   36: [
     {
-      teams: ["", ""],
+      teams: ["LÜB", "DUI"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-03T17:00Z"
     },
     {
-      teams: ["", ""],
+      teams: ["SCF2", "JRE"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-04T12:00Z"
     },
     {
-      teams: ["", ""],
+      teams: ["MÜN", "BVB2"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-04T12:00Z"
     },
     {
-      teams: ["", ""],
+      teams: ["DRE", "SCV"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-04T12:00Z"
     },
     {
-      teams: ["", ""],
+      teams: ["AUE", "BIE"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-04T12:00Z"
     },
     {
-      teams: ["", ""],
+      teams: ["ULM", "VKÖ"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-04T12:00Z"
     },
     {
-      teams: ["", ""],
+      teams: ["SVS", "RWE"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-04T14:30Z"
     },
     {
-      teams: ["", ""],
+      teams: ["PMS", "FCS"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-05T11:30Z"
     },
     {
-      teams: ["", ""],
+      teams: ["HFC", "UHA"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-05T14:30Z"
     },
     {
-      teams: ["", ""],
+      teams: ["FCI", "WMA"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-05T17:30Z"
     }
   ],
   37: [
     {
-      teams: ["", ""],
+      teams: ["RWE", "MÜN"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-10T17:00Z"
     },
     {
-      teams: ["", ""],
+      teams: ["BIE", "HFC"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-11T12:00Z"
     },
     {
-      teams: ["", ""],
+      teams: ["BVB2", "ULM"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-11T12:00Z"
     },
     {
-      teams: ["", ""],
+      teams: ["VKÖ", "JRE"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-11T12:00Z"
     },
     {
-      teams: ["", ""],
+      teams: ["UHA", "DRE"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-11T12:00Z"
     },
     {
-      teams: ["", ""],
+      teams: ["FCI", "LÜB"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-11T12:00Z"
     },
     {
-      teams: ["", ""],
+      teams: ["WMA", "SVS"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-11T14:30Z"
     },
     {
-      teams: ["", ""],
+      teams: ["DUI", "AUE"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-12T11:30Z"
     },
     {
-      teams: ["", ""],
+      teams: ["SCV", "PMS"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-12T14:30Z"
     },
     {
-      teams: ["", ""],
+      teams: ["FCS", "SCF2"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-12T17:30Z"
     }
   ],
   38: [
     {
-      teams: ["", ""],
+      teams: ["JRE", "FCS"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-18T11:30Z"
     },
     {
-      teams: ["", ""],
+      teams: ["LÜB", "RWE"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-18T11:30Z"
     },
     {
-      teams: ["", ""],
+      teams: ["HFC", "BVB2"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-18T11:30Z"
     },
     {
-      teams: ["", ""],
+      teams: ["MÜN", "BIE"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-18T11:30Z"
     },
     {
-      teams: ["", ""],
+      teams: ["AUE", "WMA"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-18T11:30Z"
     },
     {
-      teams: ["", ""],
+      teams: ["DRE", "DUI"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-18T11:30Z"
     },
     {
-      teams: ["", ""],
+      teams: ["SVS", "FCI"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-18T11:30Z"
     },
     {
-      teams: ["", ""],
+      teams: ["PMS", "UHA"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-18T11:30Z"
     },
     {
-      teams: ["", ""],
+      teams: ["ULM", "SCV"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-18T11:30Z"
     },
     {
-      teams: ["", ""],
+      teams: ["SCF2", "VKÖ"],
       goals: [null, null],
-      date: ""
+      date: "2024-05-18T11:30Z"
     }
-  ]*/
+  ]
 };
 
 const table = makeTable(matches);
