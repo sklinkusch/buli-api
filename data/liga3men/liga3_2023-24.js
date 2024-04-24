@@ -1610,7 +1610,7 @@ const matches = {
     },
     {
       teams: ["FCS", "RWE"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2024-04-24T17:00Z"
     }
   ],
