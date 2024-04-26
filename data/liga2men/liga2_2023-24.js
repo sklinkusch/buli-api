@@ -1414,12 +1414,12 @@ const matches = {
   31: [
     {
       teams: ["BSC", "H96"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2024-04-26T16:30Z"
     },
     {
       teams: ["STP", "ROS"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2024-04-26T16:30Z"
     },
     {
