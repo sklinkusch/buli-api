@@ -1414,17 +1414,17 @@ const matches = {
   31: [
     {
       teams: ["AGL", "EIL"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "2024-04-26T17:00Z"
     },
     {
       teams: ["ROS2", "BFC"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "2024-04-26T17:00Z"
     },
     {
       teams: ["CHL", "SVB"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2024-04-26T17:00Z"
     },
     {
