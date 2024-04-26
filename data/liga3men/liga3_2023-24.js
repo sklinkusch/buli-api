@@ -1773,7 +1773,7 @@ const matches = {
   35: [
     {
       teams: ["BIE", "LÜB"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2024-04-26T17:00Z"
     },
     {
