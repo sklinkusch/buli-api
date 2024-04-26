@@ -1414,7 +1414,7 @@ const matches = {
   31: [
     {
       teams: ["BOC", "HOF"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "2024-04-26T18:30Z"
     },
     {
