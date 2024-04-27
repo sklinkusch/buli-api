@@ -1424,17 +1424,17 @@ const matches = {
     },
     {
       teams: ["EBS", "HSV"],
-      goals: [null, null],
+      goals: [0, 4],
       date: "2024-04-27T11:00Z"
     },
     {
       teams: ["KIE", "FCK"],
-      goals: [null, null],
+      goals: [1, 3],
       date: "2024-04-27T11:00Z"
     },
     {
       teams: ["P07", "SVE"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2024-04-27T11:00Z"
     },
     {
