@@ -1803,7 +1803,7 @@ const matches = {
     },
     {
       teams: ["SCV", "WMA"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2024-04-27T14:30Z"
     },
     {
