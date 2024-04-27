@@ -1439,7 +1439,7 @@ const matches = {
     },
     {
       teams: ["S04", "DÜS"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2024-04-27T18:30Z"
     },
     {
