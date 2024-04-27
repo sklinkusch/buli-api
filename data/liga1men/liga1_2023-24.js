@@ -1419,22 +1419,22 @@ const matches = {
     },
     {
       teams: ["RBL", "BVB"],
-      goals: [null, null],
+      goals: [4, 1],
       date: "2024-04-27T13:30Z"
     },
     {
       teams: ["FCB", "SGE"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2024-04-27T13:30Z"
     },
     {
       teams: ["SCF", "WOB"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2024-04-27T13:30Z"
     },
     {
       teams: ["FCA", "SVW"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "2024-04-27T13:30Z"
     },
     {
