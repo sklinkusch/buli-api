@@ -1429,12 +1429,12 @@ const matches = {
     },
     {
       teams: ["CFC", "ZFC"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2024-04-27T11:00Z"
     },
     {
       teams: ["ERF", "LUC"],
-      goals: [null, null],
+      goals: [5, 2],
       date: "2024-04-27T11:00Z"
     },
     {
