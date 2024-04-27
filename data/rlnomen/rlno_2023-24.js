@@ -1439,7 +1439,7 @@ const matches = {
     },
     {
       teams: ["ECB", "LKL"],
-      goals: [null, null],
+      goals: [4, 3],
       date: "2024-04-27T14:00Z"
     },
     {
