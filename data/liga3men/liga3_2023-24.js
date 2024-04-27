@@ -1778,27 +1778,27 @@ const matches = {
     },
     {
       teams: ["JRE", "DRE"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2024-04-27T12:00Z"
     },
     {
       teams: ["DUI", "SVS"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2024-04-27T12:00Z"
     },
     {
       teams: ["BVB2", "AUE"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2024-04-27T12:00Z"
     },
     {
       teams: ["VKÖ", "PMS"],
-      goals: [null, null],
+      goals: [3, 5],
       date: "2024-04-27T12:00Z"
     },
     {
       teams: ["FCS", "HFC"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2024-04-27T12:00Z"
     },
     {
