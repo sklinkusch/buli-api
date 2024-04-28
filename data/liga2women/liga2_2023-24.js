@@ -781,22 +781,22 @@ const matches = {
   22: [
     {
       teams: ["MGL", "WEI"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2024-04-28T09:00Z"
     },
     {
       teams: ["CZJ", "FCB2"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2024-04-28T09:00Z"
     },
     {
       teams: ["FCI", "SGE2"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2024-04-28T09:00Z"
     },
     {
       teams: ["SAN", "HSV"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2024-04-28T09:00Z"
     },
     {
