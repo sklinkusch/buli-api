@@ -1818,7 +1818,7 @@ const matches = {
     },
     {
       teams: ["UHA", "MÜN"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2024-04-28T17:30Z"
     }
   ],
