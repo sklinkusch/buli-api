@@ -1444,7 +1444,7 @@ const matches = {
     },
     {
       teams: ["MGL", "FCU"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2024-04-28T13:30Z"
     },
     {
