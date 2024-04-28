@@ -1449,7 +1449,7 @@ const matches = {
     },
     {
       teams: ["M05", "KÖL"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2024-04-28T15:30Z"
     },
     {
