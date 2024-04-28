@@ -1813,7 +1813,7 @@ const matches = {
     },
     {
       teams: ["SCF2", "ULM"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2024-04-28T14:30Z"
     },
     {
