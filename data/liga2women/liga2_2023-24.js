@@ -801,17 +801,17 @@ const matches = {
     },
     {
       teams: ["AND", "HOF2"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2024-04-28T12:00Z"
     },
     {
       teams: ["SVM", "GTL"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2024-04-28T12:00Z"
     },
     {
       teams: ["POT", "WOB2"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2024-04-28T12:00Z"
     }
   ],
