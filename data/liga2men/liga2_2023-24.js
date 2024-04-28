@@ -1444,17 +1444,17 @@ const matches = {
     },
     {
       teams: ["FCN", "KSC"],
-      goals: [null, null],
-      date: "2024-04-28T11:0Z"
+      goals: [0, 1],
+      date: "2024-04-28T11:30Z"
     },
     {
       teams: ["WIE", "SGF"],
-      goals: [null, null],
+      goals: [3, 5],
       date: "2024-04-28T11:30Z"
     },
     {
       teams: ["FCM", "OSN"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2024-04-28T11:30Z"
     }
   ],
