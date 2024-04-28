@@ -1444,17 +1444,17 @@ const matches = {
     },
     {
       teams: ["VBL", "BSC2"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "2024-04-28T11:00Z"
     },
     {
       teams: ["BAK", "GFC"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2024-04-28T11:00Z"
     },
     {
       teams: ["ZWI", "CZJ"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2024-04-28T11:00Z"
     }
   ],
