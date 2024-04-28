@@ -1454,7 +1454,7 @@ const matches = {
     },
     {
       teams: ["D98", "FCH"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2024-04-28T17:30Z"
     }
   ],
