@@ -1461,12 +1461,12 @@ const matches = {
   32: [
     {
       teams: ["HSV", "STP"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2024-05-03T16:30Z"
     },
     {
       teams: ["DÜS", "FCN"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2024-05-03T16:30Z"
     },
     {
