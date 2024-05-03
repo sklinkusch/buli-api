@@ -1825,7 +1825,7 @@ const matches = {
   36: [
     {
       teams: ["LÜB", "DUI"],
-      goals: [null, null],
+      goals: [5, 3],
       date: "2024-05-03T17:00Z"
     },
     {
