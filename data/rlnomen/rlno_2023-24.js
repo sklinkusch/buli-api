@@ -1461,17 +1461,17 @@ const matches = {
   32: [
     {
       teams: ["EIL", "ZFC"],
-      goals: [null, null],
+      goals: [0, 2],
       date: "2024-05-03T17:00Z"
     },
     {
       teams: ["SVB", "BAK"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "2024-05-03T17:00Z"
     },
     {
       teams: ["BSC2", "ERF"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2024-05-03T17:00Z"
     },
     {
