@@ -1466,22 +1466,22 @@ const matches = {
     },
     {
       teams: ["VfB", "FCB"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2024-05-04T13:30Z"
     },
     {
       teams: ["SVW", "MGL"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2024-05-04T13:30Z"
     },
     {
       teams: ["BVB", "FCA"],
-      goals: [null, null],
+      goals: [5, 1],
       date: "2024-05-04T13:30Z"
     },
     {
       teams: ["WOB", "D98"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "2024-05-04T13:30Z"
     },
     {
