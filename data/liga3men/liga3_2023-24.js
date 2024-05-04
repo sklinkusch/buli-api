@@ -1830,27 +1830,27 @@ const matches = {
     },
     {
       teams: ["SCF2", "JRE"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2024-05-04T12:00Z"
     },
     {
       teams: ["MÜN", "BVB2"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2024-05-04T12:00Z"
     },
     {
       teams: ["DRE", "SCV"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2024-05-04T12:00Z"
     },
     {
       teams: ["AUE", "BIE"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2024-05-04T12:00Z"
     },
     {
       teams: ["ULM", "VKÖ"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2024-05-04T12:00Z"
     },
     {
