@@ -1486,7 +1486,7 @@ const matches = {
     },
     {
       teams: ["KÖL", "SCF"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2024-05-04T16:30Z"
     },
     {
