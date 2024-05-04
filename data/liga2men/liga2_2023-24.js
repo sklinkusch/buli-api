@@ -1470,18 +1470,13 @@ const matches = {
       date: "2024-05-03T16:30Z"
     },
     {
-      teams: ["OSN", "S04"],
-      goals: [null, null],
-      date: "2024-05-04T11:00Z"
-    },
-    {
       teams: ["ROS", "KSC"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2024-05-04T11:00Z"
     },
     {
       teams: ["SGF", "EBS"],
-      goals: [null, null],
+      goals: [3, 3],
       date: "2024-05-04T11:00Z"
     },
     {
@@ -1503,6 +1498,11 @@ const matches = {
       teams: ["WIE", "KIE"],
       goals: [null, null],
       date: "2024-05-05T11:30Z"
+    },
+    {
+      teams: ["OSN", "S04"],
+      goals: [null, null],
+      date: "2024-05-07T16:30Z"
     }
   ],
   33: [
