@@ -1476,7 +1476,7 @@ const matches = {
     },
     {
       teams: ["CZJ", "AGL"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2024-05-04T11:00Z"
     },
     {
