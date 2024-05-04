@@ -622,7 +622,7 @@ const matches = {
     },
     {
       teams: ["HOF", "SGE"],
-      goals: [null, null],
+      goals: [1, 3],
       date: "2024-05-04T12:00Z"
     },
     {
