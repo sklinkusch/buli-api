@@ -1855,7 +1855,7 @@ const matches = {
     },
     {
       teams: ["SVS", "RWE"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2024-05-04T14:30Z"
     },
     {
