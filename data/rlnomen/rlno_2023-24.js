@@ -1486,17 +1486,17 @@ const matches = {
     },
     {
       teams: ["VBL", "CFC"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2024-05-05T11:00Z"
     },
     {
       teams: ["GFC", "ZWI"],
-      goals: [null, null],
+      goals: [4, 2],
       date: "2024-05-05T11:00Z"
     },
     {
       teams: ["LUC", "ROS2"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2024-05-05T11:00Z"
     },
     {
