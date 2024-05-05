@@ -848,7 +848,7 @@ const matches = {
     },
     {
       teams: ["WEI", "FCI"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2024-05-05T12:00Z"
     }
   ],
