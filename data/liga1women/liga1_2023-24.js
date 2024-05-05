@@ -632,7 +632,7 @@ const matches = {
     },
     {
       teams: ["SVW", "DUI"],
-      goals: [null, null],
+      goals: [4, 2],
       date: "2024-05-05T16:30Z"
     },
     {
