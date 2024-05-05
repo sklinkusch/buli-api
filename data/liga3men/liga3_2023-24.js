@@ -1865,7 +1865,7 @@ const matches = {
     },
     {
       teams: ["HFC", "UHA"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2024-05-05T14:30Z"
     },
     {
