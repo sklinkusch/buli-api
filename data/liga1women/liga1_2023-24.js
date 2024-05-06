@@ -637,7 +637,7 @@ const matches = {
     },
     {
       teams: ["FCN", "RBL"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2024-05-06T17:30Z"
     }
   ],
