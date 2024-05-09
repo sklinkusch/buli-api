@@ -1501,7 +1501,7 @@ const matches = {
     },
     {
       teams: ["OSN", "S04"],
-      goals: [null, null],
+      goals: [0, 4],
       date: "2024-05-07T16:30Z"
     }
   ],
