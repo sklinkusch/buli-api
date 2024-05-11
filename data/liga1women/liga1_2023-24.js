@@ -644,7 +644,7 @@ const matches = {
   21: [
     {
       teams: ["RBL", "HOF"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "2024-05-10T16:30Z"
     },
     {
