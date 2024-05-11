@@ -1877,7 +1877,7 @@ const matches = {
   37: [
     {
       teams: ["RWE", "MÜN"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2024-05-10T17:00Z"
     },
     {
