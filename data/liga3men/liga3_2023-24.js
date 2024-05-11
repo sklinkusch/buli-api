@@ -1882,27 +1882,27 @@ const matches = {
     },
     {
       teams: ["BIE", "HFC"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2024-05-11T12:00Z"
     },
     {
       teams: ["BVB2", "ULM"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2024-05-11T12:00Z"
     },
     {
       teams: ["VKÖ", "JRE"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2024-05-11T12:00Z"
     },
     {
       teams: ["UHA", "DRE"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2024-05-11T12:00Z"
     },
     {
       teams: ["FCI", "LÜB"],
-      goals: [null, null],
+      goals: [6, 1],
       date: "2024-05-11T12:00Z"
     },
     {
