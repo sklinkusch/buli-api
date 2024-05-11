@@ -1907,7 +1907,7 @@ const matches = {
     },
     {
       teams: ["WMA", "SVS"],
-      goals: [null, null],
+      goals: [4, 2],
       date: "2024-05-11T14:30Z"
     },
     {
