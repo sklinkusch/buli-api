@@ -1533,7 +1533,7 @@ const matches = {
     },
     {
       teams: ["KIE", "DÜS"],
-      goals: [null, null],
+      goals: [1, 1],
       date: "2024-05-11T18:30Z"
     },
     {
