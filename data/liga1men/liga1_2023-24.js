@@ -1533,7 +1533,7 @@ const matches = {
     },
     {
       teams: ["M05", "BVB"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "2024-05-11T16:30Z"
     },
     {
