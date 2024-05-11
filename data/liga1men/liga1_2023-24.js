@@ -1508,7 +1508,7 @@ const matches = {
   33: [
     {
       teams: ["FCA", "VfB"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2024-05-10T18:30Z"
     },
     {
