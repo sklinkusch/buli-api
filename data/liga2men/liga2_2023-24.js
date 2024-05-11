@@ -1518,17 +1518,17 @@ const matches = {
     },
     {
       teams: ["BSC", "FCK"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2024-05-11T11:00Z"
     },
     {
       teams: ["S04", "ROS"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2024-05-11T11:00Z"
     },
     {
       teams: ["FCN", "SVE"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "2024-05-11T11:00Z"
     },
     {
