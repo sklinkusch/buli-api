@@ -1912,7 +1912,7 @@ const matches = {
     },
     {
       teams: ["DUI", "AUE"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2024-05-12T11:30Z"
     },
     {
