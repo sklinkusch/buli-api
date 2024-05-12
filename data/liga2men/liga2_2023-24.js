@@ -1538,17 +1538,17 @@ const matches = {
     },
     {
       teams: ["KSC", "H96"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2024-05-12T11:30Z"
     },
     {
       teams: ["STP", "OSN"],
-      goals: [null, null],
+      goals: [3, 1],
       date: "2024-05-12T11:30Z"
     },
     {
       teams: ["EBS", "WIE"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2024-05-12T11:30Z"
     }
   ],
