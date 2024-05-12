@@ -855,27 +855,27 @@ const matches = {
   24: [
     {
       teams: ["MGL", "WOB2"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2024-05-12T09:00Z"
     },
     {
       teams: ["CZJ", "SGE2"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "2024-05-12T09:00Z"
     },
     {
       teams: ["SAN", "GTL"],
-      goals: [null, null],
+      goals: [0, 0],
       date: "2024-05-12T09:00Z"
     },
     {
       teams: ["AND", "POT"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2024-05-12T09:00Z"
     },
     {
       teams: ["SVM", "WEI"],
-      goals: [null, null],
+      goals: [3, 0],
       date: "2024-05-12T09:00Z"
     },
     {
