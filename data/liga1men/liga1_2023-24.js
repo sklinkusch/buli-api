@@ -1543,7 +1543,7 @@ const matches = {
     },
     {
       teams: ["FCB", "WOB"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2024-05-12T15:30Z"
     },
     {
