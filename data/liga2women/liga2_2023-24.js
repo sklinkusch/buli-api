@@ -880,12 +880,12 @@ const matches = {
     },
     {
       teams: ["FCB2", "HSV"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2024-05-12T12:00Z"
     },
     {
       teams: ["FCI", "HOF2"],
-      goals: [null, null],
+      goals: [1, 4],
       date: "2024-05-12T12:00Z"
     }
   ],
