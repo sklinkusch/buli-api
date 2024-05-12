@@ -1917,7 +1917,7 @@ const matches = {
     },
     {
       teams: ["SCV", "PMS"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2024-05-12T14:30Z"
     },
     {
