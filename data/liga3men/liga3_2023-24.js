@@ -1922,7 +1922,7 @@ const matches = {
     },
     {
       teams: ["FCS", "SCF2"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2024-05-12T17:30Z"
     }
   ],
