@@ -892,7 +892,7 @@ const matches = {
   25: [
     {
       teams: ["POT", "MGL"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2024-05-18T12:00Z"
     },
     {
