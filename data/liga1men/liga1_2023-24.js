@@ -1555,47 +1555,47 @@ const matches = {
   34: [
     {
       teams: ["HOF", "FCB"],
-      goals: [null, null],
+      goals: [4, 2],
       date: "2024-05-18T13:30Z"
     },
     {
       teams: ["SGE", "RBL"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2024-05-18T13:30Z"
     },
     {
       teams: ["FCU", "SCF"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2024-05-18T13:30Z"
     },
     {
       teams: ["WOB", "M05"],
-      goals: [null, null],
+      goals: [1, 3],
       date: "2024-05-18T13:30Z"
     },
     {
       teams: ["VfB", "MGL"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "2024-05-18T13:30Z"
     },
     {
       teams: ["FCH", "KÖL"],
-      goals: [null, null],
+      goals: [4, 1],
       date: "2024-05-18T13:30Z"
     },
     {
       teams: ["SVW", "BOC"],
-      goals: [null, null],
+      goals: [4, 1],
       date: "2024-05-18T13:30Z"
     },
     {
       teams: ["B04", "FCA"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2024-05-18T13:30Z"
     },
     {
       teams: ["BVB", "D98"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "2024-05-18T13:30Z"
     }
   ]
