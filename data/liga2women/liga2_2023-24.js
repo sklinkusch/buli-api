@@ -917,12 +917,12 @@ const matches = {
     },
     {
       teams: ["SGE2", "SAN"],
-      goals: [null, null],
+      goals: [1, 0],
       date: "2024-05-19T12:00Z"
     },
     {
       teams: ["WEI", "CZJ"],
-      goals: [null, null],
+      goals: [0, 4],
       date: "2024-05-19T12:00Z"
     }
   ],
