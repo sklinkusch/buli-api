@@ -1555,47 +1555,47 @@ const matches = {
   34: [
     {
       teams: ["SGF", "S04"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2024-05-19T13:30Z"
     },
     {
       teams: ["OSN", "BSC"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2024-05-19T13:30Z"
     },
     {
       teams: ["WIE", "STP"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2024-05-19T13:30Z"
     },
     {
       teams: ["ROS", "P07"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2024-05-19T13:30Z"
     },
     {
       teams: ["SVE", "KSC"],
-      goals: [null, null],
+      goals: [0, 3],
       date: "2024-05-19T13:30Z"
     },
     {
       teams: ["H96", "KIE"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2024-05-19T13:30Z"
     },
     {
       teams: ["DÜS", "FCM"],
-      goals: [null, null],
+      goals: [3, 2],
       date: "2024-05-19T13:30Z"
     },
     {
       teams: ["HSV", "FCN"],
-      goals: [null, null],
+      goals: [4, 1],
       date: "2024-05-19T13:30Z"
     },
     {
       teams: ["FCK", "EBS"],
-      goals: [null, null],
+      goals: [5, 0],
       date: "2024-05-19T13:30Z"
     }
   ]
