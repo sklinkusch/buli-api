@@ -1595,7 +1595,7 @@ const matches = {
     },
     {
       teams: ["VBL", "ROS2"],
-      goals: [null, null],
+      goals: [2, 2],
       date: "2024-05-19T15:30Z"
     }
   ]
