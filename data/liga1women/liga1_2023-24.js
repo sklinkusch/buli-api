@@ -676,32 +676,32 @@ const matches = {
   22: [
     {
       teams: ["KÖL", "SGE"],
-      goals: [null, null],
+      goals: [0, 1],
       date: "2024-05-20T13:30Z"
     },
     {
       teams: ["FCN", "DUI"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2024-05-20T13:30Z"
     },
     {
       teams: ["B04", "SVW"],
-      goals: [null, null],
+      goals: [2, 3],
       date: "2024-05-20T13:30Z"
     },
     {
       teams: ["SCF", "RBL"],
-      goals: [null, null],
+      goals: [2, 1],
       date: "2024-05-20T13:30Z"
     },
     {
       teams: ["HOF", "FCB"],
-      goals: [null, null],
+      goals: [1, 4],
       date: "2024-05-20T13:30Z"
     },
     {
       teams: ["WOB", "ESS"],
-      goals: [null, null],
+      goals: [6, 0],
       date: "2024-05-20T13:30Z"
     }
   ]
