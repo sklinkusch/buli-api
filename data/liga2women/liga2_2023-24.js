@@ -764,7 +764,7 @@ const matches = {
     },
     {
       teams: ["HSV", "WOB2"],
-      goals: [4, 9],
+      goals: [4, 0],
       date: "2024-04-21T12:00Z"
     },
     {
@@ -929,37 +929,37 @@ const matches = {
   26: [
     {
       teams: ["FCB2", "SGE2"],
-      goals: [null, null],
+      goals: [4, 0],
       date: "2024-05-26T12:00Z"
     },
     {
       teams: ["MGL", "AND"],
-      goals: [null, null],
+      goals: [4, 3],
       date: "2024-05-26T12:00Z"
     },
     {
       teams: ["CZJ", "HOF2"],
-      goals: [null, null],
+      goals: [2, 0],
       date: "2024-05-26T12:00Z"
     },
     {
       teams: ["FCI", "POT"],
-      goals: [null, null],
+      goals: [1, 2],
       date: "2024-05-26T12:00Z"
     },
     {
       teams: ["HSV", "GTL"],
-      goals: [null, null],
+      goals: [4, 1],
       date: "2024-05-26T12:00Z"
     },
     {
       teams: ["SAN", "WEI"],
-      goals: [null, null],
+      goals: [5, 4],
       date: "2024-05-26T12:00Z"
     },
     {
       teams: ["SVM", "WOB2"],
-      goals: [null, null],
+      goals: [5, 1],
       date: "2024-05-26T12:00Z"
     }
   ]
